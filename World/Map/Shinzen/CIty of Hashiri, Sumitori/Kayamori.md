@@ -1,0 +1,4 @@
+---
+author: Kit
+---
+[[Kaidō Ward]]

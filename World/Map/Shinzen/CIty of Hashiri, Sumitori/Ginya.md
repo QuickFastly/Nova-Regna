@@ -1,0 +1,4 @@
+---
+author: Kit
+---
+[[Kanjō Ward]]

@@ -106,3 +106,5 @@ There are four admonition templates available to insert eye-catching colored tex
 You may change the boldfaced first word if you feel another word would fit better for your intended purpose, but please stay consistent to the intended purpose of these colors.
 
 Bear in mind that Markdown and wikilinks will not function inside these boxes, only HTML, and relative file paths do not function in HTML inside of Obsidian. Line breaks also require HTML to function inside them.
+
+test

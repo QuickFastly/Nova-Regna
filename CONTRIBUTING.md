@@ -1,6 +1,10 @@
 ---
 author: Kit
 ---
+```toc
+style: bullet
+max_depth: 3
+```
 ## Guidelines
 
 Contributions require approval, but requirements are light and expectations are low.
@@ -34,6 +38,10 @@ https://github.com/github/docs/blob/30fe9c6e604582c85d1d5c59b4f772f3e8d9589f/COD
 ## Style guide
 
 In an attempt to keep this wiki looking somewhat consistent, here are some guidelines on how to actually write stuff.
+
+##### Templates
+
+When creating a new page, check if there's a template available for it, like the [[Character profile]] or [[Organization]] templates. These give a basic structure that you should try to stick with for the sake of consistency, but feel free to add or remove sections as you need. If there is no existing template, you may want to insert the [[Infobox]] template at the top of a blank page.
 
 ##### Links
 
@@ -106,5 +114,3 @@ There are four admonition templates available to insert eye-catching colored tex
 You may change the boldfaced first word if you feel another word would fit better for your intended purpose, but please stay consistent to the intended purpose of these colors.
 
 Bear in mind that Markdown and wikilinks will not function inside these boxes, only HTML, and relative file paths do not function in HTML inside of Obsidian. Line breaks also require HTML to function inside them.
-
-once more

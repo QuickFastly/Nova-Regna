@@ -1,11 +1,6 @@
 ---
 author: Kit
 ---
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>This page was migrated from a OneNote notebook, and it has yet to be fully gone through and updated to the new format.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
-
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Florian</th>
@@ -118,7 +113,7 @@ Florian is an extremely tall, pale skinned man with a very lanky build. His arms
 
 His arms are covered in iridescent black feathers, and his fingers are also primarily feathers, though they can still grab and hold things without issue. These feathers are also capable of hardening and sharpening at will, allowing him to use his fingers as incredibly sharp knives. An inky black smoke pours off his arms at all times and rises from his sleeves and collar. He seems to be capable of altering the rate of this process along with the consistency of the smoke, but cannot stop it.
 
-The [[The Brand (Children of the Flame).png|Brand]] is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole torso is wrapped in bandages, except for the area displaying the Brand, and aside from himself, nobody but Kerosyn and Freya knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.
+The [[The Brand (Children of the Flame).png|Brand]] is burned into his chest in white, glowing so faintly that it's only noticeable in the dark, making it quite difficult to see against his colorless skin. His skin is cold to the touch, rough, and incredibly thick and durable. His whole torso is wrapped in bandages, except for the area displaying the Brand, and aside from himself, Freya, and Kerosyn, nobody knows what's under them, only that he's always bleeding. He apparently changes them frequently though, as he is only rarely seen with bloodied bandages.
 
 Despite what his slim frame may suggest, Florian is actually extremely heavy. His weight comes from having supernaturally dense skin, muscles, and bones, along with having a significantly higher mass of blood in his veins than their total available volume should be capable of containing.
 
@@ -138,71 +133,19 @@ As an entirely immortal being, he cannot die. His body is frighteningly, unnatur
 
 ## Personality
 
-Motivation 
+Florian is a highly eccentric and passionate man with an immense ego and the attitude of a fanatical preacher from ages past. This is largely a result of his total devotion to his ambition leaving him isolated and disconnected from the wider world for most of his life, which has also seriously stunted his social skills and ability to understand or empathize with others, and left him extremely reluctant to accept help from anyone with anything.
 
-On a global scale, he wants to preserve innocence and beauty above all. The world itself is both of these things to him, so he will be among the first to respond to global threats along with Kerosyn and Freya, and will go out of his way to protect the environment. Very few humans are innocent, however, so they tend to become like obstacles to him. 
+He carries himself with a strict, antiquated type of grace that would have seemed a bit pompous even several centuries ago. Despite that, he also has a number of strange quirks in his behavior, like constantly muttering to himself (or animals... or plants... or even books), using extremely exaggerated hand movements when speaking, frequent fidgeting with his hands and eyes, having a less-than-sane looking grin, and an unfortunately devilish laugh.
 
-On a personal scale, he craves knowledge and obsessively pursues it with the ultimate goal of ending the cycle of hate and death. He believes himself to be responsible for the existence of death, as he inherited the soul of the person responsible for [Pestilence](onenote:The%20world.one#Pestilence&section-id={E5A26CD0-57C3-4ADF-B64F-D392FE35051B}&page-id={FBDF988B-8B25-48BB-9C50-5ADB7980768A}&end&base-path=https://d.docs.live.net/75741d37145e3c37/Documents/Guide%20To%20Kerosynism) during his resurrection. The fact that many people view him as the personification of death itself only further fuels this belief and his desire to achieve his goal, and he makes every effort to change people's view of him by attending funerals and offering condolences to the families of the fallen. He considers every death a personal failure on his part, and only manages to persevere with the support of Kerosyn and Freya. 
+He takes himself far too seriously, and is very quick to turn zealous in discussions he has an vested interest in. He maintains a quietly restrained voice most of the time, but when he feels the need to speak up, he can get very loud and will talk over others. Especially in arguments, which he tends to see only two sides in, and often ends up starting one way or another. He is very unapproachable and difficult to get along with, but he doesn't mind that. For the few who do manage to approach him though, he is also quite susceptible to being manipulated through flattery and praise.
 
-Savvies & Ineptitudes 
+However, beneath the scary face, that bravado is only an act, one that he's only capable of maintaining around people he isn't close to that aren't confident enough to stand up to him. Beneath the act, he is actually a quiet, meek, deeply compassionate person who wants nothing more than the best for the world and those living in it, even with his difficulties with empathy and understanding. He cares deeply enough for living things that he will go out of his way to spare the life of the smallest insect and the frailest flower, and will always treat people as innocent until proven guilty.
 
--   Master of all things medical. 
--   Master of strategy and tactics. 
--   Master evangelist. 
--   Absolute failure at not being an evangelist. 
--   Never quite got the hang of everyday life. 
-    
+Part of what drives his compassionate side is a looming sense of guilt, because Florian believes that he is responsible for the existence of death. He considers the death of every person a failure on his part to save them. Because of this, he goes very far out of his way to be close to the dying to do everything he can to ease their suffering, as well as to attend funerals and wakes to offer condolences and comfort to the friends and families of the dead. He has otherwise fully devoted his life to studying death with the ultimate goal of ending it forever, and alongside working with the Children of the Flame, has little interest in much else.
 
-Likes & Dislikes 
+##### Split personality
 
--   Loves seeing people living happy and harmoniously. 
--   Loves being worshiped and praised by the public. 
--   Loves seeing people follow his cause fervently. 
--   Hates the opposite of those things. 
-    
-
-Virtues & Personality perks 
-
--   There's a big heart under the scary face. 
--   Values the lives of even the smallest insect and frailest flower. 
--   Steadfastly adheres to the innocent-until-proven-guilty method. 
--   Only wants the best for the world despite his arrogance. 
-    
-
-Vices & Personality flaws 
-
--   Absolutely massive ego. 
--   Susceptible to manipulation through flattery and praise. 
--   Tends to see only two sides to every argument. 
--   Extremely reluctant to accept help with anything. 
--   Endlessly cruel to those who cross him. 
-    
-
-Personality Quirks 
-
--   Takes himself way too seriously. 
--   Always waves his arms around grandiosely. 
--   Talks to crows... and plants... and books... and himself. 
--   He tries to make witty comebacks sometimes. Tries.
--   Split personalities lead to some interesting situations.
-
-After spending - and continuing to spend - most of his time in isolation, he would be awkward and weird enough without considering his split personality issue. He is quite an imposing presence already, so all of these things combined make him a very bad socializer with only the bravest or stupidest people willing to approach him. 
-
-But around those who will approach him, his absolutely immense ego makes him quite difficult to get along with, especially if you question his knowledge or reasons for certain actions. It definitely doesn't help that he gets quite confident when he feels superior, which is basically all the time. However, if you can compete with his ego and talk him down as well as Freya can, all his confidence will melt away and he'll show his true, meek, awkward, stammering colors.
-
-He carries himself with a strict, antiquated grace at all times that only makes him look off-putting, even when he's alone and nobody can see him. He also maintains a relatively quiet and restrained voice whenever there isn't a clear need to speak up. But when he gets a little too frustrated or passionate, he will break character and become aggressively fidgety, twitching and thrashing about and raising his voice. 
-
-His facial expressions and body language are over the top but not particularly helpful, as his resting expression is a crazy looking smile and he is quite bad at expressing emotions other than passion and remorse. He is very fond of outstretching his arms like an enthusiastic preacher, has an unfortunately devilish laugh, and tends to mutter a lot.
-
-Normally, when an incarnation inherits the soul of a god, the dominant personality traits of the individual and the god will mesh together. Florian, however, inherited two souls. These two souls conflicting with each other caused him to retain his own personality in full, and instead display the other souls as split personalities. He is fully conscious of this internal conflict as well as his own personality shifts when a soul becomes dominant, which takes a great toll on his mental stability.
-
-He is completely focused on his personal studies and has little to no interest in anything else. He also learns best by reading and experimenting. 
-
-His primary talents are logical reasoning, perfect eidetic and photographic memorization, and everything medical whether it's human or not. He can be described as wise compared to the average person, but his wisdom is... stunted.
-
----
-
-stuff
+Florian struggles with a split personality that troubles him greatly. On occasion, in moments of extreme stress, anger, or frustration, he becomes someone who goes against all of his ideals. He becomes loud, aggressive, and hateful, with an especially vocal resentment of humanity. He may slam doors, hit tables and walls, and throw things, but can usually stop just short of causing harm to another person. Unfortunately, if there was enough stress or anger beforehand, he can become violent enough to be a threat to the lives of those around him. These flare-ups are uncommon and short-lived, but a deep and long lasting depression follows when he comes back to his senses.
 
 ##### Fighting style
 
@@ -214,7 +157,7 @@ Having spent close to their entire lives together, Kerosyn, Freya, and Florian a
 
 Florian sees Kerosyn as an annoying younger brother. He finds them to be quite irritating, but cherishes them nonetheless and tries to be there for them. He is happy to teach Kerosyn whatever they want to learn from him, but Kerosyn's short attention span makes it difficult and sometimes leads to fights. The fights tend to be short lived, and despite Kerosyn's obliviousness, they tend to be first to apologize, and Florian is quick to forgive them. Usually.
 
-He sees Freya as a sister, but they treat each other more like workplace colleagues most of the time due to their very different personalities and interests. While they may not be particularly close, he will still defend Freya from anything. In theory. In reality, she's the one who stands up for him, because he can't come close to matching her absurd levels of confidence. Of course, she also enjoys picking on him frequently because of that, much to his chagrin, but he'll always laugh about it later.
+He sees Freya as a sister, but they treat each other more like workplace colleagues most of the time due to their very different personalities and interests. While they may not be outwardly close, he will still defend Freya from anything. In theory. In reality, she's the one who stands up for him, because he can't come close to matching her absurd levels of confidence. Of course, she also enjoys picking on him frequently because of that, much to his chagrin, but he'll always laugh about it later.
 
 The relationship between these three can sometimes appear more parental than that of siblings due to Kerosyn's childlike nature, though they all reject the idea of that.
 

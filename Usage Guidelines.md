@@ -14,5 +14,3 @@ The contributors to this world also all reserve the right to have you remove att
 Always check if the articles you reference are under a different license with different requirements and restrictions. Some contributors may even use non-free licenses and provide detailed terms of use for their content.
 
 Finally, when providing attribution, always check the articles you reference to see if there are one or more authors listed. If there is no author listed, then you don't need to list an author in your attribution. Remember to follow the [best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
-
-another test

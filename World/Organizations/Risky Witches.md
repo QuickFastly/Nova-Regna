@@ -44,7 +44,7 @@ author: Kit
 			<td style="padding:4px">Memento Mori</td>
 </table>
 
-The Risky Witches are a paramilitary group led by [[Freya]] and comprised primarily of Destrean separatists, [[Spirits|spirits]], and humans with [[Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidio de la Bruja]] in the [[Espada]] prefecture of [[Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.
+The Risky Witches are a paramilitary group led by [[Freya]] and comprised primarily of Destrean separatists, [[Spirits|spirits]], and humans with [[Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.
 
 They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and most infamous for executing [[The Big Event]]. They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.
 

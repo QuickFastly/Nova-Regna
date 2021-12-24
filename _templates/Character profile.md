@@ -113,7 +113,7 @@ Add a brief explanation of who the character is and where they appear. One or tw
 
 ## Summary
 
-Add a more detailed summary of the character here.
+Add a more detailed summary of the character here. Or delete this heading and have only the brief explanation, or only a summary. Up to you.
 
 ## Physical description
 

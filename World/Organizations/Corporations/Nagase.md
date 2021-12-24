@@ -1,7 +1,7 @@
 ---
 author: Kit
 ---
-stub for now, here to remind me to write this.
+very rough and incomplete, just here for posterity until I actually get around to developing this
 
 car, aircraft, and spacecraft company based in [[Shinzen]]. the company is completely fictional with all of its designs created by me, not based on a real company.
 

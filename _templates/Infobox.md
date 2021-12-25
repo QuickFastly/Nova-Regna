@@ -51,5 +51,5 @@
 </table>
 
 <!-- If you want more stuff on the side beneath the info box, put it here. Use the following html tag:
-<span style="float:right; clear:right; width:260px; margin:14 0 7 14;"></span]>
+<span style="float:right; clear:right; width:260px; margin:14 0 7 14;"></span>
  This will keep it in line with the info box.-->

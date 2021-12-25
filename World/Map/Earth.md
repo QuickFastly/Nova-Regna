@@ -1,39 +1,54 @@
 ---
 author: Kit
 ---
+<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+	<tr>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Earth</th>
+	</tr></table>
 
-![[Flat (Political labeled 3).png]]
-![[Flat (Political labeled 2).png]]
-![[Flat (Political labeled 1).png]]
-![[Flat (Political unlabeled).png]]
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px; font-size:10px">![[Flat (Political labeled 3).png|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i></span>
+  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px; font-size:10px">![[Flat (Biomes labeled).png|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i></span>
+  
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px; font-size:10px">![[Terrain (Blank+grid).png|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</span>
+  
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+	
+		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
+			<td style="padding:4px"><b>Population</b></td>
+			<td style="padding:4px"><i>As of the year 2030</i><br>approx. 2,000,000,000</td>
+		</tr>
+	
+  </table>
 
-![[Terrain (Blank+grid).png]]
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-bottom:2px solid #666; border-collapse:collapse; padding:4px; font-size:10px">![[general population.png|250]]<br><i>Population by country</i><br>![[cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>
 
-![[Flat (Biomes labeled).png]]
+Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[Human|humans]] and [[Spirits|spirits]], both of which belong to a wide range of [[Cultures & Ethnicities|cultures and ethnicities]]. The planet and everything on it also contain [[Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.
 
-![[Flat (Blank)2.png]]
-![[Terrain (Blank).png]]
+The world is currently in the year 2033 of Anno Ortu. It was formed some time during [[Era Dira]].
 
-![[general population.png]]
-![[cc _parents.png]]
+The inhabited world is comprised of three continents. [[Avangia]] in the west, [[Ozen]] in the northeast, and [[Yulentia]] in the southeast.
+- The Avangian continent is home to the countries of [[Ilmaria]], [[Sangyon]], [[Shaohou]], and [[Shinzen]].
+- The continent of Ozen is home to the countries of [[Alastor]], [[Corstaea]], [[Grenneria]], and [[Osun Tanum]].
+- The Yulentian continent is home to the countries of [[Ustonia]] and [[Destrea]].
+- Each country is also part of one of three larger organizations, being the [[Avangian Alliance]], [[Ozen Federation]], or [[Yulentia Trade Union]].
 
+## Meta stuff
 
----
-[[Ozen]]
-[[Yulentia]]
-[[Avangia]]
+For the sake of simplicity, rather than continuing to make a whole in-world page for the planet itself, we will compare it to the real world. More in-world detail would be a welcome addition any time though.
 
-[[Alastor]]
-[[Corstaea]]
-[[Destrea]]
-[[Grenneria]]
-[[Ilmaria]]
-[[Osun Tanum]]
-[[Sangyon]]
-[[Shaohou]]
-[[Shinzen]]
-[[Ustonia]]
+This earth is about one fifth the size of the real world, but it experiences exactly the same gravity, seasons, sunrises and sunsets, tides, pressures, etc.
 
-[[Cultures & Ethnicities]]
+The atmosphere also behaves exactly the same as it does in the real world, with the same number of layers all at the same altitudes.
 
-[[Mystic Matter]]
+Weather behaves largely the same as the real world too, but the biome distribution isn't completely realistic, especially in the case of Alastor.
+
+The highest mountain peaks and deepest ocean depths are the same as the real world.
+
+The highest and lowest ever recorded temperatures are each one degree celsius higher and lower respectively than the real world.
+
+However, despite being so much smaller it contains about the same amount of natural resources like ores, metals, and oils as the real world, and it isn't distributed evenly at all, which has led to extreme prosperity, rapid technological advancements, and *many* wars.
+
+I don't study this stuff, I don't have any science to justify this stuff. If you can come up with that kind of information, feel free to add it to this page, that would be a welcome addition. However, anything that can't be justified in any way will instead be made justifiable by the influence of mystic matter.
+
+Essentially, unless you *want* to overthink it, just think of this world in exactly the same way you think of the real world and use identical logic, but remember the smaller physical size and higher resource richness.

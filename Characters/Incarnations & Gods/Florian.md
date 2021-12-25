@@ -137,7 +137,7 @@ He takes himself far too seriously, and is very quick to turn zealous in discuss
 
 However, beneath the scary face, that bravado is only an act, one that he's only capable of maintaining around people he isn't close to that aren't confident enough to stand up to him. Beneath the act, he is actually a quiet, meek, deeply compassionate person who wants nothing more than the best for the world and those living in it, even with his difficulties with empathy and understanding. He cares deeply enough for living things that he will go out of his way to spare the life of the smallest insect and the frailest flower, and will always treat people as innocent until proven guilty.
 
-Part of what drives his compassionate side is a looming sense of guilt, because Florian believes that he is responsible for the existence of death. He considers the death of every person a failure on his part to save them. Because of this, he goes very far out of his way to be close to the dying to do everything he can to ease their suffering, as well as to attend funerals and wakes to offer condolences and comfort to the friends and families of the dead. He has otherwise fully devoted his life to studying death with the ultimate goal of ending it forever, and alongside working with the Children of the Flame, has little interest in much else.
+Part of what drives his compassionate side is a looming sense of guilt, because Florian believes that he is responsible for the existence of death. He considers the death of every person a failure on his part to save them. Because of this, he goes very far out of his way to be close to the dying to do everything he can to ease their suffering, as well as to attend funerals and wakes to offer condolences and comfort to the friends and families of the dead. He has otherwise fully devoted his life to studying mystic matter, biology, and the medical field with the ultimate goal of ending death forever, and alongside working with the Children of the Flame, has little interest in much else.
 
 ##### Split personality
 
@@ -167,4 +167,8 @@ Some of Florian's history pre-[[Era Dira]] is described in [[The Account]].
 
 ## Trivia
 
-- Florian actually has quite poor vision and hearing, but his sense of smell is impossibly sharp.
+- Florian actually has quite poor vision and hearing even by regular human standards, but his sense of smell is impossibly sharp.
+- Florian has an eidetic memory. He'll still find a way to forget faces anyway, but he never forgets something he sees that has value to him, even if only a glimpse. He could safely perform open heart surgery with his eyes closed because of this.
+- Florian doesn't need to eat or drink to survive, and for that matter has trouble keeping food down. But he does still require sleep. He can, however, survive on much less sleep than a human.
+- Florian has a stutter and an eye tic, both of which get worse with stress.
+- Thanks to Kerosyn and Freya, despite his resistance, Florian is a skilled musician. However, while those two can play pretty much anything they want well, Florian can "only" play instruments in the violin and keyboard families. He claims to have no favorite.

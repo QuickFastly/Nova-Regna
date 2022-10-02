@@ -1,10 +1,5 @@
----
-author: Kit
----
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>The main article could use some rewrites, so this page is also subject to change.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> The main article could use some rewrites, so this page is also subject to change.
 
 The Law and Lore branch of the [[Children of the Flame]] is responsible for the administration, bureaucracy, and other official dealings, as well as maintaining order within the organization through management and enforcement of laws, and keeping the lore, prophecies, and other history organized and prevalent in teachings. They are the highest ranking members of the organization with authority over all other branches.
 
@@ -61,3 +56,8 @@ Prospective cardinals are selected to perform this rite personally by the High C
 Those who sin or engage in heresy and repent will be given the choice of undergoing this rite, or either being expelled from the organization or receiving an Enforcer's rite, depending on the severity of their crimes.
 
 During Cleansing, the recipient is doused in water by a Cardinal, then a Firekeeper engulfs the recipient in flame while they prostrate themselves begging for forgiveness. This is repeated six times, and if all goes smoothly, the recipient is pardoned and lauded by everyone.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

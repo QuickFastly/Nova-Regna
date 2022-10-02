@@ -1,12 +1,9 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Chameleon spirit</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
   
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
@@ -53,7 +50,7 @@ All chameleon spirits have [[Alignment]], independently movable eyes, are [doubl
 
 A somewhat uncommon feature possessed by some chameleon spirits is a prehensile tail covered in scales, also capable of changing colors at will. Rarely, they may even possess color-changing scales on some other parts of their body.
 
-They are slightly hard of hearing and have poor senses of taste and smell compared to average [[Human|humans]], but have an extremely highly developed sense of touch, allowing them to accurately perceive even the smallest vibrations in the air and through the ground. They also have slightly denser muscles than humans, granting them much higher physical endurance.
+They are slightly hard of hearing and have poor senses of taste and smell compared to average [[Human|humans]], but have an extremely precisely developed sense of touch, allowing them to accurately perceive even the smallest vibrations in the air and through the ground, including sound waves, leading some to be able to "hear" with their bodies. They also have slightly denser muscles than humans, granting them much higher physical endurance.
 
 ### Life cycle
 
@@ -80,3 +77,8 @@ They hold neutral views on all races, often going to great lengths to remain dis
 ## See also
 
 [[Neven]]
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,12 +1,10 @@
----
-author: Kit
----
-very rough and incomplete, just here for posterity until I actually get around to developing this
+> [!bug] Issue
+> Very rough and very incomplete, just here for posterity until I actually get around to developing this.
 
 car, aircraft, and spacecraft company based in [[Shinzen]]. the company is completely fictional with all of its designs created by me, not based on a real company.
 
-Notable car models: Lanza, Aquila, Paloma, Phoenix, Estela, Starcaster, Lovelace, Ridgeback
-Notable aircraft: Dealer, Decorator, Dancer, Debonair, Dawnbreaker, Duskwalker, Deadlock, Dauntless
+Notable car models: Lanza, Aquila, Paloma, Phoenix, Estela, Starcaster, Lovelace, Ridgeback\
+Notable aircraft: Dealer, Decorator, Dancer, Debonair, Dawnbreaker, Duskwalker, Deadlock, Dauntless\
 Notable spacecraft programs: Outlander, Strider, Tomoe
 
 Notable aircraft:
@@ -49,7 +47,7 @@ The Outlander program is the world's first successful deep space exploration pro
 
 Strider
 
-The Strider program is Nagase's contribution to the international space station project, being a dedicated personnel shuttle. It is a single stage to orbit craft with a capacity of 2 crew and 5 passengers, capable of both taking off and landing on an ordinary aircraft runway. Strider 1 was launched in 1998 at full capacity to fill the newly completed space station. It has since completed 34 more round trips and is still considered to be in service. Strider 2 was launched in 1999, but was tragically lost during landing due to an engine malfunction, killing all passengers. Strider 3 was launched in 2006, but aborted mission before exiting the atmosphere due to electrical malfunctions. The pilot shut down all non-critical electrical systems and safely landed the craft unassisted. It was studied extensively after that incident and now resides in an aerospace museum. Strider 4 was completed in 2008 but was immediately decommissioned after discovering a critical design flaw traced back to Strider 2. Strider 5 was launched in 2012 with no issues, has completed 21 round trips, and is still in service.
+The Strider program is Nagase's contribution to the [[Global Space Platform]] project, being a dedicated personnel shuttle. It is a single stage to orbit craft with a capacity of 2 crew and 5 passengers, capable of both taking off and landing on an ordinary aircraft runway. Strider 1 was launched in 1998 at full capacity to fill the newly completed space station. It has since completed 34 more round trips and is still considered to be in service. Strider 2 was launched in 1999, but was tragically lost during landing due to an engine malfunction, killing all passengers. Strider 3 was launched in 2006, but aborted mission before exiting the atmosphere due to electrical malfunctions. The pilot shut down all non-critical electrical systems and safely landed the craft unassisted. It was studied extensively after that incident and now resides in an aerospace museum. Strider 4 was completed in 2008 but was immediately decommissioned after discovering a critical design flaw traced back to Strider 2. Strider 5 was launched in 2012 with no issues, has completed 21 round trips, and is still in service.
 
 Tomoe
 
@@ -115,3 +113,9 @@ Turbo codes:
 Simple. Left off if there's no turbo;
 T = Single turbo
 TT = Twin turbo
+%%
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

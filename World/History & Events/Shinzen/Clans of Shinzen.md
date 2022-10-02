@@ -1,6 +1,6 @@
----
-author: Kit
----
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
+
 [[Inazuma Clan]]
 [[Kagetsu Clan]]
 [[Seki Clan]]
@@ -30,3 +30,8 @@ author: Kit
 美和 miwa (beautiful place)
 電 inazuma (lightning)
 %%
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

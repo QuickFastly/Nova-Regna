@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shinzen</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Shinzen flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shinzen flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Shinzen (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shinzen (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Shisuya: 89%<br><i>- North: 78%<br>- South: 22%</i><br>Yinsha (East): 7%<br>Others: 4%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Silver fox</td>
 		</tr>
@@ -84,8 +76,9 @@ author: Kit
 	
 </table>
 
-Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaohou]] to the west, and closely neighbored by [[Sangyon]] to the northwest and [[Ilmaria]] off the eastern coast.
+Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaohou]] to the west, and closely neighbored by [[Sangyon]] to the northwest and [[Ilmaria]] in the eastern gulf.
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
+%% Shiga Coordinates: 5°26'S 108°23'W (?) %%
 
 Shinzen is a highly developed nation with the second largest population in the world, a booming semi-industrial economy, and a very well outfitted military. Shinzen is also considered to be one of the world leaders in aviation and automotive engineering, as well as development in space travel, robotics, microelectronics, artificial intelligence, and biotechnology.
 
@@ -116,25 +109,13 @@ The country is divided into 11 states, each with their own state government over
 - [[Sumitori]]
 - [[Tozawa]]
 
-### Executive branch
-
-The Prime Minister of Shinzen and the Cabinet...
-
-### Legislative branch
-
-The National Diet is a bicameral entity comprised of representatives directly elected by the people.
-
-### Judicial branch
-
-The Supreme Court of Shinzen and other interior courts operate independently from the executive and legislative branches of government and keep them in check.
-
 ### Military
 
 The Shinzenese military, better known as the Shinzen Regional Defense Forces or SRDF, is divided into three primary branches, being the Ground Force, Maritime Force, and Air Force. What they lack in numbers, they make up for with cutting edge technology and training that is second to none, and their particular emphasis on aviation has led them to have the world's most formidable air force.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Shinzen).svg]]
 
 ## Economy
 
@@ -160,12 +141,6 @@ Some primary exports of Shinzen are electronics, cars and trucks, and biotechnol
 
 ## Demographics
 
-- [[Shisuya]]: 89%
-	- [[North Shisuya|North]]: 78%
-	- [[South Shisuya|South]]: 22%
-- [[East Yinsha|Yinsha (East)]]: 7%
-- Others: 4%
-
 Shinzen has a unique struggle with acceptance of [[Spirits|spirits]], as their official stance is a welcoming one and most people in the country are openly accepting and supportive of spirits, but systemic discrimination still remains, particularly in education and career opportunities. Nevertheless, many spirits are quite happy with their treatment in Shinzen, even though they have fewer opportunities.
 
 Spirit population as of the 2030 census: 14,158,605
@@ -183,15 +158,27 @@ It is suspected that there are many more spirits than this in the country, but i
 
 ### Education
 
-f
+Education in Shinzen is provided primarily by public schools, but private schools are a popular choice among richer families. Education is compulsory under federal law at elementary (1st-6th grade) and lower secondary (7th-9th grade) levels, but the vast majority of students still pursue upper secondary (10th-12th grade) education. Many schools offer two or more levels of education in the same building, but some still offer only one. Public education is tuition-free, and any required educational materials and appropriate clothing or uniforms is provided free of charge, but students whose families are above a certain income level are required to either purchase or supply their own lunches.
+
+Education standards are set nationwide by the Ministry of Education, which encourages achievement and success in education through the use of semi-competitive testing, displaying the test scores of students in the main halls of schools twice annually. Test scores are the primary qualification required to enter public post-secondary education, which most students choose to attempt. Many students also choose to enroll in private cram schools to prepare for university entrance exams.
+
+In anonymous independent surveys of students, over 70% of students say that they feel the workload of the current education system is extremely stressful and harmful to their mental health, and that they feel they have to deal with the stress silently to avoid reprimand.
+
+The Shinzenese educational system produces excellent results, with 4th, 8th, and 12th grade students consistently being ranked 3rd in international test score surveys.
 
 ### Health
 
-f
+Healthcare in Shinzen is a hybrid of public and private systems, with many hospitals and pharmacies being run as for-profit businesses, and a universal health insurance program provided to all citizens by the federal government, as well as the option of purchasing supplemental private insurance through an employer or from a local government. Patients are responsible for up to 30% of their medical expenses, with extensive financial assistance options available for poor patients.
+
+The overall health of Shinzenese citizens is excellent.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
 
 
 %%
@@ -243,3 +230,8 @@ suzuka period = 1901-1954        showa
 hanshu period = 1954-1996        heisei
 zenwa period = 1996-present     reiwa
 %%
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

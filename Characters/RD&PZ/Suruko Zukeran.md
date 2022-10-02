@@ -1,9 +1,14 @@
 ---
-author: Kit
+tags: RD
 ---
-stub for now.
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
 
-[[Near Amago]]
-[[Nozomi Hijiya]]
+Daughter of [[Azenor Connaway]]. Friends and roommates with [[Near Amago]] and [[Nozomi Hijiya]].
 
-#RD 
+瑞慶覧する子
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

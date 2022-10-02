@@ -3,11 +3,13 @@
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Character Name</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
   
   <!-- If you have one or two more images, you can duplicate this block for them. Any more than that should be included somewhere else though. Remember, this block is indented with TWO spaces, NOT four and NOT a tab. -->
   
   <!-- Markdown and wikilinks don't work inside most html, and Obsidian also doesn't support relative file paths in html format, so this block is a separate <span> element to allow for a relative path wikilink to the image. If you want to insert a clickable link anywhere other than a <span> element, you need to use the html method instead of markdown. (<a href="url">text</a>) -->
+
+  <!-- If you don't have an image at all and don't plan to add one to this page, you can delete the entire <span> element, the </table> tag above it, and the <table style =...> line below. -->
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			<!-- Line breaks are supported in these blocks by using the <br> tag -->
@@ -25,7 +27,7 @@
 	</tr>
 			<!-- Many of the blocks in this section are very optional, so feel free to remove the ones you don't need, or add different ones! -->
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Full/Real name</b></td>
+			<td style="padding:4px"><b>Full/Birth name</b></td>
 			<td style="padding:4px">Cool Name</td>
 		</tr><!-- Use ONLY first-last formatting and english text here -->
 		
@@ -71,7 +73,7 @@
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Ethnicity</b></td>
 			<td style="padding:4px">What is their heritage?</td>
-		</tr><!-- Be as specific as you want here. Just "Chiya" is okay if that's all you want, or "South Chiya", or you can create a new smaller group and make a page for it later. -->	
+		</tr><!-- Refer to the Cultures and Ethnicities page on this wiki if you don't know what to put here. -->	
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Pronouns</b></td>
@@ -86,7 +88,7 @@
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birth date</b></td>
 			<td style="padding:4px">YYYY/MM/DD</td>
-		</tr><!-- Optional. Write "unknown", a season, or remove if you want -->
+		</tr><!-- Optional. Write "unknown", a season and year, or remove if you want -->
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Age</b></td>
@@ -113,7 +115,7 @@ Add a brief explanation of who the character is and where they appear. One or tw
 
 ## Summary
 
-Add a more detailed summary of the character here. Or delete this heading and have only the brief explanation, or only a summary. Up to you.
+Add a more detailed summary of the character here if you have one. Or delete this heading and have only the brief explanation, or only a summary. Up to you.
 
 ## Physical description
 

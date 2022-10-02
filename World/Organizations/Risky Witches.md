@@ -1,16 +1,13 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Risky Witches</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Risky Witches Flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Risky Witches Flag.png|250]]</span>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Risky Witches Emblem.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Risky Witches Emblem.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Risky Witches Roundel.png|150]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Risky Witches Roundel.png|150]]</span>
   
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	
@@ -58,9 +55,9 @@ The rank of O-8, Grand Marshal, is only held by Freya, though there isn't any of
 
 Since she has the ability to monitor the entire world all at once, she's always informed, but since she's not particularly interested in personally running an entire military herself, she hand picks the Field, Air, and Sea Marshals and distributes information through them. On the rare occasion she personally takes control, it's usually to turn the tide of battle in her favor, as her direct control can increase effective strength to that of a force five times their size, or to the point of being virtually undefeatable with the assistance of [[Haida]].
 
-Freya and Haida are also both members of Task Force 5555 along with [[Garm]], [[Dvalinn]], [[Kuhai]], and [[Neven]]. No official record of any of them - or even their unit - exists, but their existence is nevertheless known to members of the Risky Witches. Aside from Freya, all of them hold the effective rank of O-6.
+Freya and Haida are also both members of Task Force 5555 along with [[Garm]], [[Dvalinn]], [[Kuhai]], and [[Neven]]. No official record of any of them - or even their unit - exists, but their existence is nevertheless known to members of the Risky Witches. Outside the unit, all of the incarnations aside from Freya hold the effective rank of O-6, and everyone else holds the effective rank of O-5. The hierarchy within the unit is informal at best and a disorganized mess at worst.
 
-![[Risky Witches hierarchy.png]]
+![[Risky Witches structure.drawio.svg]]
 
 ### Army
 
@@ -134,18 +131,18 @@ The Special Forces branch of the Risky Witches is comprised of the hand picked e
 
 Task Force 1743, Irregular Security (ISEC) is a unit classified as top secret, known by name only to all but a select handful of high ranking individuals. Their influence is global, and as such their numbers are impossible to ascertain. They operate in the shadows, outside of international law, and always accomplish their mission no matter the cost. Nothing is off limits for them.
 
-Task Force 5555, "Party Regiment" is an all weather, day and night shock unit comprised of the pinnacle of the elite, trained for absolute superiority both on the ground and in the air, led personally by Freya and the [[Incarnations]]. While the unit is technically classified to prevent vital information from leaking, this unit is well known to all of the Risky Witches and is a huge morale booster. Part of the nickname comes from that fact, as simply hearing that the unit is joining the battle causes effective allied strength to surge. The other reason for the nickname is from the extreme freedom enjoyed within this unit, leading to a lot of highly unprofessional activity, like wild parties.
+Task Force 5555, "Party Regiment" is an all weather, day and night shock unit comprised of the pinnacle of the elite, trained for absolute superiority both on the ground and in the air, led personally by Freya and the [[Incarnations]]. While the unit is technically classified to prevent vital information from leaking, the name and strength of this unit is well known to all of the Risky Witches and is a huge morale booster. Part of the nickname comes from that fact, as simply hearing that the unit is joining the battle causes effective allied strength to surge. The other reason for the nickname is from the extreme freedom enjoyed within this unit, leading to a lot of highly unprofessional activity, like frequent wild parties.
 
-They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs, and none of which is counted in their official statistics. They number 328 personnel, and all but three of them have both [[Alignment|alignment]] and attunement. The exceptions are Garm and Kuhai for not having alignment, and (Nameless Old Guy) for having neither.
+They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs, and none of which is counted in their official statistics. They number 328 personnel, and all but three of them have both [[Alignment|alignment]] and attunement. The exceptions are Garm and Kuhai, who lack alignment, and [[Nikolai Anatolyevich Litvyak]], who lacks both abilities.
 
 ### Non-combatants
 
-To keep the Risky Witches functioning, a number of non-combat roles are essential. There are approximately 8,500 non-combatants spread as needed through six distinct departments. Some combat mission orders come from these departments, be it for defense, conflict resolution, hired support, or otherwise.
-**Internal Affairs**: Tasked with top level administration and governance, including legislation and economics. 
-**Political Affairs**: Tasked with negotiation and diplomacy with foreign powers and private companies as needed. 
-**Supply Chain Management**: Tasked with everything related to the supply chain, including buying and selling. 
-**Intelligence**: Tasked with acquiring, managing, archiving, and distributing intelligence as needed. 
-**Espionage**: A classified department tasked with subterfuge, blackmail, and acquiring high value intelligence. 
+To keep the Risky Witches functioning, a number of non-combat roles are essential. There are approximately 8,500 non-combatants spread as needed through six distinct departments. Some combat mission orders come from these departments, be it for defense, conflict resolution, hired support, or otherwise.\
+**Internal Affairs**: Tasked with top level administration and governance, including legislation and economics. \
+**Political Affairs**: Tasked with negotiation and diplomacy with foreign powers and private companies as needed. \
+**Supply Chain Management**: Tasked with everything related to the supply chain, including buying and selling smuggled goods. \
+**Intelligence**: Tasked with acquiring, managing, archiving, and distributing intelligence as needed. \
+**Espionage**: A classified department tasked with subterfuge, blackmail, and acquiring high value intelligence. \
 **Cyber Ops**: A classified department dedicated to cybersecurity, cyber warfare, and providing services for hire.
 
 ## Public Agenda
@@ -171,21 +168,23 @@ Some, but not all, of the many weapons in service, roughly in order of prominenc
 - **Pistols**
 	- Beretta 92FS
 	- Beretta PX4 Storm Compact
-	- CZ 75 B/BD
-	- SIG Sauer P226
 	- Benelli B76
+	- CZ 75 B/BD
+	- Smith & Wesson M&P
 	- Pardini GT9
-	- Mateba 2006M (Primarily ceremonial, carried by O-4+ officers together with a standard sidearm)
-	- Mateba Model 6 Unica (Task Force 5555 top officers only)
+	- Boberg XR9S *(Primary carry for all vehicle/equipment operators and field engineers, and concealed carry for special forces and non-combatants)*
+	- FN Five-seveN *(Available for special forces when required, either unsuppressed with AP rounds or suppressed with subsonic rounds. Standard issue for ISEC)*
+	- Mateba 2006M *(Carried by O-4+ officers together with a standard sidearm)*
+	- Mateba Model 6 Unica *(Carried by Task Force 5555 only)*
 - **Rifles**
 	- Beretta AR70/90
+	- Algimech AGM-1
 	- FAMAS G2
-	- Beretta ARX160
-	- AGM-1 Carbine
 	- AK-103/104
+	- Beretta ARX160
 	- Beretta ARX200
-	- FN P90 (Special Forces only)
-	- FN SCAR (Special Forces only)
+	- FN P90 *(Special forces only)*
+	- FN SCAR *(Special forces only)*
 	- Steyr SSG 69
 	- Steyr HS .50
 - **Shotguns**
@@ -229,11 +228,13 @@ Some, but not all, of the many weapons in service, roughly in order of prominenc
 		- Boeing E-767
 		- Airbus A340-500
 
-<div style="background-color:e6e6fa; border-left:4px solid #7f00ff; line-height:18px; padding:12px">
-	<div style="color:black"><b>Meta: </b>None of these things exist in this world as written, they must all be fictionalized. They are listed here with their real-world names for convenience and will be updated eventually.</div>
-</div>
+> [!example] Meta
+> None of these things exist in this world as written, they must all be fictionalized. They are listed here with their real-world names for convenience and will be updated eventually.
 
 ## History
+
+> [!bug] Issue
+> Need to rethink the Risky Witches history and rewrite it to be more descriptive of the group rather than some of the people in it.
 
 The Risky Witches began to form in 1981, originally a multirole fighter squadron in the Destrean air force commanded by Freya, known as the [[Witch Squadron]]. Their flying prowess combined with Destrean affiliation caused the Witch Squadron to slowly grow infamous, and their repeated insubordination caused the Destrean military to grow tired of their presence. Rather than disband the unit, its resources were quietly reallocated and the unit was sent into increasingly dangerous operations.
 
@@ -245,48 +246,45 @@ During a planned ambush on a Destrean transport, a young Garm was found being us
 
 Garm was raised to adulthood in the company of Freya and the Witchblades, who treated her warmly like their own family. During this time, Freya was also seizing every opportunity to track down Dvalinn, Haida, Kuhai, and Neven, and Destrean soldiers continued to desert. Desertions by spirits and people with attunement also skyrocketed.
 
-In late 1990, Destrea got a new commander in chief, and with him came a new policy. Spirits showing "signs of rebellion" were to be executed without trial. This was not what Freya expected "the big event" to be, so there was a change of plans. She rallied the Witchblades around the idea of rebellion, began ordering detachments of her newfound army to specific strategic locations around the country, and told them all to expect further orders at the end of the year. Upon hearing her plan, Garm commented about how risky it is to spread the forces so thin, which inadvertently led to the new name of the group. But the move was calculated. Public opinion of the new regime was extremely low, so much that rebellion was on the minds of many already, making it significantly easier to move undetected.
-
-At the turn of the new year in 1991, just as the holiday fireworks started, a surprise coup was staged against Destrea with frightening efficiency, hijacking the news coverage of the new year celebration and broadcasting the attacks nationwide. Government officials with any connection to the commander in chief were killed all across the country, the Destrean military was severely weakened, and a large number of weapons and aircraft were stolen.
-
-After only 39 minutes, all high ranking individuals of the new regime were dead except for the commander in chief himself. Freya personally led the operation to storm his villa with a hostage news crew forced to follow and broadcast the whole operation. By the time they reached his room, this broadcast was on every national news network. When they broke down his door, Freya was shot eight times in the chest and twice in the head. The camera only had a glimpse of her in frame, but it was enough to see she was still standing. She then shot the commander in chief once in the throat, and after lingering on his dying body for a couple of seconds, the camera was turned towards Freya's remaining allies, now revealed to all be spirits. One of the men then stepped forward and gave a rallying speech, followed by a warning to residents of the state of Espada to evacuate and make room for the Risky Witches. After that, the broadcast was cut and the crew was released unharmed.
-
-After that event, Destrea fell into civil war between the revolutionaries and conservatives. The revolutionaries grew exponentially in fervor as every one killed was seen as a martyr, especially once they learned that the coup caused no civilian casualties.
-
-At the same time, the Risky Witches all converged on the state of Espada at full strength, and after two days of fighting, seized control of the entire state and annexed a fortified city. After flushing everybody out of the city and claiming it fully as Risky Witches property, it was deemed Presidio de la Bruja and celebrations erupted for days on end. As the civil war raged outside, the revolutionaries continued to dwindle, and the international community was still trying to make sense of the events.
-
-The Risky Witches elected not to take control of Destrea as they preferred to separate, and after two weeks of reeling, the conservative faction installed a new commander in chief, who declared the Risky Witches to be terrorists and swore that they would be wiped out. The Risky Witches fired back, playfully challenging the Destrean regime to tell the world how many civilians they've killed, then revealed documentation and video evidence showing that the Risky Witches have killed none. After that, the international community largely decided to turn a blind eye to the coup and the Risky Witches, while the global opinion of Destrea plummeted. The civil war still rages to this day.
+On new year's day in 1991, the Risky Witches carried out [[The Big Event]].
 
 ## Foreign relations
 
 As a paramilitary group not officially recognized as a state or nation, foreign relations take on a unique tone with the Risky Witches as leaders and diplomats fear the potential implications of relations with them. Most contact is handled unofficially as a result, perpetuating a "don't ask, don't tell" attitude regarding the Risky Witches in the international community.
 
-**[[Alastor]]**
+![[Political relations chart (Risky Witches).svg]]
+
+**[[Alastor]]**\
 Shortly after their establishment in 1991, the Risky Witches issued an international statement swearing to defend Alastor from all threats under any circumstances. In return, the Risky Witches are the only foreign entity allowed to pass freely through Alastor territory as they please, and Alastor provides them whatever support they can offer as needed.
 
-**[[Corstaea]]**
+**[[Corstaea]]**\
 Corstaea remains neutral towards the Risky Witches, having no need for their services and no reason to offer them support. The feeling is mutual.
 
-**Destrea**
+**[[Destrea]]**\
 Obviously, they are sworn enemies. There is no repairing the relationship between the Risky Witches and Destrea, not without a total revolution by the Destrean people.
 
-**[[Grenneria]]**
+**[[Grenneria]]**\
 Grenneria is of the opinion that the Risky Witches are terrorists, but isn't brave enough to publicly denounce them. Relations are very passive aggressive as a result.
 
-**[[Ilmaria]]**
+**[[Ilmaria]]**\
 While Ilmaria has turned a blind eye to the Risky Witches, the Risky Witches have a keen interest in Ilmaria as an enemy. They just need an excuse to attack.
 
-**[[Osun Tanum]]**
+**[[Osun Tanum]]**\
 Osun Tanum is cautious towards the Risky Witches, but fully support their goal of independence. The Risky Witches are cautiously optimistic regarding Osun Tanum as they are in full support of their policies and cultural treatment towards spirits and those with attunement, but neither offers services nor accepts support from them due to the possible consequences for Osun Tanum.
 
-**[[Sangyon]]**
+**[[Sangyon]]**\
 Sangyon is very wary of the Risky Witches because they know their military strength cannot compare. However, the Risky Witches have no issue with Sangyon and regularly offer their services.
 
-**[[Shaohou]]**
+**[[Shaohou]]**\
 Shaohou, as a friend to Destrea, shares their hostile opinion against the Risky Witches, but not quite to the same degree. Relations are still possible between the two, though under extreme tension.
 
-**[[Shinzen]]**
+**[[Shinzen]]**\
 Shinzen has a very negative opinion of the Risky Witches as they are highly opposed to war. However, the Risky Witches have no issue with Shinzen, so tensions may be high but they amount to nothing.
 
-**[[Ustonia]]**
+**[[Ustonia]]**\
 As Ustonia had negative relations with Destrea already, they seized an opportunity when the Risky Witches formed and formed a pact. Ustonia provides the Risky Witches with supplies and arms regularly in return for a heavy discount on their services and mutual defense when called for.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

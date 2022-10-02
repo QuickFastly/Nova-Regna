@@ -1,18 +1,12 @@
----
-author: Kit
----
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>The main article could use some rewrites, so this page is also subject to change.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> The main article could use some rewrites, so this page is also subject to change.
 
 The Internal Society of the [[Children of the Flame]] shares very little with the other branches, instead operating much like a dynastic harem. They stay even further out of the public eye than the [[Enforcers]] branch due to their immoral, unethical, and illegal activity.
 
 The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown.
 
-<div style="background-color:eecccc; border-left:4px solid #ff2400; line-height:18px; padding:12px">
-	<div style="color:black"><b>Warning: </b>Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.</div>
-</div>
+> [!warning]
+> Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.
 
 ## Structure
 
@@ -47,3 +41,8 @@ The recipient is left extremely exhausted after this but unable to sleep, and th
 ### Breaking
 
 Very similar to the rite of Draining, but instead designed purely to humiliate, demoralize, and ultimately break the mind. Some recipients may end up in a vegetative state, others may have a permanent personality change, the effect varies. It can also be repeated to the point of death.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,17 +1,15 @@
 ---
-author: Kit
+tags: HT
 ---
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>Yet to be actually developed.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> Just the basics, still under active development and subject to change.
 
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Nori Inazuma</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
   
@@ -41,7 +39,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Title</b></td>
-			<td style="padding:4px">Bushi (former)<br>Kazoku</td>
+			<td style="padding:4px">武士 Bushi (former)<br>士族 Shizoku (symbolic)</td>
 		</tr>
 	
 	<tr>
@@ -60,7 +58,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birthplace</b></td>
-			<td style="padding:4px">Shizumori</td>
+			<td style="padding:4px">Shizumori, Hayagawa, Shinzen</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -90,62 +88,45 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Height</b></td>
-			<td style="padding:4px">4'5" - 134 cm</td>
+			<td style="padding:4px">134 cm / 4'5"</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Weight</b></td>
-			<td style="padding:4px">77 lb - 35 kg</td>
+			<td style="padding:4px">35 kg / 77 lb</td>
 		</tr>
 	
 </table>
 
-Add a brief explanation of who the character is and where they appear. One or two sentences is most likely all you need here, unless they were involved in an important event and you want it immediately noted.
-
-## Summary
-
-Add a more detailed summary of the character here.
+Nori Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with her husband, [[Shun Inazuma]], she traveled the world for several centuries and appears in many disparate historical events as a result. She currently lives in rural [[Shiga]] in [[Onsai]], [[Shinzen]].
 
 ## Physical description
 
-Describe the appearance and build of the character, as detailed as you can. If you want to get *super* detailed about certain aspects, feel free to add subheadings for things like outfits or conditions.
+She has deep silver eyes, brilliant white hair and fur, very large silky smooth fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers and greaves with steel plates, and a short floral kimono. More detail TBD
+
+She suffers from severe [pulmonary hypoplasia](https://en.wikipedia.org/wiki/Pulmonary_hypoplasia), leaving her constantly short of breath, prone to coughing fits, and physically weakened with extremely little stamina.
+
+Since (year), she has needed prosthetic legs starting just below the knees.
 
 ## Special abilities
 
-If this character has [[Alignment]] or [[Attunement]], since those conditions manifest differently for everyone, describe that here. Anything other than those conditions should be *exceptionally* special to be included here. Not all characters are special, so remove this section if you have nothing for it.
+Like all fox spirits, she has both [[Alignment]] and [[Attunement]]. Despite spending all of her early life being trained in the traditional sword arts of the Inazuma, she never mastered them due to her physical weakness and lack of stamina. Instead, she developed her own unique variation of Inazuma swordsmanship with the help of Shun that focuses primarily on the command of lightning rather than the blade itself. She essentially uses her sword as a catalyst to aim her lightning attacks, and prioritizes maintaining some distance rather than engaging in close combat.
+
+Also with the help of Shun, she developed the ability to slow down her perception of time, effectively speeding up her reaction time dramatically, nearly to the point of becoming foresight, which she uses to conserve her limited stamina.
 
 ## Personality
 
-Describe their personality here, using subheadings if you need to.
+Nori is a delicate and naive person. She takes things very seriously, no matter what they are, and can come off as cold as a result, but her facade of confidence and seriousness crumbles at the first sight of irreverence or embarrassment.
 
 ## Relationships
 
-Describe the character's relationships with other characters here.
-
-### Affiliations
-
-If the character is affiliated with any organizations or groups and it's important, describe them here.
+She has been married to Shun Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
 
 ## History
 
-Describe the character's personal history here. If you want a brief visual representation of the character's history, you can insert the small timeline template at the top of the page, between the start of the main text and the end of the infobox html.
+Her mother was [[Anzu Inazuma]] and her father was [[Kaki Inazuma]].
 
-If you want to go into extreme detail about this, consider using this section to write a synopsis and create additional, separate pages for events the character was involved with as needed.
-
-## Trivia
-
-Anything else you want to include about the character that doesn't really fit in any of the above headings can go here.
-
-## See also
-
-If there are any other pages that are important for this character that haven't yet been linked to, link to them here.
-
-
-
-
-[[Inazuma Clan]]
-[[Shun Inazuma]]
-
-[[Fox]]
-
-#HT
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

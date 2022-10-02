@@ -1,6 +1,12 @@
 ---
-author: Kit
+tags: PZ, RD
 ---
-stub for now.
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
 
-#RD #PZ
+Mother of [[Suruko Zukeran]].
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,6 +1,3 @@
----
-author: Kit
----
 As part of the global peace initiative that began in 19XX, the Non-Proliferation of Civilian Firearms and Projectile Weapons Treaty, commonly abbreviated as NPCF, was proposed as an important step for the initiative.
 
 The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [[Destrea]] agreed to the treaty.
@@ -30,3 +27,8 @@ While it is not specified in the treaty, some countries also restrict concealmen
 Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [[Grenneria]] and [[Ustonia]], citing high border tensions with Destrea as a concern, though they ultimately did sign.
 
 As the legal proceedings carried on, it was also made public that the proposal included total restriction of non-projectile weapons, which led to public outcry in many countries and caused these restrictions to be heavily relaxed.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

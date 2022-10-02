@@ -1,36 +1,33 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Florian</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Florian portrait.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Florian portrait.png|250]]</span>
   
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-			<!-- Line breaks are supported in these blocks by using the <br> tag -->
-			<tr><!-- Change this as needed for other credits, or remove this block -->
+			
+			<tr>
 				<td style="padding:4px"><b>Artist</b></td>
 				<td style="padding:4px"><a href="https://mogy64.newgrounds.com/">mogy64</a></td>
 			</tr>
-			<tr><!-- If no license disclosure is needed, you can remove this block -->
+			<tr>
 				<td style="padding:4px"><b>Image license</b></td>
 				<td style="padding:4px"><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></td>
-			</tr><!-- This example is a clickable link. Please use this method! -->
+			</tr>
 		
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Naming</th>
 	</tr>
-			<!-- Many of the blocks in this section are very optional, so feel free to remove the ones you don't need, or add different ones! -->
+			
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Full name</b></td>
-			<td style="padding:4px">Florian</td>
-		</tr><!-- Use ONLY first-last formatting and english text here -->
+			<td style="padding:4px"><b>Birth name</b></td>
+			<td style="padding:4px">Unknown</td>
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Alias(es)</b></td>
-			<td style="padding:4px">N/A</td>
+			<td style="padding:4px">The Destroyer</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -40,8 +37,8 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Title(s)</b></td>
-			<td style="padding:4px">N/A</td>
-		</tr><!-- Remember to use the <br> tag for line breaks! -->
+			<td style="padding:4px">God of Death</td>
+		</tr>
 	
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Profile</th>
@@ -50,52 +47,52 @@ author: Kit
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Status</b></td>
 			<td style="padding:4px">Alive</td>
-		</tr><!-- If the character is deceased, include the year of death here -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Species</b></td>
 			<td style="padding:4px">Crow spirit</td>
-		</tr><!-- Vital. If the character is a new species, make a page for that too -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birthplace</b></td>
 			<td style="padding:4px">Unknown</td>
-		</tr><!-- Be as specific or nonspecific as you want here -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Ethnicity</b></td>
 			<td style="padding:4px">Unknown</td>
-		</tr><!-- Be as specific as you want here. Just "Chiya" is okay if that's all you want, or "South Chiya", or you can create a new smaller group and make a page for it later. -->	
+		</tr>	
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Pronouns</b></td>
 			<td style="padding:4px">He/him</td>
-		</tr><!-- Required information -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Sexuality</b></td>
 			<td style="padding:4px">Could not care less</td>
-		</tr><!-- Optional. Write "N/A" or remove the block if you want -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birth date</b></td>
 			<td style="padding:4px">1019 ED</td>
-		</tr><!-- Optional. Write "unknown", a season, or remove if you want -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Age</b></td>
 			<td style="padding:4px">3,052</td>
-		</tr><!-- If the character is deceased, write the age they died at -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Height</b></td>
 			<td style="padding:4px">218 cm / 7'2"</td>
-		</tr><!-- Please use both metric AND imperial! Be specific -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Weight</b></td>
 			<td style="padding:4px">156 kg / 344 lb</td>
-		</tr><!-- Please use both metric AND imperial. Approximation is OK -->
+		</tr>
 	
 </table>
 
@@ -121,7 +118,7 @@ He claims to own other clothes, but nobody can tell if that's true since he alwa
 
 ## Special abilities
 
-He wields [[Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when he, Kerosyn and Freya work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, his [[Alignment]] gives him the ability to directly perceive the current health of all living things, as well as [psychometry](https://powerlisting.fandom.com/wiki/Psychometry) and the ability to immediately understand what a living thing is feeling on a primitive level through physical contact. Interestingly, that's all it gives him, as he experiences no other effects of the condition and cannot perceive [[Mystic Matter]]. 
+He wields [[Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on his own, but when he, Kerosyn, and Freya work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly. Finally, his [[Alignment]] gives him the ability to directly perceive the current health of all living things, as well as [psychometry](https://powerlisting.fandom.com/wiki/Psychometry) and the ability to immediately understand what a living thing is feeling on a primitive level through physical contact. Interestingly, that's all it gives him, as he experiences no other effects of the condition and cannot directly perceive [[Mystic Matter]] itself. 
 
 The obvious manifestation of his power is the inky black smoke pouring off of him, but that's only the visible result. That smoke is actually caused by his blood boiling in the veins of his arms. His body produces such an incredible amount of blood that it becomes thick and very dark, and the pressure rises to such extreme levels that the boiling occurs. To control the flow of that smoke, he actually changes the flow rate of his own blood, which is his signature use of power, blood manipulation. Should he wish to, he could slow or stop the flow of blood in another being with a slight gesture, control a body like a marionette by pushing and pulling on its blood, make himself look larger and scarier by drawing out his own blood and shaping it into things like giant wings, and so on. He can also use the smoke from his arms to influence the health of other living things by allowing it to be inhaled, or by allowing his blood to be consumed. He draws his own blood out from underneath the bandages on his abdomen. 
 
@@ -151,19 +148,21 @@ Florian is not a fighter at all and instead relies on cheap tricks to gain the a
 
 Having spent close to their entire lives together, Kerosyn, Freya, and Florian are family in all but blood relation. Florian is the middle child of the three.
 
-Florian sees Kerosyn as an annoying younger brother. He finds them to be quite irritating, but cherishes them nonetheless and tries to be there for them. He is happy to teach Kerosyn whatever they want to learn from him, but Kerosyn's short attention span makes it difficult and sometimes leads to fights. The fights tend to be short lived, and despite Kerosyn's obliviousness, they tend to be first to apologize, and Florian is quick to forgive them. Usually.
+Florian sees Kerosyn as an annoying younger sibling. He finds them to be quite irritating, but cherishes them nonetheless and tries to be there for them. He is happy to teach Kerosyn whatever they want to learn from him, but Kerosyn's short attention span makes it difficult and sometimes leads to fights. The fights tend to be short lived, and despite Kerosyn's obliviousness, they tend to be first to apologize, and Florian is quick to forgive them. Usually.
 
 He sees Freya as a sister, but they treat each other more like workplace colleagues most of the time due to their very different personalities and interests. While they may not be outwardly close, he will still defend Freya from anything. In theory. In reality, she's the one who stands up for him, because he can't come close to matching her absurd levels of confidence. Of course, she also enjoys picking on him frequently because of that, much to his chagrin, but he'll always laugh about it later.
 
 The relationship between these three can sometimes appear more parental than that of siblings due to Kerosyn's childlike nature, though they all reject the idea of that.
 
+Despite being in regular contact with [[The Sixth Storyteller]], and often in close proximity as well, Florian calls him an ally, but not a friend. They work together on many things, but Florian feels that there's something off about him and ignores his attempts to be friendly. Proximity to the Storyteller also means being close to [[Leon Van Wolfe]] and [[Mae Seraphine Walker]], both of whom Florian is on much friendlier terms with.
+
 ### Affiliations
 
-Being one of the three deities of the Children of the Flame, Florian is very strongly affiliated with them. He revels in the ego boost of being worshiped, so he frequently works closely with the organization and even reveals himself to the regular members freely. He is in frequent contact with [[The Sixth Storyteller]].
+Being one of the three deities of the Children of the Flame, Florian is very strongly affiliated with them. He revels in the ego boost of being worshiped, so he frequently works closely with the organization and even reveals himself to the regular members freely. He is in frequent direct contact with The Sixth Storyteller.
 
 ## History
 
-Some of Florian's history pre-[[Era Dira]] is described in [[The Account]].
+Some of Florian's history during [[Era Dira]] is described in [[The Account]].
 
 ## Trivia
 
@@ -172,3 +171,8 @@ Some of Florian's history pre-[[Era Dira]] is described in [[The Account]].
 - Florian doesn't need to eat or drink to survive, and for that matter has trouble keeping food down. But he does still require sleep. He can, however, survive on much less sleep than a human.
 - Florian has a stutter and an eye tic, both of which get worse with stress.
 - Thanks to Kerosyn and Freya, despite his resistance, Florian is a skilled musician. However, while those two can play pretty much anything they want well, Florian can "only" play instruments in the violin and keyboard families. He claims to have no favorite.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

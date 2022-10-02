@@ -1,50 +1,30 @@
----
-author: Kit
----
-[[Chiya]]
-[[Ciraza]]
-[[Exilan]]
-[[Farodet]]
-[[Irovell]]
-[[Shisuya]]
-[[Yinsha]]
+> [!bug] Issue
+> This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until there has been enough development for this notice to be removed, refer to the page on [[Appropriate real-world influences]] for some context and inspiration on the differences between these groups.
 
-Going to revamp ALL of this later
+The population of [[Earth]], both [[Human|human]] and [[Spirits|spirit]], is comprised of many distinct ethnic and cultural groups that have developed, proliferated, appeared, and disappeared throughout history. Today, ethnicity is typically associated primarily with the ancestry and culture of the many nations and states of the world, but archaeological discoveries dated between 2000 and 3000 years old have shown that the many distinct groups that exist today all diverged from seven major ethnic groups.
 
-![[Flat (Indigenous skin tones).png]]
+<span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse; font-size:10px">![[cc _parents.png|250]]<br><i>World population by major ethnic groups</i><br><br>![[Flat (Indigenous skin tones).jpg|250]]<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>
 
----
+The seven major ethnic groups are as follows.
+- [[Chiyan]], originating from central [[Sangyon]]
+- [[Cirazan]], originating from eastern [[Destrea]]
+- [[Exilan]], originating from northern [[Corstaea]]
+- [[Farodet]], originating from central [[Grenneria]]
+- [[Irovell]], originating from northern [[Osun Tanum]]
+- [[Shisuya]], originating from southern [[Shinzen]]
+- [[Yinsha]], originating from western [[Shaohou]]
 
-Old distribution:
+While these seven groups have been scientifically proven to exist, are recognizable as genetically distinct from one another, and typically each share some distinct common physical features, the common perspective on the existence of the many other ethnic groups descended from the first seven is that they are primarily social constructs, with identities formed through the natural development of new cultures that tended to remain grouped together throughout history, especially with the development of new languages, and that the apparent physical features shared by some smaller, more recently developed ethnic groups being features that were always present, but had become more localized to these new ethnic groups over time due to societal rules and preferences.
 
-- Chiya
-	- North (korean with a bit of norwegian)
-	- South (korean)
-- Ciraza
-	- East (italian, spanish, brazilian)
-	- Island (maori)
-	- North (samoa)
-	- West (mexico and the rest of south america)
-- Exilan
-	- East (australian)
-	- High (non-gaelic uk)
-	- Island (gaelic (scottish, irish, welsh))
-	- Low (french)
-	- North (german)
-	- South (canadian)
-	- West (american)
-- Farodet
-	- Central (polish/west slav)
-	- North (russian/east slav)
-	- South (romanian)
-- Irovell
-	- Central (norwegian)
-	- Low (danish and icelandic)
-	- North (finnish)
-	- South (swedish)
-- Shisuya
-	- North (japanese)
-	- South (specifically osaka)
-- Yinsha
-	- East (han chinese)
-	- West (miao chinese)
+## History
+
+TBD
+
+%% We still need to write some real history about how the seven original groups of people are thought to have spread out across the world. The history on this page should only document that, and any history more specific to a given group or related to the ethnogenesis of new groups should be kept to their respective pages instead. 
+
+Still undecided on whether or not there should be a meaningful amount of history from Era Dira regarding these first people, or if it should have been erased with the rest of history from that time. %%
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

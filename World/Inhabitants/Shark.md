@@ -1,12 +1,9 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shark spirit</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
@@ -67,7 +64,7 @@ Shark spirits have significantly stronger bones and muscles than [[Human|humans]
 
 ### Life cycle
 
-Shark spirits grow at the same rate as humans, but continue to grow taller for an additional few years, giving them their distinctive towering stature. Around 60 years of age, their hair never turns gray and their skin rarely becomes wrinkled, yet their bodies begin to wither away on the inside.
+Shark spirits grow at the same rate as humans, but continue to grow taller for an additional few years, giving them their distinctive towering stature. Around 60 years of age, their hair never turns gray and their skin rarely becomes wrinkled, yet their bodies begin to wither away on the inside. As a result, the most common cause of death among shark spirits (excluding violent causes) is multiple organ dysfunction syndrome.
 
 It is theorized that this is caused by their immense everyday energy expenditure becoming too much for their bodies to handle, and that they may be able to live far longer with further advancement of medical technology.
 
@@ -81,10 +78,15 @@ Many can be found in [[Alastor]], where they often serve as volunteer border and
 
 Shark spirits are notoriously volatile and angry. Many of them, due to their instinctive inclinations for violence, are hooked to the thrill of fighting, leading them to join the military, where they have a reputation for being a constant source of trouble due to their short fuses and tendency to defy orders.
 
-Outside the military, they typically become aimless wanderers, feeling as though their lives have no purpose due to how difficult their instincts make it for them to fit well in society. Over time, they have grown bitter with society at large, making it extremely difficult to make friends with a shark spirit without knowing exactly how to impress them.
+Outside the military, they often become aimless wanderers, feeling as though their lives have no purpose due to how difficult their instincts make it for them to fit well in society. Over time, they have grown bitter with society at large, making it extremely difficult to make friends with a shark spirit without knowing exactly how to impress them.
 
-There are some rare exceptions to this majority. Shark spirits raised by a parent of another race tend to view the world and other people much more positively, and can become quite compassionate and friendly. They learn to suppress their instincts, which does cause some strange quirks in their behavior, but those quirks bring the unintentional benefit of making them more likable.
+There are some rare exceptions to this majority. Shark spirits raised by at least one parent of another species tend to view the world and other people much more positively, and can become quite compassionate and friendly. They can learn to suppress their instincts, which does cause some strange quirks in their behavior, but those quirks bring the unintentional benefit of making them more likable.
 
 ### Interracial relations
 
 Shark spirits are typically quick to anger and slow to forgive, so anyone who doesn't immediately make a positive impression with them will likely be on their bad side forever. They don't care about racial differences, but tend to view most people negatively regardless.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

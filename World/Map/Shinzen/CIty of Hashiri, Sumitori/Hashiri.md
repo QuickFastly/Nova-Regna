@@ -1,6 +1,11 @@
 ---
-author: Kit
+tags: PG
 ---
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
+
+![[Hashiri map.jpg|300]]
+
 [[Sumitori]]
 
 [[Kanjō Ward]]
@@ -23,3 +28,8 @@ author: Kit
 [[Etazu]]
 [[Kitabe]]
 [[Jatōge]]
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

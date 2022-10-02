@@ -1,12 +1,12 @@
----
-author: Kit
----
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
+
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Ozen Federation</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Ozen Federation flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Ozen Federation flag.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -16,22 +16,37 @@ author: Kit
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px"><b>Year of Formation</b></td>
+			<td style="padding:4px">1978</td>
+		</tr>
+  
+		<tr style="border-bottom:1px solid #666; solid #666">
+			<td style="padding:4px"><b>Alternative Names</b></td>
+			<td style="padding:4px">Ozen<br>The Federation</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Members</b></td>
 			<td style="padding:4px">Corstaea<br>Grenneria<br>Osun Tanum</td>
 		</tr>
 	
 </table>
 
-f
+The Ozen Federation is an independent militarized political and legislative entity formed as a joint effort in 1978 by [[Corstaea]], [[Grenneria]], and [[Osun Tanum]] in response to the potential economic and military threat of the [[Yulentia Trade Union]]. The Foundation works to improve the quality of life of the citizens within it by allowing free trade and travel between the countries within the Federation, as well as providing free education and healthcare to everyone within the Federation, citizen or not. They facilitate this by imposing a flat 17.5% sales tax on luxury goods sold within the Federation, called the Ozen Maintenance Tax or OMT.
 
 ## History
 
-f
+TBD
 
 ## Government & Politics
 
-f
+TBD
 
-[[Corstaea]]
-[[Grenneria]]
-[[Osun Tanum]]
+## See also
+
+[[Ozen]]
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

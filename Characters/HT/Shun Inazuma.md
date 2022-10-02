@@ -1,17 +1,15 @@
 ---
-author: Kit
+tags: HT
 ---
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>Yet to be actually developed.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> Just the basics, still under active development and subject to change.
 
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shun Inazuma</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
   
@@ -41,7 +39,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Title</b></td>
-			<td style="padding:4px">Bushi (former)<br>Shizoku</td>
+			<td style="padding:4px">武士 Bushi (former)<br>士族 Shizoku (symbolic)</td>
 		</tr>
 	
 	<tr>
@@ -65,12 +63,12 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Ethnicity</b></td>
-			<td style="padding:4px">Yinsha-Shisuya</td>
+			<td style="padding:4px">Yao-Shisuya</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Pronouns</b></td>
-			<td style="padding:4px">He/him</td>
+			<td style="padding:4px">He/she/they</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -90,62 +88,45 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Height</b></td>
-			<td style="padding:4px">4'4" - 132 cm</td>
+			<td style="padding:4px">132 cm / 4'4"</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Weight</b></td>
-			<td style="padding:4px">82 lb - 37 kg</td>
+			<td style="padding:4px">37 kg / 82 lb</td>
 		</tr>
 	
 </table>
 
-Add a brief explanation of who the character is and where they appear. One or two sentences is most likely all you need here, unless they were involved in an important event and you want it immediately noted.
-
-## Summary
-
-Add a more detailed summary of the character here.
+Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with his wife, [[Nori Inazuma]], he traveled the world for several centuries and appears in many disparate historical events as a result. He currently lives in rural [[Shiga]] in [[Onsai]], [[Shinzen]].
 
 ## Physical description
 
-Describe the appearance and build of the character, as detailed as you can. If you want to get *super* detailed about certain aspects, feel free to add subheadings for things like outfits or conditions.
+He has brilliant blue eyes, jet black hair and fur, very large and somewhat rough fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers, a sleeveless floral kimono-style top, and baggy pants tied around the ankles. More detail TBD
+
+He lost his right arm entirely in (year).
 
 ## Special abilities
 
-If this character has [[Alignment]] or [[Attunement]], since those conditions manifest differently for everyone, describe that here. Anything other than those conditions should be *exceptionally* special to be included here. Not all characters are special, so remove this section if you have nothing for it.
+Like all fox spirits, he has both [[Alignment]] and [[Attunement]]. He was a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with his ability to slow his perception of time and force his body to move proportionally faster made him one of the most feared swordmasters of Shinzen.
+
+After losing his right arm, he immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of his homeland of [[Shaohou]]. He never drew a sword again since then.
 
 ## Personality
 
-Describe their personality here, using subheadings if you need to.
+Shun is a mischievous and curious person. He takes nothing seriously, no matter what it is, and can come off as rude and disrespectful as a result, but his actions show his deep compassion for others much more obviously than his words.
+
+While it is typical for fox spirits to think very little of gender roles and expectations, and most of the world is aware of that and treats them appropriately, Shun was raised with an acute awareness of traditional gender roles and enjoys taking full advantage of that common belief to tease and manipulate others, and will respond the same way to any pronouns or gendered treatment. His only preference is that he be called Nori's husband, not her wife, out of respect to her.
 
 ## Relationships
 
-Describe the character's relationships with other characters here.
-
-### Affiliations
-
-If the character is affiliated with any organizations or groups and it's important, describe them here.
+He has been married to Nori Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
 
 ## History
 
-Describe the character's personal history here. If you want a brief visual representation of the character's history, you can insert the small timeline template at the top of the page, between the start of the main text and the end of the infobox html.
+He was born in [[Taihua]], [[Yuezou]], Shaohou to a Shisuya mother and Yao father, the names of both unknown, but history suggests that his mother was the third daughter of the first Inazuma. According to Shun, his mother raised him as a daughter to protect him from the rulers of the time, and it was her that taught him swordsmanship in secret and crafted the Shaohan sword he still holds today. He was sent away on his long solitary journey eastward through Shinzen by his mother after the rulers discovered that she was hiding Shun's true nature from them.
 
-If you want to go into extreme detail about this, consider using this section to write a synopsis and create additional, separate pages for events the character was involved with as needed.
-
-## Trivia
-
-Anything else you want to include about the character that doesn't really fit in any of the above headings can go here.
-
-## See also
-
-If there are any other pages that are important for this character that haven't yet been linked to, link to them here.
-
-
-
-
-[[Inazuma Clan]]
-[[Nori Inazuma]]
-
-[[Fox]]
-
-#HT 
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

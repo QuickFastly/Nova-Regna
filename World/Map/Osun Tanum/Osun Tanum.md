@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Osun Tanum</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Osun Tanum flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Osun Tanum flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Osun Tanum (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Osun Tanum (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1634</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Irovell: 49%<br><i>- South: 73%<br>- Low: 21%<br>- Others: 6%</i><br>Exlian: 42%<br><i>- North: 35%<br>- East: 53%<br>- West: 10%<br>- Others: 2%</i><br>Others: 9%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">White-tailed deer</td>
 		</tr>
@@ -94,11 +86,11 @@ The country has remained non-aggressive to a fault, even losing over 80% of thei
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
-Osun Tanum is an almost entirely temperate region with forests throughout most of it, several large rivers, and a fairly equal distribution of flatlands and rolling hills. The [[Sprettekniven Mountains|Sprettekniven]] mountain range runs across most of the northern border of the country.
+Osun Tanum is an almost entirely temperate region with forests throughout most of it, several large rivers, and a fairly equal distribution of flatlands and rolling hills. [[Himlavård]] runs across much of the northern border of the country.
 
 ## Government & Politics
 
@@ -116,18 +108,6 @@ Osun Tanum is divided into six states, each with their own state government over
 - [[Sondergård]]
 - [[Vastdal]]
 
-### Executive branch
-
-The executive branch is headed by an elected president and vice president, and supported by a cabinet of advisors. It is held accountable by the legislative branch, which holds the power to remove the it from power with a majority vote of no confidence.
-
-### Legislative branch
-
-The legislative branch is headed by an elected prime minister in a parliamentary system. It is held accountable by the executive branch, which holds the power to remove the it from power with a majority vote of no confidence.
-
-### Judicial branch
-
-The judicial branch operates independently of the other branches to oversee and moderate their actions. It also hold the power to directly intervene in specific situations, like when another branch is found to be acting against the constitution, or thought to be tipping the scales of power too far.
-
 ### Military
 
 The military of Osun Tanum is divided into four branches, being the Army, Navy, Air Force, and Home Guard. Their numbers are small, particularly in the navy, but they are very well trained and equipped. Osun Tanum also prides itself on having the best trained air force in the world, with many of their pilots being capable of downing aircraft a generation newer than their own. The only nation that stands a chance against Osun Tanum in the air is Shinzen with their highly competitive training plus advanced aircraft.
@@ -136,7 +116,7 @@ More than any other nation, Osun Tanum is extremely dedicated to international p
 
 ### Foreign relations
 
-f
+![[Political relations chart (Osun Tanum).svg]]
 
 ## Economy
 
@@ -162,17 +142,6 @@ Some primary exports of Osun Tanum are aerospace technology, wine, and organic f
 
 ## Demographics
 
-- [[Irovell]]: 49%
-	- [[South Irovell|South]]: 73%
-	- [[Low Irovell|Low]]: 21%
-	- Others: 6%
-- [[Exilan]]: 42%
-	- [[North Exilan|North]]: 35%
-	- [[East Exilan|East]]: 53%
-	- [[West Exilan|West]]: 10%
-	- Others: 2%
-- Others: 9%
-
 Osun Tanum has a very high population of [[Spirits|spirits]] and is extremely welcoming towards them, largely following in the footsteps of Corstaea to raise awareness and acceptance as well as reduce discrimination. However, the country has not gone so far as to remove spirit identification from the census entirely, like Corstaea has done, much to the delight of statisticians the world over.
 
 Spirit population according to the 2030 census: 19,614,205
@@ -190,12 +159,29 @@ It is suspected that there are many more spirits than this in the country, but i
 
 ### Education
 
-f
+Education in Osun Tanum is provided primarily by public schools, which are tuition-free and provide all required educational materials, appropriate clothing or uniforms, and lunches to their students free of charge regardless of economic status. The Tanish school system is typically divided into three levels, being elementary (grades 1-7), lower secondary (grades 7-10), and upper secondary (grades VG1-VG3). Elementary and lower secondary education are compulsory under Tanish law.
+
+Private schools exist, but are strictly regulated and are rare as a result. Private schools are only legally permitted to operate if they provide a significantly unique alternative method of education that has been proven to produce satisfactory results. Families below a certain threshold of economic status are entitled to financial grants from the Ozen Federation to allow them to select a private school if they wish.
+
+Education standards, including the preferred methods and schedules used in public schools, are managed collaboratively between the Tanish government and student representatives of all ages from all six states, leading to Tanish students spending less time in schools than students anywhere else in the world, the abolishment of homework, and significant reductions in time spent on common courses, instead favoring a wide range of courses focused on real-world skills.
+
+The educational system of Osun Tanum produces the best results in the world according to both international test score surveys and independent short and long term surveys of student happiness.
 
 ### Health
 
-f
+Healthcare in Osun Tanum is provided universally to all citizens of the Ozen Federation, primarily through nationally owned and operated hospitals, clinics, and pharmacies, all of which are paid with tax revenue and therefore do not charge patients at all for any care they receive. Privately owned alternatives exist, but are legally required to be operated as non-profit businesses and are subject to extreme regulation to ensure that all patients of any economic status can receive equal levels of care, with the Ozen Federation providing financial support to those that cannot afford the allowed charges from these businesses.
+
+The overall health of Tanish citizens is excellent.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,16 +1,10 @@
----
-author: Kit
----
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>The main article could use some rewrites, so this page is also subject to change.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> The main article could use some rewrites, so this page is also subject to change.
 
 The Enforcers branch of the [[Children of the Flame]] is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.
 
-<div style="background-color:eecccc; border-left:4px solid #ff2400; line-height:18px; padding:12px">
-	<div style="color:black"><b>Warning: </b>Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.</div>
-</div>
+> [!warning]
+> Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame.
 
 ## Structure
 
@@ -41,3 +35,8 @@ This rite is performed by one of the Sanctified, as a much more merciful version
 ### Purification
 
 This rite is performed by either an Inquisitor or one of the Sanctified, and is reserved for the truly heinous heretics. The recipient is restrained and stretched on a rack, sacred texts are fervently read, then the recipient is cut open with a Y-shaped incision and immolated from the inside out.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

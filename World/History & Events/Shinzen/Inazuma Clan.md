@@ -1,14 +1,17 @@
 ---
-author: Kit
+tags: HT
 ---
+> [!bug] Issue
+> This page is a first draft, and is guaranteed to change in the future.
+
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Inazuma Clan</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Inazuma kamon.jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Inazuma kamon.jpg|250]]</span>
   
-  <span align="center"  style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Inazuma hanko.jpg|150]]</span>
+  <span align="center"  style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Inazuma hanko.jpg|150]]</span>
   
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	
@@ -34,7 +37,7 @@ author: Kit
 	
 </table>
 
-The Inazuma [[Clans of Shinzen|Clan]] (電) was a small family of [[Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning, who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].
+The Inazuma [[Clans of Shinzen|Clan]] (電) was a small family of [[Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].
 
 They maintained isolationist behavior for their entire reign and were entirely self supported. Being secluded deep within a forest, extremely few outsiders ever visited their lands, and most that did got there on accident while traveling, but outsiders were almost always treated with uncanny hospitality, leading to the clan eventually building a rather mystical reputation that slowly spread throughout northern [[Shinzen]].
 
@@ -44,19 +47,21 @@ In 1966, Nori and Shun returned to Shinzen and their noble status was officially
 
 ## History
 
+![[Inazuma family tree.svg]]
+
 ### Origins
 
 According to legend, the Emperor was returning to the capital after a tour of his lands and found himself lost in unfamiliar woods, separated from his entourage. Remaining calm, he chose to sit down in that spot and wait to be found. After a full day and night, he was awakened by the sound of falling bodies and saw a fox spirit cutting down an assailant before him.
 
-This fox spirit offered her hand to him and led him to her home, gave him food and drink, then led him back to what remained of his entourage. He then asked her to demonstrate her sword skills once more on the bamboo surrounding them, and was astonished by not only her lightning fast speed, but also that her sword was truly emanating lightning as it sliced through the air. He then gave her the family name Inazuma, declared that she will now be recognized as the daimyō of this land, and her family as noble samurai.
+This fox spirit offered her hand to him and led him to her home, gave him food and drink, then led him back to what remained of his entourage. He then asked her to demonstrate her sword skills once more on the bamboo surrounding them, and was astonished by not only her lightning fast speed, but also that her sword was truly emanating lightning as it sliced through the air. He then gave her the family name Inazuma, declared that she and her family shall be recognized as nobility, and granted her official ownership of the land surrounding her home.
 
-According to Nori and Shun, the Inazuma family line did begin with that fox woman alone, though she never married, instead bearing children on accident. She bore triplet daughters, one of whom killed her before fleeing to Shaohou and abandoning her name. The remaining two daughters, possibly out of spite for their sister, took husbands and began the true Inazuma legacy. They neither confirm nor deny the validity of the legend, however.
+According to Nori and Shun, the Inazuma family line did begin with that fox woman alone, though she never married, instead bearing children on accident. She bore triplet daughters, one of whom killed her before fleeing to Shaohou and abandoning her name. The remaining two daughters, possibly out of spite for their sister, took husbands and began the true Inazuma legacy. They otherwise neither confirm nor deny the validity of the legend.
 
 ### Kagetsu resistance
 
 Historically, the Kagetsu clan toured the lands and confronted every daimyō, giving each the ultimatum of subjugation or death, before ultimately overthrowing the shogun in the Siege of Soukotan and unifying Shinzen as one nation. A huge majority of the daimyō chose to resist and were wiped out, including the Inazuma.
 
-The Kagetsu described their opposition as stubborn fools clinging to their old ways, against the progress of the nation, and were particularly vitriolic in their description of the Inazuma, calling them lapdogs to a dead master.
+The Kagetsu described their opposition as stubborn fools clinging to their old ways, against the progress of the nation, and were particularly vitriolic in their description of the Inazuma, describing them as lapdogs clinging to the corpse of their master.
 
 Kagetsu accounts claim that a messenger was sent to the Inazuma to inform them peacefully of the coming ultimatum, and was killed by the Inazuma. The ensuing battle was a decisive victory for the Kagetsu, leaving no survivors and taking no losses. They then razed the village, leaving it in ruin.
 
@@ -68,26 +73,21 @@ The ensuing battle was relentless and far from decisive, with the Kagetsu taking
 
 What they say is not just plausible, but likely true, given that several notable individuals associated with the Kagetsu seemingly disappeared just before the Siege of Soukotan, never to be mentioned again. The Kagetsu were likely humiliated and shamed by their losses to the Inazuma and chose to cover it up so as not to tarnish their reputation.
 
-This side of the story remains a subject of heated debate among historians and Shinzenese patriots.
+This side of the story remains a subject of heated debate among historians and Shinzenese patriots and nationalists.
 
 ### Notable stories
 
-Allegedly, the same emperor who bestowed upon the Inazuma family their status visited their lands again shortly before his death, and was impressed by the family's progress in establishing a village. When he met the two daughters and learned about the death of their mother, he cried in public, and offered a blessing to the family.
+Allegedly, the same emperor who bestowed upon the Inazuma family their status visited their lands again shortly before his death, and was impressed by the family's progress in establishing their village. When he met the two daughters and learned about the death of their mother, he cried in public, and offered a blessing to the family.
 
-During the extremely brief restoration of imperial rule before the transition to the Ikute period, the emperor of the time was allegedly hosted by the Inazuma for a night and was pleased by their hospitality. No record exists of this, but it is likely true based on the fact that several other families in different regions repeated the same story.
+During the extremely brief restoration of imperial rule before the transition to the Ikute period, the emperor of the time was allegedly hosted by the Inazuma for a night and was pleased by their hospitality. No record exists of this, but it is believed due to several other families in different regions that have repeated the same story.
 
 There is a folk tale common in the state of Hayagawa of a traveling monk who fell unconscious under a tree and met a fox spirit there, who gave him rice and water. No words were exchanged between them, and when the monk was able to stand once more, the fox disappeared with a bright flash in the blink of an eye. Some believe this to have been a member of the Inazuma family.
 
-The Inazuma were remarkable sword crafters, as shown by the small handful of surviving examples. They were forged with a technique entirely unique to the Inazuma that has never been perfectly replicated, and were decorated much more ornately than any other swords throughout the history of Shinzen. One daishō was allegedly given as a gift to the shogun at the start of the Ikute period, but was later lost under unknown circumstances. Historians believe this daishō is one of the two examples in the national heritage museum, but are not sure which one.
+The Inazuma were remarkable sword crafters, as shown by the small handful of surviving examples. They were forged with a technique entirely unique to the Inazuma that has never been perfectly replicated, and were decorated much more ornately than any other swords throughout the history of Shinzen, most notably with vividly colored blades. One daishō was allegedly given as a gift to the shogun at the start of the Ikute period, but was later lost under unknown circumstances. Historians believe this daishō is one of the two examples in the national heritage museum, but are not sure which one.
 
 There are numerous reports of yōkai sightings in several northern forest trails around the border between the states of Hayagawa and [[Miwae]]. According to several historical accounts, the Inazuma were most commonly sighted around that area and were viewed as guardians of the forest. This leads some to believe that these yōkai are the ghosts of the Inazuma, still guarding their homeland against outsiders.[^1]
 
-## See also
-
-#HT 
-
-[^1]: See [[On the soul, living or otherwise#Paranormality|Paranormality]] (Meta)
-
+[^1]: This is true, though the people don't know the full truth. See [[On the soul, living or otherwise#Paranormality|Paranormality]] (Meta)
 
 %% Name bank
 
@@ -112,3 +112,9 @@ Fuyu 冬 (winter)
 Haru 春 (spring)
 Natsu 夏 (summer)
 Aki 秋 (autumn)
+%%
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

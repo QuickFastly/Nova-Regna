@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Ilmaria</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Ilmaria flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Ilmaria flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Ilmaria (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Ilmaria (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">198X</td>
+			<td style="padding:4px">1984</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Exilan (West): 49%<br>Shisuya: 38%<br><i>- North: 71%<br>- South: 29%</i><br>Others: 13%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Golden eagle</td>
 		</tr>
@@ -94,11 +86,11 @@ It is believed by many to be the first time in history that true utopia has been
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
-As an entirely man-made landmass, Ilmaria has an almost entirely urban topography. It is most famously known for its two-tiered structure, with nearly half the area of the country being elevated 40 stories. There are dense forests along the lower edge of the country with plenty of flora and fauna carefully maintained throughout the rest of the country, with heavy usage of hydroponics. The climate is tropical and experiences the same seasonal effects as the natural land surrounding the country.
+As an entirely man-made landmass, Ilmaria has an almost entirely urban topography. It is most famously known for its two-tiered structure, with nearly half the area of the country being elevated 40 stories, and for the colossal building in the center of the nation that reaches from the very bottom of the landmass to 3.22 kilometers (2 miles) above sea level. There are dense forests along the lower edge of the country with plenty of flora and fauna carefully maintained throughout the rest of the country, with heavy usage of hydroponics. The climate is tropical and experiences the same seasonal effects as the natural land surrounding the country.
 
 ## Government & Politics
 
@@ -106,7 +98,7 @@ Ilmaria is an oligarchy run by only a small handful of elite 11K employees. Orig
 
 ### Administrative divisions
 
-Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [[Nova]], is an incredibly dense city accounting for well over half of the population, most being laborers living in poverty. The upper level, [[Ventura]], is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged.
+Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [[Nova]], is an incredibly dense city accounting for over 70% of the population, most being laborers living in poverty. The upper level, [[Ventura]], is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged. The colossal building in the center of the nation known as Avalon is a third independently governed region, serving as the national capital, albeit with a fraction of the population of Ventura.
 
 ### Military
 
@@ -116,7 +108,7 @@ Further bolstering the defensive capability of the nation are defense contracts 
 
 ### Foreign relations
 
-f
+![[Political relations chart (Ilmaria).svg]]
 
 ## Economy
 
@@ -142,12 +134,6 @@ Since 11K acts as the central government of Ilmaria, the goods and services of 1
 
 ## Demographics
 
-- [[West Exilan|Exilan (West)]]: 49%
-- [[Shisuya]]: 38%
-	- [[North Shisuya|North]]: 71%
-	- [[South Shisuya|South]]: 29%
-- Others: 13%
-
 Ilmaria is the second most welcoming towards [[Spirits|spirits]], second only to [[Alastor]]. There is no systemic discrimination whatsoever beyond simple identification, and societal discrimination is rare to see and minimal in effect, mostly coming in the form of innocent fascination from people who have never seen a spirit before.
 
 Spirit population according to state records: 804,434
@@ -163,12 +149,25 @@ Spirit population according to state records: 804,434
 
 ### Education
 
-f
+Education in Ilmaria is universal and entirely free of charge for all people in the country, regardless of status, while also being entirely privatized. All schools are privately owned and operated, and receive compensation at fair market rates through Ilmaria's automated tax system. These schools are permitted to set their own curriculums, methods, and schedules, provided they produce satisfactory results in annual standardized testing. Most schools in Ventura place disproportionate focus on science and art related courses, while most schools in Nova place disproportionate focus on work ethic and practical skills for entry level employment.
+
+The Ilmarian educational system produces average results, with 4th, 8th, and 12th grade students consistently being ranked 5th in international test score surveys.
 
 ### Health
 
-f
+Healthcare in Ilmaria is universal and entirely free of charge for all people in the country, regardless of status, while also being entirely privatized. All hospitals, clinics, pharmacies and so on are privately owned and operated, and receive compensation at the fair market rate through Ilmaria's automated tax system. These facilities are some of the best equipped in the world with extremely well trained doctors and surgeons in high supply.
+
+Despite the apparent quality of the medical services offered in Ilmaria, the overall health of Ilmarian citizens is average. Residents of Ventura receive world-leading preventative care, but residents of Nova receive only reactionary care in response to symptoms and injuries.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

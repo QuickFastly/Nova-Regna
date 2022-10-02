@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shaohou</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Shaohou flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shaohou flag.png|250]]</span>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Shaohou (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shaohou (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Unification</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">451</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Yinsha: 96%<br><i>- East: 62%<br>- West: 38%</i><br>Others: 4%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Giant panda</td>
 		</tr>
@@ -93,7 +85,7 @@ Bitter rivals with Shinzen since time immemorial, Shaohou dedicated itself almos
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
@@ -115,15 +107,13 @@ The country is divided into six territories, all under the control of the ruling
 - [[Xinwei]]
 - [[Yuezou]]
 
-%% Rename Naransai to Xinwei? Sagana to Yuezou? Mianshui to Nanjiang? Mianrao to Qihua? %%
-
 ### Military
 
 The Shaohan military, better known as the People's Protection Army or PPA, is divided into three primary branches, being the PPA Ground Forces, PPA Navy, and PPA Air Force. While its army is comparatively large, the vast majority of it is in the Ground Forces, and the entire military is one to two full generations behind the rest of the world, both technologically and in training, as a direct result of the country's centuries of stagnation.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Shaohou).svg]]
 
 ## Economy
 
@@ -149,21 +139,29 @@ Some primary exports of Shaohou are unskilled labor, manufacturing, and agricult
 
 ## Demographics
 
-- [[Yinsha]]: 96%
-	- [[East Yinsha|East]]: 62%
-	- [[West Yinsha|West]]: 38%
-- Others: 4%
-
 Shaohou is extremely prejudiced against [[Spirits|spirits]], systemically and societally, leading to extreme oppression in addition to the already great challenges associated with living under Shaohan rule. Accurate statistics are not available for spirit population even though it is known that the country keeps track of them.
 
 ### Education
 
-f
+Education in Shaohou is provided primarily by a state-run public school system which is managed by the People's Ministry. All citizens must attend school for a minimum of nine years of compulsory education, which is funded by the government and typically includes six years of primary education between 6 and 12 years of age, followed by three years of junior secondary education. The following three years of senior secondary education are not compulsory, but most students still complete senior secondary education. Post-secondary education was once also funded by the government, but today students must compete for scholarships based on their academic achievements to be able to enroll.
+
+The Shaohan educational system has historically been poor, but today produces slightly below average results, with 4th, 8th, and 12th grade students ranking 6th in international test score surveys and slowly improving further with every survey. Many believe that this sudden improvement in educational performance can be attributed to the drastic reduction in state-centric and anti-Shinzen material included in courses, and by imitating aspects of the Ustonian model.
 
 ### Health
 
-f
+Healthcare in Shaohou utilizes both public and private medical institutions and insurance programs, and is offered in two parallel forms, one for modern medicine and one for traditional medicine. Despite over 95% of the Shaohan population having at least basic health insurance coverage, the majority of people of below average economic status still cannot afford the costs they are responsible for to receive modern medicine under the current system, leading many insured people to go without care, or to choose traditional medicine as a more affordable alternative despite its unproven and unscientific nature and lack of verifiable results.
+
+The overall health of Shaohan citizens is very poor.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

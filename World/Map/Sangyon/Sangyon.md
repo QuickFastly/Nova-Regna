@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Sangyon</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Sangyon.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Sangyon.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Sangyon (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Sangyon (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1361</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Chiya: 89%<br><i>- North: 31%<br>- South: 69%</i><br>Others: 11%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Carp</td>
 		</tr>
@@ -92,7 +84,7 @@ Even in times of war, the country has always remained optimistically focused on 
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
@@ -106,7 +98,7 @@ The country follows a remarkably similar system of government as Shinzen, as it 
 
 ### Administrative divisions
 
-The country is divided into 16 prefectures, many of which are their own islands. These prefectures are controlled by the central government with no autonomy, instead having a set of locally elected representatives to petition the central government on issues. These states are as follows.
+The country is divided into 16 prefectures, many of which are their own islands or archipelagos. These prefectures are controlled by the central government with no autonomy, instead having a set of locally elected representatives to petition the central government on issues. These states are as follows.
 - [[Cheosu]]
 - [[Dangje]]
 - [[Gangsu]]
@@ -124,25 +116,13 @@ The country is divided into 16 prefectures, many of which are their own islands.
 - [[Tanje]]
 - [[Wonsan]]
 
-### Executive branch
-
-f
-
-### Legislative branch
-
-The Prime Minister of Sangyon and the Cabinet...
-
-### Judicial branch
-
-The Supreme Court of Sangyon and other interior courts operate independently from the executive and legislative branches of government and keep them in check.
-
 ### Military
 
 The military of Sangyon, better known as the Republic of Sangyon Armed forces or ROSA, is divided into three main branches, being the Army, Navy, and Air Force. They are technologically one generation behind the rest of the world and are incredible few in numbers, but are well trained for defense operations.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Sangyon).svg]]
 
 ## Economy
 
@@ -168,11 +148,6 @@ The largest contributor to the economy of Sangyon is the tourism industry, but s
 
 ## Demographics
 
-- [[Chiya]]: 89%
-	- [[North Chiya|North]]: 31%
-	- [[South Chiya|South]]: 69%
-- Others: 11%
-
 Sangyon experiences nearly the opposite problem as Shinzen regarding [[Spirits|spirit]] acceptance. Systemic discrimination is nonexistent and spirits technically have absolute equality with humans in the country, but societal discrimination still runs rampant as many people are overly wary based on outdated ideas, old stories, and xenophobia. A happy spirit is a rare sight in Sangyon.
 
 Spirit population as of the 2030 census: 7,075,287
@@ -190,12 +165,29 @@ It is suspected that there are many more spirits than this in the country, but i
 
 ### Education
 
-f
+Education in Sangyon is provided primarily by public schools, but private schools are a popular choice among richer families. Education is compulsory for children between 7 and 18 years of age, but many families choose to enroll their children in nursery schools as early as 1 year of age, and the vast majority of students pursue four or more years of post-secondary education. Over 95% of students also attend private cram schools to supplement their education.
+
+All education within the compulsory age range is tuition-free, both in public and private schools, and any required educational materials and appropriate clothing or uniforms are provided free of charge, but students are responsible for purchasing or supplying their own food. Public schools offering education to students outside of the compulsory range charge a nationally regulated tuition fee, and private schools are free to set their tuition fees as they please.
+
+Standards for students, teachers, and schools are higher in Sangyon than anywhere else in the world, with students being expected to achieve scores that would be considered above average in most of the world merely to pass, teachers being required to complete six or more years of university education majoring in the type of education they wish to provide, and schools being subject to regular inspections to ensure they are properly maintained.
+
+The education system of Sangyon produces excellent results, with 4th, 8th, and 12th grade students consistently being ranked 2nd in international test score surveys, as well as the highest percentage of university graduates in the world. However, there is significant pressure, both from within Sangyon and internationally, to relax the educational standards of the country, citing extremely poor mental health among students from the overwhelming workload and expectation to succeed, authoritarian teachers and schools, a lack of student rights, systemic stigmatization of vocational education leading to an abundance of over-educated people that causes many less "prestigious" job openings to be very difficult to fill, and poor physical health among students due to the neglect of physical education in favor of over-emphasis on classroom based education.
 
 ### Health
 
-f
+Healthcare in Sangyon is universal, though a significant portion of it is privately funded. Citizens of Sangyon with income beyond certain thresholds are required to pay proportional contributions towards the national health insurance service both to insure themselves and their families, and to help make it possible for patients in worse economic situations to receive equal care entirely free of charge.
+
+The overall health of the citizens of Sangyon is excellent, and the country's healthcare system is consistently ranked as the best in the world in patient satisfaction, efficiency, and quality of care.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

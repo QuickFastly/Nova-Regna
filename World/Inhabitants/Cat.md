@@ -1,12 +1,9 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Cat spirit</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
   
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
@@ -53,7 +50,7 @@ A common legend shared by cat spirits is that they were created by [[Human|human
 
 ## Anatomy & physiology
 
-Cat spirits all possess at least one tail, but may possess a maximum of two in extremely rare cases. Most, but not all, also possess animal ears. Rarely, they may possess vertical slit pupils, pronounced fangs, or a rough textured tongue. It is believed that the more cat-like the person is, the stronger their [[Attunement]] is.
+Cat spirits all possess at least one tail, but may possess a maximum of two in extremely rare cases. Most, but not all, also possess animal ears. Rarely, they may possess vertical slit pupils, pronounced fangs, or a rough textured tongue. It is believed by many that the more cat-like the person is, the stronger their [[Attunement]] may be, if present.
 
 Their eyes are adapted to see in the dark, requiring approximately one sixth the amount of light that humans need to see clearly. Those with human ears have hearing abilities noticeably higher than the average human, while those with animal ears have greatly enhanced hearing compared to those without. Their sense of smell is also noticeably above average.
 
@@ -77,7 +74,7 @@ Cat spirits are masters of manipulation and temptation. They are known for their
 
 In reality, cat spirits are nearly all putting on an act of responsibility and maturity in public and around strangers. In private, they tend to be extremely selfish and lazy, using their manipulative natures to get what they want and avoid responsibility wherever possible. Quite hedonistic, they are also not shy about seducing people to get what they want, and will quickly move to a new target if their advances are resisted.
 
-Some cat spirits have more cat-like traits than others, such as a particular attraction to fish and poultry, short attention spans, a tendency to chase bugs and small animals, a love of napping in odd places, among other things. They tend to be very self conscious about these traits when present.
+Some cat spirits have more cat-like traits than others, such as a particular attraction to fish and poultry, short attention spans, a tendency to chase bugs and small animals, a love of napping in odd places, pushing things off table edges, among other things. They tend to be very self conscious about these traits when present.
 
 ### Interracial relations
 
@@ -88,3 +85,8 @@ They tend to receive the best treatment from humans compared to other spirits.
 ## See also
 
 [[Freya]]
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

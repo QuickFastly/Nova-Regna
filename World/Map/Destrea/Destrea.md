@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Destrea</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Destrea flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Destrea flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Destrea (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Destrea (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1797</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Cirazan: 81%<br><i>- East: 67%<br>- West: 33%</i><br>Exilan (Low): 17%<br>Others: 2%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Paper wasp</td>
 		</tr>
@@ -92,7 +84,7 @@ It was governed by a stratocratic regime since its origins, but as the economy b
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
@@ -122,11 +114,11 @@ Destrea is divided into 15 prefectures, each governed exclusively by the central
 
 ### Military
 
-The Destrean military is divided into four branches, being Terra Militare, Marina Militare, Aeronautica Militare, and Militare Suprema. The Terra Militare branch is the world's largest and most formidable standing ground-based military force, while all branches combined are also the world's largest overall military force. While they can easily overwhelm with sheer numbers, their equipment and training in off-ground forces lags slightly behind many other countries.
+The Destrean military is divided into four branches, being Terra Militare, Marina Militare, Aeronautica Militare, and Militare Suprema. The Terra Militare branch is the world's largest and most formidable standing ground-based military force, while all branches combined are also the world's largest overall military force. While they can easily overwhelm with sheer numbers, their equipment and training among the air and naval forces lags slightly behind many other countries.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Destrea).svg]]
 
 ## Economy
 
@@ -152,12 +144,6 @@ Some primary exports of Destrea are weapons manufacturing, heavy industry, and c
 
 ## Demographics
 
-- [[Ciraza]]: 81%
-	- [[East Ciraza|East]]: 67%
-	- [[West Ciraza|West]]: 33%
-- [[Low Exilan|Exilan (Low)]]: 17%
-- Others: 2%
-
 The Destrean government is extremely prejudiced against [[Spirits|spirits]] and oppresses them heavily. Every spirit is required to carry a unique identifier card with them and renew it every year alongside their regular state identification, and violating this policy in any way can be punishable by death. Much of the public does not share these sentiments and instead views spirits with great pity, but still remain prejudiced in their own way because of this.
 
 Since the occupation of [[Espada]] by the Risky Witches, all records from that state were seized and are no longer accessible. There is an assumption that the actual spirit population is higher than records indicate due to that, the rebellion of 1991, and other criminal activity.
@@ -172,12 +158,27 @@ Spirit population according to current state records: 8,550,695
 
 ### Education
 
-f
+Education in Destrea is provided in public and private schools and by individuals through homeschooling. Education is compulsory under Destrean law for all children between 6 and 16 years of age, but the standards of education and the levels students are divided into are set by prefectural governments. Public schooling is tuition-free, but all other costs associated with the curriculum are the responsibility of the students and their families.
+
+The public school systems throughout the country are extremely underfunded and are often forced to assign more than double the usual amount of students to each teacher, and private schools, while widely available, are prohibitively expensive for most Destrean families. Both public and private schools place a strong emphasis on nationalism and Destrea-centric history that favors the military. Homeschooling is technically regulated under prefectural law, but inspections are virtually never carried out so long as the students achieve satisfactory results on annual standardized tests.
+
+The Destrean educational system produces the worst average results in the world according to international test score surveys, but the top 10% of students tested often achieve similar scores to the international average.
 
 ### Health
 
-f
+Healthcare in Destrea is offered universally as a public service through nationally owned and operated hospitals and clinics, but due to low capacities and long waiting times, a large private sector also thrives in Destrea, and is subject to very light regulation that ensures pricing does not exceed fair values, which are determined by an international regulatory body. Even with the regulated pricing, private healthcare is one of the largest contributors to debt throughout the Destrean population, while simultaneously operating most often with such small profit margins that private hospitals struggle to maintain and acquire modern equipment.
+
+The overall health of Destrean citizens is below average, due to many citizens being unable to receive the care they need in a timely or affordable manner, and widespread poverty causing increased rates of malnutrition and preventable disease.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

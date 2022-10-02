@@ -1,4 +1,2 @@
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>Your text goes here</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> Use this admonition to point out where and how something may be incomplete, unfitting, in need editing, or otherwise questionable in any way.

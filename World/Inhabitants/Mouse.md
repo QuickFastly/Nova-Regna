@@ -1,12 +1,9 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Mouse spirit</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
@@ -59,11 +56,11 @@ All mouse spirits inherently have [[Alignment]].
 
 All mouse spirits have either black or red eyes, animal ears, and pronounced upper central incisors. Many also possess a tail, and some even possess whiskers. In very rare cases, they can experience continuously growing incisors that require regular filing.
 
-All mouse spirits suffer from moderate to severe nearsightedness, but also have incredible hearing, capable of hearing sounds up to 40 kHz. Their skeletons are noticeably more brittle than [[Human|humans]], and their muscles significantly weaker.
+All mouse spirits suffer from moderate to severe nearsightedness, but also have incredible hearing, capable of hearing sounds up to 40 kHz. Their skeletons are noticeably more brittle than [[Human|humans]], and their muscles significantly weaker by weight.
 
 ### Life cycle
 
-Mouse spirits grow at the same rate as human until the age of 12 years, after which their physical growth largely stops, giving them their characteristic small stature. At age 20, they appear to stop aging entirely until around 40 years of age, at which point their hair begins to turn gray, though no other signs of aging occur. Around 50 years of age, they appear to skip directly from adolescent to elderly by human standards.
+Mouse spirits grow at the same rate as human until the age of 12 years, after which much of their physical growth largely stops, giving them their characteristic small stature. At age 20, they appear to stop aging entirely until around 40 years of age, at which point their hair begins to turn gray, though no other signs of aging occur. Around 50 years of age, they appear to skip directly from young adulthood to elderly by human standards.
 
 ## Geographic distribution
 
@@ -81,9 +78,14 @@ Female mouse spirits outnumber male mouse spirits over 20 to 1, and historically
 
 ### Interracial relations
 
-Despite the demeaning treatment they often receive, they hold no prejudices and are always very eager to learn about other races, though this in itself can occasionally come off as insensitive. They are, however, typically rather wary of cat spirits, often preferring to avoid them, though some brave mouse spirits will tease and provoke them.
+Despite the demeaning treatment they often receive, they hold no prejudices and are always very eager to learn about other races, though this can occasionally come off as insensitive by asking questions bluntly without realizing. They are, however, typically rather wary of cat spirits, often preferring to avoid them, though some brave mouse spirits will tease and provoke them.
 
 ## See also
 
-[[Minerva]]
+[[Minerva]]\
 [[The Absolute Library]]
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

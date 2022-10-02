@@ -1,3 +1,12 @@
-stub for now.
+---
+tags: RD
+---
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
 
-#RD 
+
+
+-----
+> [!cite] Author info
+> **Drew**\
+> sorry nothing

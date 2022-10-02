@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Ustonia</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Ustonia flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Ustonia flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Ustonia (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Ustonia (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1706</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Exilan: 76%<br><i>- West: 46%<br>- South: 43%<br>- Low: 4%<br>- Others: 7%</i><br>Ciraza (Island): 3%<br>Others: 21%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Peregrine falcon</td>
 		</tr>
@@ -93,7 +85,9 @@ Ustonia held aggressive expansionist ideologies for a time and annexed many terr
 
 ## History
 
-In 1973, the states of [[Prestona]] and [[Verace]] defected from Destrea and declared to the world that they would become part of Ustonia instead. Ustonia, while they did not know this was happening, shocked the world by immediately annexing the states in response and stationing an overwhelming military force along their borders to deter Destrean aggression. This action is still a subject of heated debate around the world, and was even used by Destrea to justify the [[Reclamation War]], but is generally believed to have been an acceptable action.
+Ustonia is the second youngest new nation in the world, being less than 400 years old as we know it, even before its formation. The overwhelming majority of the Ustonian population today is of Exilan descent, but the entire continent of Yulentia was populated almost exclusively by the Cirazan peoples prior to the settling of three colonies from nations in [[Ozen]]; With the assistance of the people of [[Torstrøm]] to navigate the sea, the colony of [[Roxware]] was settled by people of [[Manden]], the colony of [[Centralia]] was settled by people of [[Hartmond]], and the colony of [[Gravenwood]] was settled by people of [[Osterfeld]]. The people of Torstrøm spoke only in their native language for all three of the long voyages - from planning to landfall - despite the vital importance of effective communication with the crew and settlers, which led to the [[Exilan]] settlers adoption of their language.
+
+In 1973, the states of [[Prestona]] and [[Verace]] defected from Destrea and declared to the world that they would become part of Ustonia instead. Ustonia, while they did not know of this in advance, shocked the world by immediately annexing the states in response and stationing an overwhelming military force along their borders to deter Destrean aggression. This action is still a subject of heated debate around the world, and was even used by Destrea to justify the [[Reclamation War]], but is generally believed to have been an acceptable action.
 
 ## Geography
 
@@ -126,25 +120,13 @@ The country is divided into 19 states, each with their own state government over
 - [[Verace]]
 - [[West Vastdal]]
 
-### Executive branch
-
-The President of the Federated States...
-
-### Legislative branch
-
-f
-
-### Judicial branch
-
-The Supreme Court of Shinzen and other interior courts operate independently from the executive and legislative branches of government and keep them in check.
-
 ### Military
 
 The Ustonian military is divided into six primary branches, being the Army, Navy, Marine Corps, Coast Guard, Air Force, and Star Corps. While Destrea maintains a larger standing army, Ustonia prides itself on being better trained and better equipped while still remaining competitive on sheer size.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Ustonia).svg]]
 
 ## Economy
 
@@ -162,21 +144,13 @@ The Ustonian economy is worth 1.98 quadrillion [[Credit (currency)|CR]] per year
 - Transportation: 11.2%
 - Welfare: 3.4%
 
-The average income tax rate is 14.5%, spread across seven tax brackets, ranging from 10% for the lowest income to 37% for the highest income taxpayers. There is no federal sales tax, but some states within the country choose to apply their own sales taxes, ranging from 4.5% to 9.85% where present. The gap between the poorest and the richest citizens is immense, but the overwhelming majority of citizens are lower-middle class.
+The average income tax rate is 14.5%, spread across seven tax brackets, ranging from 10% for the lowest income to 37% for the highest income taxpayers. There is no federal sales tax, but some states within the country choose to apply their own sales taxes, ranging from 4.5% to 9.85% where present. The gap between the poorest and the richest citizens is immense, but the overwhelming majority of citizens are working class.
 
-Certain essential services such as welfare workers and public education are split between federal and state ownership, but the overwhelming majority of businesses in Ustonia are privatized and follow the market economy. Corporate and business regulations and taxes are very low, encouraging many foreign businesses to incorporate in Ustonia, and many citizens to attempt entrepreneurship.
+Certain essential services such as welfare workers and public education are split between federal and state ownership, but the overwhelming majority of businesses in Ustonia are privatized and follow the market economy. Corporate and business regulations and taxes are very low, encouraging many foreign businesses to incorporate in Ustonia, and many citizens to attempt entrepreneurship, which has led to widespread hustle culture and a deeply rooted gig economy.
 
 Some primary exports of Ustonia are military equipment and training, plastics, and snack foods. Ustonia applies import tariffs ranging between 0.85% and 31% depending on the goods, and from where they were imported, on top of the standard Yulentian Trade Union tariff of 1% on luxuries from within the union, and 4% outside of it.
 
 ## Demographics
-
-- [[Exilan]]: 76%
-	- [[West Exilan|West]]: 46%
-	- [[South Exilan|South]]: 43%
-	- [[Low Exilan|Low]]: 4%
-	- Others: 7%
-- [[Island Ciraza|Ciraza (Island)]]: 3%
-- Others: 21%
 
 The official stance the Ustonian government holds on [[Spirits|spirits]] is one of welcoming and acceptance, but in practice things don't quite match up. While spirits aren't legally oppressed in Ustonia, they still face serious systemic and societal discrimination in day to day life, and often have to work several times as hard as most humans to maintain a positive reputation, good grades, career standing, and so on.
 
@@ -195,12 +169,31 @@ It is suspected that there are many more spirits than this in the country, but i
 
 ### Education
 
-f
+Education in Ustonia is provided in public and private schools and by individuals through homeschooling, typically starting with kindergarten for kids between 5 and 6 years of age, followed by 1st to 12th grades for kids between 6 and 18 years of age, divided into three levels, being elementary, middle, and high school, which are each typically offered in separate schools. Patriotism is encouraged in most curriculums through the practice of pledging allegiance to the Ustonian flag, spending a disproportionate amount of time studying a curated version of Ustonian history, and annual demonstrations and/or recruitment drives from the national military.
+
+State governments set their own education standards, and the federal government mandates standardized tests for K-12 public school systems. While public schools are tuition-free, students and their families are still responsible for the costs of their own educational materials, lunches, all costs associated with elective courses, and appropriate clothing or uniforms. Post-secondary education in Ustonia is prohibitively expensive for most Ustonians, and is among the largest sources of debt throughout the population.
+
+Education is compulsory under federal law, but neither the federal government nor state governments offer alternatives to poor families who cannot afford the necessary items or food. Many poor families who turn to homeschooling find it to be extremely stressful, as homeschooled students are subject to additional testing, up to four times as frequently as otherwise, and are often also subject to home inspections, especially if the family has a spirit in the household.
+
+The Ustonian educational system produces below average and continuously declining results, with 4th, 8th, and 12th grade students recently falling to the rank of 7th in international test score surveys, overtaken by Shaohou.
 
 ### Health
 
-f
+Healthcare in Ustonia is entirely privatized, with hospitals and pharmacies usually being run as for-profit businesses. Citizens are required under federal law to purchase health insurance, which is also a for-profit industry in Ustonia that still leaves many citizens open to large medical bills. For citizens federally classified as living in poverty, state funded insurance plans are provided by local governments at reduced rates, but typically offer limited care. Mental health care is extremely underfunded and rarely covered by insurance, causing most citizens to be forced to wait months to get the help they need, or simply never attempt to get it at all. Equality of access is not mandated by law, and patients can be denied care for a multitude of reasons.
+
+Due to the largely unregulated for-profit structure of the medical and insurance industries in Ustonia, prices for care and pharmaceuticals are grossly inflated up to 2500% higher than what has been deemed fair internationally, causing medical expenses to be the largest source of debt throughout the Ustonian population.
+
+The overall health of Ustonian citizens is below average, notably displaying the highest obesity rate in the world.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

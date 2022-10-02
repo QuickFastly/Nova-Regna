@@ -1,10 +1,5 @@
----
-author: Kit
----
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>Yet to be actually developed.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> Yet to be actually developed.
 
 *This is what little info existed before this page did.*
 
@@ -13,3 +8,8 @@ Goddess of knowledge and wisdom. She is extremely reclusive to the point that no
 She was born with an innate knowledge of everything that exists and all history, but does not possess foresight and cannot write prophecies, though she can make some very well educated guesses and be right most of the time. She is clumsy, extremely quiet - speaking almost in a whisper - and always tries her best to appear dignified and wise, but is very shy and will run away if she messes up a word or doesn't know how to respond to a question. However, when she's with people she's comfortable with and is coaxed out of her shell, she has a very goofy personality and acts a bit childish. 
 
 She is very small and kind of frail, and usually looks kind of unkempt, only made worse by her tendency to wear clothes several sizes too big.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

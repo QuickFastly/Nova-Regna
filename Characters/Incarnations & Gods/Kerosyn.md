@@ -1,32 +1,34 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Kerosyn</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Kerosyn portrait.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Kerosyn portrait.png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-			<!-- Line breaks are supported in these blocks by using the <br> tag -->
-			<tr><!-- Change this as needed for other credits, or remove this block -->
+			
+			<tr>
 				<td style="padding:4px"><b>Artist</b></td>
 				<td style="padding:4px"><a href="https://mogy64.newgrounds.com/">mogy64</a></td>
 			</tr>
-			<tr><!-- If no license disclosure is needed, you can remove this block -->
+			<tr>
 				<td style="padding:4px"><b>Image license</b></td>
 				<td style="padding:4px"><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></td>
-			</tr><!-- This example is a clickable link. Please use this method! -->
+			</tr>
 	
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Naming</th>
 	</tr>
-			<!-- Many of the blocks in this section are very optional, so feel free to remove the ones you don't need, or add different ones! -->
+			
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Full name</b></td>
-			<td style="padding:4px">Kerosyn</td>
-		</tr><!-- Use ONLY first-last formatting and english text here -->
+			<td style="padding:4px"><b>Birth name</b></td>
+			<td style="padding:4px">Unknown</td>
+		</tr>
+			
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px"><b>Alias(es)</b></td>
+			<td style="padding:4px">The Deliverer</td>
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Nickname(s)</b></td>
@@ -36,7 +38,7 @@ author: Kit
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Title(s)</b></td>
 			<td style="padding:4px">God of Idiots</td>
-		</tr><!-- Remember to use the <br> tag for line breaks! -->
+		</tr>
 	
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Profile</th>
@@ -45,52 +47,52 @@ author: Kit
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Status</b></td>
 			<td style="padding:4px">Alive</td>
-		</tr><!-- If the character is deceased, include the year of death here -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Species</b></td>
 			<td style="padding:4px">Fox spirit</td>
-		</tr><!-- Vital. If the character is a new species, make a page for that too -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birthplace</b></td>
 			<td style="padding:4px">Unknown</td>
-		</tr><!-- Be as specific or nonspecific as you want here -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Ethnicity</b></td>
 			<td style="padding:4px">Unknown</td>
-		</tr><!-- Be as specific as you want here. Just "Chiya" is okay if that's all you want, or "South Chiya", or you can create a new smaller group and make a page for it later. -->	
+		</tr>	
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Pronouns</b></td>
 			<td style="padding:4px">They/he</td>
-		</tr><!-- Required information -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Sexuality</b></td>
 			<td style="padding:4px">Ace</td>
-		</tr><!-- Optional. Write "N/A" or remove the block if you want -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Birth date</b></td>
 			<td style="padding:4px">1015 ED</td>
-		</tr><!-- Optional. Write "unknown", a season, or remove if you want -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Age</b></td>
 			<td style="padding:4px">3,048</td>
-		</tr><!-- If the character is deceased, write the age they died at -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Height</b></td>
 			<td style="padding:4px">147 cm / 4'10"</td>
-		</tr><!-- Please use both metric AND imperial! Be specific -->
+		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Weight</b></td>
 			<td style="padding:4px">9 kg / 20 lb</td>
-		</tr><!-- Please use both metric AND imperial. Approximation is OK -->
+		</tr>
 	
 </table>
 
@@ -142,9 +144,8 @@ Kerosyn is very eager to learn anything and everything, but it's difficult to te
 
 Their hidden talents are extensive intuitive knowledge of nature, inter- and intra-personal emotions, and the existential... though their true strength is their infinite wisdom rather than their limited intellect, and even that is rarely seen in action since they're usually too busy being a goofball.
 
-<div style="background-color:b6d0e2; border-left:4px solid #4169e1; line-height:18px; padding:12px">
-	<div style="color:black"><b>Something extra: </b>Some have theorized but none can prove that Kerosyn is potentially suffering from a complex case of PTSD, causing their apparent age regression. Another theory is that the age regression is a side effect of Kerosyn's resurrection (described in The Account), their brain having been permanently damaged. Only Freya and Florian know the full truth of this matter, but they confirm that Kerosyn's age regression is the result of extreme repression caused by equally extreme trauma. The reason it's so rare to see Kerosyn acting mature and wise is because it takes an immense amount of energy to not only access what has been repressed, but hold back the undesirable aspects. Those undesirable aspects are what is seen in action when they enter their "angry" state.</div>
-</div>
+> [!info]+ Something extra
+> Some have theorized but none can prove that Kerosyn is potentially suffering from a complex case of PTSD, causing their apparent age regression. Another theory is that the age regression is a side effect of Kerosyn's resurrection (described in The Account), their brain having been permanently damaged. Only Freya and Florian know the full truth of this matter, but they confirm that Kerosyn's age regression is the result of extreme repression caused by equally extreme trauma. The reason it's so rare to see Kerosyn acting mature and wise is because it takes an immense amount of energy to not only access what has been repressed, but hold back the undesirable aspects. Those undesirable aspects are what is seen in action when they enter their "angry" state.
 
 ##### The "angry" state
 
@@ -176,12 +177,17 @@ Being one of the three deities of the Children of the Flame, Kerosyn is very str
 
 ## History
 
-Most of Kerosyn's history pre-[[Era Dira]] is described in [[The Account]].
+Most of Kerosyn's history during [[Era Dira]] is described in [[The Account]].
 
 ## Trivia
 
 - Kerosyn has no need to eat or sleep at all, but enjoys doing those things anyway.
 - Kerosyn's love of food has made them not only a great cook, but a skilled farmer as well.
 - Kerosyn has both perfect pitch and perfect rhythm. They are proficient with nearly all musical instruments that don't use a mouthpiece, can sing decently, and can both play and riff on anything just by hearing it once. Their favorite instrument to play is the drums.
-- One might assume that Kerosyn has 360 degree vision based on their lack of eyes, but they actually see exactly the same as anyone else. How? Who knows, Kerosyn sure doesn't.
+- One might assume that Kerosyn has 360 degree vision based on their lack of eyes, but they actually see exactly the same as anyone else. How? Who knows? Kerosyn sure doesn't.
 - Kerosyn is the type of person to latch onto new trends and run them into the ground hard, then keep holding onto them long past the point of embarrassment.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Corstaea</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Corstaea flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Corstaea flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Corstaea (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Corstaea (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1448</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Irovell: 51%<br><i>- North: 7%<br>- Central: 78%<br>- South: 12%<br>- Low: 3%</i><br>Exilan: 40%<br><i>- Island: 17%<br>- High: 39%<br>- North: 37%<br>- West: 5%<br>- Others: 2%</i><br>Farodet (North): 6%<br>Others: 3%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Wolf</td>
 		</tr>
@@ -92,11 +84,11 @@ While the health and happiness of the people are the top priority of Corstaea, t
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
-Corstaea contains highly varied topography, from flatlands to extreme mountains, but is almost entirely boreal in climate, and is heavily forested in all areas that support it. The [[Sprettekniven Mountains|Sprettekniven]] mountain range spans the entire eastern border of the country.
+Corstaea contains highly varied topography, from flatlands to extreme mountains, but is almost entirely boreal in climate, and is heavily forested in all areas that support it. [[Himlavård]] spans the entire eastern border of the country.
 
 ## Government & Politics
 
@@ -108,17 +100,17 @@ The Council is composed of seven seats with the Prime Minister reigning supreme.
 
 ### Administrative divisions
 
-[[Affolstein]]
-[[Allenthal]]
-[[Carlow]]
-[[Halstrand]]
-[[Hartmond]]
-[[Manden]]
-[[Sarrac]]
-[[Tolred]]
-[[Torstrøm]]
-[[Vallastad]]
-[[Vinesse]]
+- [[Affolstein]]
+- [[Allenthal]]
+- [[Carlow]]
+- [[Halstrand]]
+- [[Hartmond]]
+- [[Manden]]
+- [[Sarrac]]
+- [[Tolred]]
+- [[Torstrøm]]
+- [[Vallastad]]
+- [[Vinesse]]
 
 ### Military
 
@@ -126,7 +118,7 @@ The Corstaean military is divided into five main branches, being the Army, Navy,
 
 ### Foreign relations
 
-f
+![[Political relations chart (Corstaea).svg]]
 
 ## Economy
 
@@ -146,36 +138,39 @@ The Corstaean economy is worth 292.3 trillion [[Credit (currency)|CR]] per year 
 
 The average income tax rate is 41%, and is much higher for the wealthy, alongside an annual 1% tax on net assets over 5 million CR. There is a universal 17.5% sales tax on all luxury purchases applied by the Ozen Federation, called the OMT or Ozen Maintenance Tax. The average gap between the richest and the poorest citizens is very small.
 
-State owned businesses are common, but most businesses are privately owned and highly diversified. Corporate taxes are relatively high, but not prohibitive, so small businesses still have a chance to thrive in the country.
+State owned businesses are common, but most businesses are privately owned and highly diversified. Corporate taxes are relatively high, but not prohibitively so, ensuring small businesses still have a chance to thrive in the country.
 
 Some primary exports of Corstaea are cheese, energy technology, and skilled labor. Corstaea applies import tariffs ranging from 2% to 14% depending on the goods imported from any country outside of the Ozen Federation, and no tariffs within it.
 
 ## Demographics
 
-- [[Irovell]]: 51%
-	- [[North Irovell|North]]: 7%
-	- [[Central Irovell|Central]]: 78%
-	- [[South Irovell|South]]: 12%
-	- [[Low Irovell|Low]]: 3%
-- [[Exilan]]: 40%
-	- [[Island Exilan|Island]]: 17%
-	- [[High Exilan|High]]: 39%
-	- [[North Exilan|North]]: 37%
-	- [[West Exilan|West]]: 5%
-	- Others: 2%
-- [[North Farodet|Farodet (North)]]: 6%
-- Others: 3%
-
 Corstaea has the highest known total population of [[Spirits|spirits]] in the world, with over 20,000,000 spirits of several varieties, though the overwhelming majority are wolves with the second most common variety being cats. Precise population information of spirits is not available as Corstaea does not record such information in their census anymore, as part of their aggressive initiative to allow spirits to fully integrate into their society and be free from discrimination. The initiative is showing signs of success as the country is the third most welcoming towards spirits in the world, but it has a ways to go.
 
 ### Education
 
-f
+Education in Corstaea is provided primarily by public schools, which are tuition-free and provide all required educational materials, appropriate clothing or uniforms, and lunches to their students free of charge regardless of economic status. The Corstaean school system is typically divided into three levels, being elementary (grades 1-7), lower secondary (grades 7-10), and upper secondary (grades VG1-VG3). Elementary and lower secondary education are compulsory under Corstaean law.
+
+Private schools exist, but are strictly regulated and are rare as a result. Private schools are only legally permitted to operate if they provide a significantly unique alternative method of education that has been proven to produce satisfactory results. Families below a certain threshold of economic status are entitled to financial grants from the Ozen Federation to allow them to select a private school if they wish.
+
+Education standards are set by the Minister of Education and their board of advisors, and while each new minister has the power to change the goals of the national education programs, they do not have the power to reduce school funding or student financial assistance. Test scores are the typical choice to determine student performance, but numerous alternatives come and go frequently, both from the Minister of Education and from the various higher education schools that require applicants to achieve certain qualifications to enroll.
+
+The Corstaean educational system produces above average results, with 4th, 8th, and 12th grade students consistently being ranked 4th in international test score surveys.
 
 ### Health
 
-f
+Healthcare in Corstaea is provided universally to all citizens of the Ozen Federation, primarily through nationally owned and operated hospitals, clinics, and pharmacies, all of which are paid with tax revenue and therefore do not charge patients at all for any care they receive. Privately owned alternatives exist, but are legally required to be operated as non-profit businesses and are subject to extreme regulation to ensure that all patients of any economic status can receive equal levels of care, with the Ozen Federation providing financial support to those that cannot afford the allowed charges from these businesses.
+
+The overall health of Corstaean citizens is above average.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

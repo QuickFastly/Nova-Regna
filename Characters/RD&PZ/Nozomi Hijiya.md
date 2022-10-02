@@ -1,11 +1,16 @@
 ---
-author: Kit
+tags: RD
 ---
-stub for now.
+> [!bug] Issue
+> This page is a stub, here as a reminder for later.
 
-[[Hijiya Corporation]]
+Heir to the [[Hijiya Corporation]], but not currently taking her position. Daughter of [[Kaede Hijiya]] and [[Hana Hijiya]].
 
-[[Near Amago]]
-[[Suruko Zukeran]]
+Friends and roommates with [[Near Amago]] and [[Suruko Zukeran]].
 
-#RD 
+肱野のぞみ
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

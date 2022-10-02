@@ -1,12 +1,9 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Hijiya Corporation</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[hijiya logo (text).png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[hijiya logo (text).png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	
@@ -26,7 +23,7 @@ author: Kit
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Leader</b></td>
+			<td style="padding:4px"><b>President</b></td>
 			<td style="padding:4px">Minori Sakaguchi</td>
 		</tr>
 	
@@ -116,3 +113,8 @@ Slowly but surely, without a visionary to lead the effort, they lost their lead 
 Unfortunately, while she is the rightful heir to the company and has never resisted the idea of taking over, she has also never shown the confidence, charisma, and business savvy to fit the role, so it was decided to allow the interim president to remain until she was ready, though some company decisions are still brought to her for approval first out of respect.
 
 After her first public appearance on behalf of the company ended in her fainting and subsequently refusing to talk to anyone for a week, though, the prospect of her taking over was greatly diminished. Fortunately for her, the event wasn't televised, but people from the company treated her differently from then on. Company morale remains high since then, because despite losing the hope that Nozomi will soon take over the company and restore it to what it once was, she became something of a princess to them.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

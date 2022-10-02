@@ -1,10 +1,5 @@
----
-author: Kit
----
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>The main article could use some rewrites, so this page is also subject to change.</div>
-	<!-- Line breaks require '<br>', wikilinks/markdown nonfunctional -->
-</div>
+> [!bug] Issue
+> The main article could use some rewrites, so this page is also subject to change.
 
 The Preachers branch of the [[Children of the Flame]] is not quite what one would expect by the name. Their primary responsibility lies not in spreading the word of their faith, but rather in public relations, leaving the actual preaching to the lowest ranked members. These people are the face of the group, the only part that the vast majority of people know.
 
@@ -47,3 +42,8 @@ People, whether they are Devout or not, who feel as though they have committed s
 ### Baptism
 
 Adults who express interest in dedicating themselves to the faith can speak to a Reverend to undergo baptism. The recipient knees and bows their head, then a clear kerosene oil is drizzled over their head. The recipient is then considered one of the Devout.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -1,12 +1,12 @@
----
-author: Kit
----
+> [!bug] Issue
+> A rewrite is planned for this group. Highlighted sections are guaranteed to change, and everything else, including everything in the related subpages, is in question.
+
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Children of the Flame</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[The Brand (Children of the Flame).png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[The Brand (Children of the Flame).png|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	
@@ -55,11 +55,7 @@ They are presumed to be the oldest known religious organization of all time, as 
 
 The Children of the Flame is divided into four unique branches, each performing a distinct function with their own positions and power structures. Only two of these branches - the [[Law and Lore]] and [[Preachers]] branches - are publicly acknowledged, with the other two - the [[Enforcers]] and [[Internal Society]] branches - shrouded in secrecy and only known due to undercover investigations and leaks.
 
-![[Children of the Flame hierarchy.png]]
-
-<div style="background-color:fffdd0; border-left:4px solid #fdda0d; line-height:18px; padding:12px">
-	<div style="color:black"><b>Issue: </b>This article could use a rewrite. Highlighted sections are definitively planned to change, and everything else is in question.</div>
-</div>
+![[Children of the Flame Hierarchy.svg]]
 
 ## Public Agenda
 
@@ -149,3 +145,8 @@ A common prayer among the organization is a glorification of the three deities. 
 Testament to the cunning nature of The Sixth Storyteller, the organization has leveraged its stellar public opinion to stealthily insert itself into not only the political organizations of the world, but nearly everything else. Save for a remarkable few exceptions such as [[11K]] and the [[Risky Witches]], the Children of the Flame hold the world in the palm of their hand, quietly pulling strings in the background. Each of the aforementioned organizations are equally as powerful, however, leading the three of them to be in a constant power struggle behind the scenes of the international stage.
 
 [^1]: Each branch of the organization has their own sacramental rites, which are described in their respective articles.
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

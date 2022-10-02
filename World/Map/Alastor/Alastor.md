@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Alastor</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Alastor flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Alastor flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Alastor (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Alastor (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">784</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Irovell: 81%<br><i>- Low: 87%<br>- Others: 13%</i><br>Others: 19%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Violet sabrewing</td>
 		</tr>
@@ -94,7 +86,7 @@ The nation carries incredible notoriety around the world for being populated alm
 
 ## History
 
-Nothing for now.
+TBD
 
 ## Geography
 
@@ -110,11 +102,11 @@ All governmental decisions are made by majority consensus after multiple gatheri
 
 ### Military
 
-There is no standing military force in Alastor. The full extent of their military strength is a small number of disarmed and converted helicopters for search and rescue purposes. Not even the national police carry lethal weapons.
+There is no standing military force in Alastor. The full extent of their military strength is a small number of disarmed and converted helicopters for search and rescue purposes. Not even the national police carry weapons.
 
 ### Foreign relations
 
-f
+![[Political relations chart (Alastor).svg]]
 
 ## Economy
 
@@ -139,11 +131,6 @@ Some primary exports of Alastor are low volume skilled crafts, arts and entertai
 
 ## Demographics
 
-- [[Irovell]]: 91%
-	- [[Low Irovell|Low]]: 87%
-	- Others: 13%
-- Others: 9%
-
 Alastor, being populated almost exclusively by spirits, is of course the most welcoming towards them by far as the entire country is based around and run by them. In fact, while many other countries struggle with discrimination against spirits, Alastor struggles with discrimination against [[Human|humans]], as they are seen by many in the country as their natural enemy, and not everyone can move past that prejudice even if the human in question manages to fully integrate into Alastoran society and proves to be an ally.
 
 Population data according to Alastor foreign relations: ~99% Spirits
@@ -160,12 +147,29 @@ Population data according to Alastor foreign relations: ~99% Spirits
 
 ### Education
 
-f
+Education in Alastor is provided entirely free of charge through public schools or in-home tutoring, beginning between 4 and 8 years of age and completing between 16 and 20 years of age. Students of all ages are taught together, divided by their aptitude rather than by age. The primary focus of Alastoran education is to prepare students for adult life, rather than to prepare them for standardized tests or to join the workforce. Additional courses on specific subjects across many levels are available for students to take should they wish to.
+
+Education is compulsory under Alastoran law, but the pace is set by the individual student. Teachers are all volunteers, many of whom are also students themselves or recently graduated, and are in extremely high supply as a result, explaining the very wide variety of additional courses available for students to choose from.
+
+The Alastoran educational system produces very poor results in international test score surveys, with 10, 14, and 18 year old students consistently placing 9th, but the fairness and validity of the inclusion of Alastoran students in these surveys is hotly debated, with advocates citing that in the Alastoran model which does not teach to testing standards, students enjoy a significantly higher quality of life with dramatically reduced stress throughout their lifetimes while also typically becoming masters of the fields they pursue, and that they seem to retain vastly more of their education in long term memory than average students from other countries.
 
 ### Health
 
-f
+Healthcare in Alastor is entirely public and provided to all patients free of charge, funded entirely by taxes and donations. As a result, insurance is not a concept in Alastor, nor are patients even required to prove citizenship to receive care.
+
+Due to the small size of the country and its economy, access to equipment and pharmaceuticals is limited, but Alastoran doctors and surgeons receive some of the best training in the world despite that. Alastor is also the only country in the world currently utilizing [[Attunement]] in medical practice.
+
+The overall health of Alastoran citizens is above average.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

@@ -5,8 +5,8 @@
 			<th colspan="2" style="border-bottom:2px solid #666666; font-size:larger; padding:8px; text-align:center">Timeline</th>
 		</tr>
 		<tr><!-- You can change the color of this border to signify different things -->
-			<td style="border-right:4px solid #666666; padding:8px; text-align:right; width:50%"><b>2033</b><br>MM/DD<br><i>Current year</i></td>
-			<td style="padding:8px">This is the current year of the world. Nothing should be taking place any later than this.</td>
+			<td style="border-right:4px solid #666666; padding:8px; text-align:right; width:50%"><b>2033</b><br>10/30<br><i>Current time</i></td>
+			<td style="padding:8px">This is the current time of the world. Nothing should be taking place any later than this.</td>
 		</tr><!-- RIGHT+FIRST -->
 	<!-- Copy and paste these blocks as many times as you need -->
 		<tr>

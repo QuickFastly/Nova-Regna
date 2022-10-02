@@ -1,14 +1,11 @@
----
-author: Kit
----
 <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Grenneria</th>
 	</tr></table>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Grenneria flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Grenneria flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; padding:4px">![[Grenneria (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Grenneria (Region).jpg|250]]</span>
 
   <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
@@ -39,7 +36,7 @@ author: Kit
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px">1211</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
@@ -68,11 +65,6 @@ author: Kit
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demographics</b></td>
-			<td style="padding:4px">Farodet: 83%<br><i>- North: 37%<br>- Central: 35%<br>- South: 28%</i><br>Irovell: 11%<br><i>- North: 44%<br>- Central: 43%<br>- South: 13%</i><br>Ciraza: 3%<br><i>- North: 78%<br>- East: 22%</i><br>Others: 3%</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>National animal</b></td>
 			<td style="padding:4px">Carrion crow</td>
 		</tr>
@@ -92,11 +84,11 @@ Alone, Grenneria is the weakest link of the Ozen Federation, and actively relies
 
 ## History
 
-Nothing for now
+TBD
 
 ## Geography
 
-Grenneria is an almost entirely flat region with the exception of the lower half of the [[Sprettekniven Mountains|Sprettekniven]] mountain range cutting through it. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.
+Grenneria is an almost entirely flat region with the exception of the lower half of [[Himlavård]] cutting through it. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.
 
 ## Government & Politics
 
@@ -104,7 +96,7 @@ Grenneria is an electocratic federal republic, split into two branches.
 
 The first branch, the Grennerian Administration, is led by a Prime Minister and at least one Deputy Prime Minster. Beneath them are many Ministers dedicated to specific departments of government, such as agriculture, defense, education, and so on. Citizens elect Ministers from a pool of candidates recommended by the Deputy Prime Ministers, and elect Deputy Prime Ministers from a pool of candidates recommended by the Prime Minister. Citizens can also elect a President, who is technically not part of the Administration, but is the one responsible for appointing the Prime Minister.
 
-The second branch, the Grennerian Council, is an independent entity formed to monitor the activities of the Administration and ensure that they are carried out in a timely manner and in accordance with the constitution. The President is the head of this organization and is responsible for appointing everyone in it, ultimately leaving much of the country's governance in a shadowy gray zone. This model garners much criticism, but you will be hard pressed to find a Grennerian citizen voicing such things.
+The second branch, the Grennerian Council, is an independent entity formed to monitor the activities of the Administration and ensure that they are carried out in a timely manner and in accordance with the constitution. The President is the head of this organization and is responsible for appointing everyone in it, ultimately leaving much of the country's governance in a shadowy gray zone. This model garners much criticism, but you will be hard pressed to find a Grennerian citizen voicing such criticism in their own country.
 
 ### Administrative divisions
 
@@ -124,7 +116,7 @@ The Grennerian military is divided into four branches, being the Ground Forces, 
 
 ### Foreign relations
 
-f
+![[Political relations chart (Grenneria).svg]]
 
 ## Economy
 
@@ -146,33 +138,37 @@ The average income tax rate is 30%, and is much higher for the wealthy, though t
 
 A large portion of business and industry is government owned and centrally planned, but the majority of businesses are privatized and allowed to follow the market economy. Corporate taxes are quite high and are prohibitive for most entrepreneurial individuals, but not too much to drive away big business. There is also known to be an expansive black market throughout the country, but further details are not available.
 
-Some primary exports of Grenneria are manufacturing, unskilled labor, and raw metals. Grenneria relies in part on imports to sustain the country, and applies import tariffs ranging from nothing to 40% depending on the goods and from where they were imported, and applies no tariffs to any goods imported from within the Ozen Federation.
+Some primary exports of Grenneria are manufacturing, unskilled labor, and lumber. Grenneria relies in part on imports to sustain the country, and applies import tariffs ranging from nothing to 40% depending on the goods and from where they were imported, and applies no tariffs to any goods imported from within the Ozen Federation.
 
 ## Demographics
-
-- [[Farodet]]: 83%
-	- [[North Farodet|North]]: 37%
-	- [[Central Farodet|Central]]: 35%
-	- [[South Farodet|South]]: 28%
-- [[Irovell]]: 11%
-	- [[North Irovell|North]]: 44%
-	- [[Central Irovell|Central]]: 43%
-	- [[South Irovell|South]]: 13%
-- [[Ciraza]]: 3%
-	- [[North Ciraza|North]]: 78%
-	- [[East Ciraza|East]]: 22%
-- Others: 3%
 
 Grenneria has historically acted towards [[Spirits|spirits]] with total ignorance, and continues to do so today. The government operates as though spirits don't exist at all, leading to severe systemic discrimination against them. On top of this, many Grennerian people treat spirits as objects of fascination more than individuals. It is assumed that the spirit population of the country is very small as a result, but there is no concrete information to investigate this.
 
 ### Education
 
-f
+Education in Grenneria is provided primarily by public schools, which are tuition-free and provide all required educational materials, appropriate clothing or uniforms, and lunches to their students free of charge regardless of economic status. The Grennerian system is divided into four levels, being preschool education (ages 6 and under), primary general education (ages 6 to 10), basic general education (ages 11-16), and secondary general education (ages 17-18).
+
+Private schools exist, but are strictly regulated and are rare as a result. Private schools are only legally permitted to operate if they provide a significantly unique alternative method of education that has been proven to produce satisfactory results. Families below a certain threshold of economic status are entitled to financial grants from the Ozen Federation to allow them to select a private school if they wish.
+
+Education standards are set by the Minister of Education and their board of advisors, with additional input from other ministers every five years to determine if there is any need for increased or reduced focus on things like economics, vocational education, military history, and politics. Students may also elect independently to enroll in post-secondary education of various types, from vocational schools to universities.
+
+The Grennerian educational system produces poor results, with 4th, 8th, and 12th grade students consistently being ranked 8th in international test score surveys, but it has been noted that these surveys may be a flawed representation of the Grennerian model, as Grennerian students are typically high achievers in their chosen fields but underachievers in most other fields.
 
 ### Health
 
-f
+Healthcare in Grenneria is provided universally to all citizens of the Ozen Federation, primarily through nationally owned and operated hospitals, clinics, and pharmacies, all of which are paid with tax revenue and therefore do not charge patients at all for any care they receive. Privately owned alternatives exist, but are legally required to be operated as non-profit businesses and are subject to extreme regulation to ensure that all patients of any economic status can receive equal levels of care, with the Ozen Federation providing financial support to those that cannot afford the allowed charges from these businesses.
+
+The overall health of Grennerian citizens is average.
 
 ## Culture
 
-f
+TBD
+
+## See also
+
+[[World military balance]] (Meta)
+
+-----
+> [!cite] Author info
+> **Kit**\
+> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)

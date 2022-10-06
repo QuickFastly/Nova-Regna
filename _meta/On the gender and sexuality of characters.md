@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 If you look at the [[Character profile]] template, you will see that there is no gender field, only pronouns, and that there is also a sexuality field despite the usefulness of that being questionable at best. While this page in itself could also be considered unnecessary by some, allow me to explain my thought process for the inclusion and usage of these fields.
 
 First, the pronouns field. Quite simply, I do not believe that gender is important (or even relevant in many situations) to a story unless it is made a core part of said story. It is, however, important to some readers/viewers for their own reasons, be them good or bad. The simplest thing to do then is to list only the pronouns of a character on their page, unless gender identity is a core element of that character's story. For the characters I write, they may have a particular gender in my head as I start writing with them, but that's no law.
@@ -12,5 +16,5 @@ But that's all just me. As for characters created by people other than myself, t
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

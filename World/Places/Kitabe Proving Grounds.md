@@ -1,4 +1,6 @@
 ---
+share: true
+comments: true
 tags: PG
 ---
 Kitabe Proving Grounds was a large automotive testing compound, primarily focused on testing the top speeds of high-performance vehicles, as well as their handling characteristics, endurance, and stability at high speeds. It is located in the [[Kitabe]] area of [[Hashiri]] in [[Sumitori]], [[Shinzen]], built near the coastline and surrounded by hills on all other sides to reduce noise pollution. It was also previously a popular location for motorsport events before its closure. It was recently reopened by [[Haruna Kitami]] and [[EXCEED]], and has become the central point of the revival of traditional motorsport and automotive performance.
@@ -16,5 +18,5 @@ Contained within the oval is a complex network of interconnected racetracks that
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** *(AKA Kerosyn, or Quick Fastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

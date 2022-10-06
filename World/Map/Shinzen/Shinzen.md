@@ -1,13 +1,20 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shinzen</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shinzen flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shinzen flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shinzen (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shinzen (Region).jpg|250]]</span>
 
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Official name</b></td>
@@ -74,7 +81,8 @@
 			<td style="padding:4px">Clematis<br>Amaryllis<br>Cherry blossom</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaohou]] to the west, and closely neighbored by [[Sangyon]] to the northwest and [[Ilmaria]] in the eastern gulf.
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
@@ -233,5 +241,5 @@ zenwa period = 1996-present     reiwa
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

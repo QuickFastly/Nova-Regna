@@ -1,13 +1,20 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Osun Tanum</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Osun Tanum flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Osun Tanum flag.png|250]]</span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Osun Tanum (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Osun Tanum (Region).jpg|250]]</span>
 
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Official name</b></td>
@@ -74,7 +81,8 @@
 			<td style="padding:4px">Bird of paradise<br>Lily of the valley</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 Osun Tanum, officially known as the Democratic Republic of Osun Tanum, is a moderately sized country located on the southern third of the continent of [[Ozen]], and is a member of the [[Ozen Federation]]. Its capital, [[Grendelholt]], is located in the center of the country near the sea in the state of [[Sondergård]]. It is bordered by [[Corstaea]], [[Grenneria]], and [[Ustonia]], and is also closely neighbored by [[Alastor]] and [[Destrea]].
 
@@ -183,5 +191,5 @@ TBD
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

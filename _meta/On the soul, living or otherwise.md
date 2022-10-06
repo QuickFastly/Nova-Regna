@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 You're probably familiar with the concept of humans possessing a separate soul inside them, one that continues to live after death, as an explanation for afterlife. Well, in this world, those really do exist, and they are (relatively) physical objects made of [[Mystic Matter]].
 
 All living things in this world, and everything they create, are inherently intertwined with mystic matter. Without it, there would be no life, there may not even be existence at all. It could be said, then, that in a way, everything that exists is part of the same greater whole, whether anyone or anything is aware of that or not. Souls are the tangible evidence of this fact. However...
@@ -60,5 +64,5 @@ Finally, since souls are made of mystic matter, people with alignment can percei
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Alignment is a fundamental change in a person's physiology that typically occurs during infancy, theorized to be caused by exposure to high concentrations of [[Mystic Matter|mystic matter]]. It also appears to be affected by genetics, making some more likely to have this condition than others. Much like mystic matter itself, very little is understood about how alignment works.
 
 Some have theorized that alignment is directly linked to [[Attunement|attunement]], but this has been proven untrue as both conditions are entirely unique, and it is possible to have either one without the other.
@@ -28,5 +32,5 @@ It wasn't until the discovery of mystic matter that people learned to accept tho
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

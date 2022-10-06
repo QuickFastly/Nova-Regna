@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > The main article could use some rewrites, so this page is also subject to change.
 
@@ -59,5 +63,5 @@ During Cleansing, the recipient is doused in water by a Cardinal, then a Firekee
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 As part of the global peace initiative that began in 19XX, the Non-Proliferation of Civilian Firearms and Projectile Weapons Treaty, commonly abbreviated as NPCF, was proposed as an important step for the initiative.
 
 The intention of the treaty was to ban or strictly regulate civilian access to dangerous weapons to reduce the frequency and severity of violent crime around the world. Every country except [[Destrea]] agreed to the treaty.
@@ -30,5 +34,5 @@ As the legal proceedings carried on, it was also made public that the proposal i
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

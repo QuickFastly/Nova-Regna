@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Attunement is a fundamental change in a person's physiology that typically occurs in utero or during infancy, theorized to be caused by exposure to high concentrations of [[Mystic Matter|mystic matter]]. It also appears to be hereditary, as it is exceedingly rare for a person to be the first in their family who has it. Much like mystic matter itself, very little is understood about how attunement works.[^1]
 
 ## Effects
@@ -26,5 +30,5 @@ Treatment of people affected by attunement has varied greatly throughout history
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

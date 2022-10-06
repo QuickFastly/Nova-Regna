@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until there has been enough development for this notice to be removed, refer to the page on [[Appropriate real-world influences]] for some context and inspiration on the differences between these groups.
 
@@ -26,5 +30,5 @@ Still undecided on whether or not there should be a meaningful amount of history
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

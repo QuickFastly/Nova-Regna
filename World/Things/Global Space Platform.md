@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > More detail is needed here eventually.
 
@@ -7,5 +11,5 @@ The station is divided into three sections: the Ozen Orbital Segment (OOS) opera
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

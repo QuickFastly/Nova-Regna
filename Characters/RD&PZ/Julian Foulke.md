@@ -1,4 +1,5 @@
 ---
+share: true
 tags: RD
 ---
 > [!bug] Issue

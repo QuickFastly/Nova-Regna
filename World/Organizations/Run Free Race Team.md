@@ -1,4 +1,5 @@
 ---
+share: true
 tags: PG
 ---
 > [!bug] Issue
@@ -10,5 +11,5 @@ A racing team founded by [[Yoshida]] many years before [[Masashi Kitami]] even s
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** *(AKA Kerosyn, or Quick Fastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

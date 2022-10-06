@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > The main article could use some rewrites, so this page is also subject to change.
 
@@ -38,5 +42,5 @@ This rite is performed by either an Inquisitor or one of the Sanctified, and is 
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

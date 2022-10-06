@@ -1,26 +1,34 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Earth</th>
 	</tr></table>
+	</div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i></span>
+ <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i></span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i></span>
+ <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i></span>
   
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse; font-size:10px">![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
-  
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+ <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
+
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Population</b></td>
 			<td style="padding:4px"><i>As of the year 2030</i><br>approx. 2,000,000,000</td>
 		</tr>
 	
-  </table>
+    </table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-bottom:2px solid #666; border-collapse:collapse; font-size:10px">![[general population.png|250]]<br><i>Population by country</i><br>![[cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border-right:2px solid #666; border:2px solid #666; border-collapse:collapse; font-size:10px">![[general population.png|250]]<br><i>Population by country</i><br>![[cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>
 
-Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[Human|humans]] and [[Spirits|spirits]], both of which belong to a wide range of [[Cultures & Ethnicities|cultures and ethnicities]]. The planet and everything on it also contain [[Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.
+Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[Human|humans]] and [[Spirits|spirits]], both of which belong to a wide range of [[Cultures & Ethnicities|cultures and ethnicities]]. The planet and everything on it also contains [[Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.
 
 The world is currently in the tenth month of the year 2033 of Anno Ortu. It was likely formed some time during [[Era Dira]], but the true age of the planet is unknown. Nearly all history from that time period is also unknown due to a thick layer of ash and charcoal deep beneath the surface all over the world from an event known as [[The End of Everything]].
 
@@ -57,5 +65,5 @@ Essentially, unless you *want* to overthink it, just think of this world in exac
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

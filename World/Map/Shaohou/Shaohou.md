@@ -1,13 +1,20 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shaohou</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shaohou flag.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shaohou flag.png|250]]</span>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Shaohou (Region).jpg|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Shaohou (Region).jpg|250]]</span>
 
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Official name</b></td>
@@ -74,7 +81,8 @@
 			<td style="padding:4px">Butterfly jasmine<br>Lotus</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 Shaohou, officially known as the Imperial Lands of Shaohou, is a relatively small country located on the continent of [[Avangia]]. Its capital, [[Hangjing]], is located in the extremely mountainous heart of the country in the [[Qihua]] territory. It is encircled by a land border with [[Shinzen]].
 %% Hangjing coordinates: 29°19'W 125°1'S (?) %%
@@ -163,5 +171,5 @@ TBD
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

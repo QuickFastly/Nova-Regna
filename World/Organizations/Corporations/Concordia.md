@@ -1,14 +1,21 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is very much a work in progress and very subject to change.
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Concordia</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Concordia emblem.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Concordia emblem.png|250]]</span>
   
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
   
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Type</b></td>
@@ -35,7 +42,8 @@
 			<td style="padding:4px">Lighting the Way Forward</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 ## History
 

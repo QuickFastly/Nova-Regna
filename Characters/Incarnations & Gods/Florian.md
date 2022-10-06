@@ -1,11 +1,18 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Florian</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Florian portrait.png|250]]</span>
-  
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Florian portrait.png|250]]</span>
+
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
 			<tr>
 				<td style="padding:4px"><b>Artist</b></td>
@@ -94,7 +101,8 @@
 			<td style="padding:4px">156 kg / 344 lb</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 <span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![[florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>
 
@@ -174,5 +182,5 @@ Some of Florian's history during [[Era Dira]] is described in [[The Account]].
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

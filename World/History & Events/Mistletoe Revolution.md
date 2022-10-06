@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > More detail is needed here eventually.
 
@@ -9,5 +13,5 @@ Prior to the Mistletoe Revolution, Ustonia had been at war with Destrea and Osun
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

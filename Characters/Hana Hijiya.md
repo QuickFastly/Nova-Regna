@@ -1,3 +1,6 @@
+---
+share: true
+---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
 
@@ -5,5 +8,5 @@ Former chairman of the board of the [[Hijiya Corporation]]. Wife to [[Kaede Hiji
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,4 +1,5 @@
 ---
+share: true
 tags: HT
 ---
 > [!bug] Issue
@@ -8,5 +9,5 @@ A place in the forests of [[Hayagawa]] where the [[Inazuma Clan]] once lived. No
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

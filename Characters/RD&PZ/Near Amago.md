@@ -1,4 +1,5 @@
 ---
+share: true
 tags: RD
 ---
 > [!bug] Issue
@@ -10,5 +11,5 @@ Friends and roommates with [[Nozomi Hijiya]] and [[Suruko Zukeran]]. Unfortunate
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

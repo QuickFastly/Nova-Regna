@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Historically, the legal and cultural expectations and methods for representing dates and times have varied between nations, and has been a source of confusion internationally. In an effort to simplify the keeping of time around the world, the Unified Timekeeping Standard was proposed in 1523 by an independent group of merchants, and has been in use worldwide since 1549.
 
 The standard was not made retroactive, so any dates and times found in documents and media written prior to when a given country adopted the standard should be assumed to have been written using the system that was in use in that place at that time. However, the standard has been made retroactive in modern times, so all dates and times found in documents and media written since 1549, even if the date written is before that year, can be assumed to be written in the Unified Timekeeping Standard.
@@ -51,5 +55,5 @@ To this day, the state of Arkbay is the only place in the world that observes da
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

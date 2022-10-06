@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > The Children of the Flame are not the only people with a story for this event, the others just aren't written yet. The other religions aren't even written at all yet themselves.
 
@@ -13,5 +17,5 @@ Since the publishing of The Account, the accepted belief within the group has ch
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

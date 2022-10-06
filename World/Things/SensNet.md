@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 SensNet is a lifestyle technology product introduced in Q2 2016 by [[11K]] that functions through a direct two-way neural interface with an always-on internet connection, no need for any external power source, and has both augmented reality and virtual reality capabilities. Since the completion of the [[Avalon]] data center, the SensNet interface is also used to provide access to [[Sublimation|sublimation]].
 
 In Q1 2029, 11K removed the purchase price for SensNet and launched a global distribution and installation initiative, with the stated aim of connecting every person alive with the SensNet service. Today, all citizens of [[Ilmaria]] are required by law to have SensNet devices, and over 80% of people in the rest of the world have had SensNet devices installed so far.
@@ -30,5 +34,5 @@ A significant minority of skeptics remained consistently prominent around the wo
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

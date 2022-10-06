@@ -1,19 +1,22 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Location</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
 
   <!-- If you have one or two more images, you can duplicate this block for them. Any more than that should be included somewhere else though. Remember, this block is indented with TWO spaces, NOT four and NOT a tab. -->
   
-  <!-- Markdown and wikilinks don't work inside most html, and Obsidian also doesn't support relative file paths in html format, so this block is a separate <span> element to allow for a relative path wikilink to the image. If you want to insert a clickable link anywhere other than a <span> element, you need to use the html method instead of markdown. (<a href="url">text</a>) -->
+  <!-- Markdown and wikilinks don't work inside most html, and Obsidian also doesn't support relative file paths in html format, so this block is a separate <span> element to allow for a relative path wikilink to the image. If you want to insert a clickable link inside html anywhere other than within a <span> element, you need to use the html method instead of markdown. (<a href="url">text</a>) -->
 
-  <!-- If you don't have an image at all and don't plan to add one to this page, you can delete the entire <span> element, the </table> tag above it, and the <table style =...> line below. -->
+  <!-- If you don't have an image at all and don't plan to add one to this page, you can delete the entire <span> element, the </div> and </table> tags above it, and the <table style =...> line below. -->
   
   <!-- Unlike every other infobox template, the artist credit and image license fields are not present here. This is because the only images you should be using here are of the official map, which is already CC BY-SA 4.0 licensed. Anything else should go below this infobox, and you can add credits and disclosures there if needed -->
-	
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		<!-- Line breaks are supported in these blocks by using the <br> tag -->
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Full/Historical name</b></td>
@@ -62,7 +65,8 @@
 	
 		<!-- If this place has symbols, like a flower or animal, add blocks for them! -->
 	
-</table>
+  </table>
+</div>
 
 <!-- If you want more stuff on the side beneath the info box, put it here. Use the following html tag:
 <span style="float:right; clear:right; width:260px; margin:14 0 7 14;"></span>

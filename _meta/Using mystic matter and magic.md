@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 In this world, there is [[Mystic Matter|mystic matter]] - a substance with supernatural properties on its own that can cause certain supernatural phenomena in the natural world - and characters with [[Attunement|attunement]] can manipulate it to perform all kinds of supernatural feats. One might even call it magic, who would have guessed?
 
 All living things in this world, and everything they create, are inherently intertwined with mystic matter. Without it, there would be no life, there may not even be existence at all. It could be said, then, that in a way, everything that exists is part of the same greater whole, whether anyone or anything is aware of that or not. Theoretically, absolutely anything is possible through the use of mystic matter. However...
@@ -92,5 +96,5 @@ Don't overthink it I guess.
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

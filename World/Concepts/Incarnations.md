@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Seemingly inexplicable by science but clearly visible as reality, incarnations are particular types of [[Spirits|spirits]] that hold an immeasurable, almost otherworldly amount of power. There is only a single incarnation alive at any given time belonging to each type of major spirit, and none among minor spirits. When one dies, another is born within one year.
 
 Incarnations seem to be divided into two groups, mortal and immortal. The power held by each mortal incarnation seems to vary wildly, while the immortal incarnations appear to hold nearly infinite power.
@@ -22,5 +26,5 @@ There are three immortal incarnations:
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

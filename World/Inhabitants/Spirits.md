@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Spirits are a unique species alongside [[Human|humans]], visually distinguished primarily by their animalistic or otherwise unusual features. These can manifest as features from nearly any type of animal - or in rare cases, even many types of plant - on [[Earth]], but are typically limited to minor additions or changes to the otherwise humanlike body. They share the same [[Cultures & Ethnicities|cultures and ethnicities]] as humans do, although some groups of spirits additionally have their own subcultures, which can be either consistent worldwide or regional. They are also notable for having a strong affinity with [[Mystic Matter|mystic matter]], even among individuals that possess neither [[Alignment|alignment]] nor [[Attunement|attunement]].
 
 While spirits appear remarkably similar to humans, even to the point of being effectively identical in most anatomical aspects, they are still a distinctly different species: H. varius. Additionally, each of the many varieties of spirit is also classified with at least one subspecies. For example, the trinomial H. varius catus, or the polynomial H. varius lupus albus.
@@ -55,5 +59,5 @@ Minor spirits:
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

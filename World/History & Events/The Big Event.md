@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This used to be in the History section of the [[Risky Witches]] page. I intend to rewrite this eventually, but this'll do for now.
 
@@ -15,5 +19,5 @@ The Risky Witches elected not to take control of Destrea as they preferred to se
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

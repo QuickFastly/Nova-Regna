@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 To get a quick at-a-glance idea of the power balance between the countries of the world in the modern era, this chart exists. Of course there can be as much or as little additional nuance as you choose to think about, but this should get you on the right track no matter what.
 
 ![[militarybalance.png]]
@@ -28,5 +32,5 @@ Also here's a version of the current year foreign relations chart from all the c
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Mystic matter is a type of naturally occurring substance found in nearly everything that exists on [[Earth]]. It is required for life to be born, but not always required to sustain it, though it does play a vital role in regulating the health of many living things.
 
 This is the substance that is perceived by people with [[Alignment]] and manipulated by people with [[Attunement]].[^1]
@@ -36,5 +40,5 @@ When speaking with an aligned person about this phase of matter, it was learned 
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,4 +1,4 @@
-<div>
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
 	<table style="float:right; clear:right; width:260px; margin:14 0 7 14; border:0px; border-left:4px solid #666666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			<!-- If you want any clickable links in this timeline, you have to use the html method (<a href="url">text</a>) rather than markdown, and remember that relative paths are not supported this way in Obsidian -->
 		<tr>

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Era Dira is the time period of [[Earth]] prior to the current period, Anno Ortu. How long the period lasted is unknown, but archaeological discoveries and studies have found evidence of the period extending at least 1000 years into the past prior to the current period. Years are counted negatively from then on, with Era Dira ending in year -1 and Anno Ortu beginning in year 1, with no year 0 between them.
 
 The name of the period comes from the discovery that deep underground is a thick layer of ash and charcoal. This layer has been observed across the entire globe, even extending some distance into the oceans, giving us a clear indicator of how far the water level of the Earth has risen since the end of Era Dira. Everywhere it has been observed, it is of the same thickness and apparent age, suggesting that the whole of the planet was at one point on fire for 6 to 8 years in an event now known as [[The End of Everything]]. How this fire was caused, or could even be possible, is unknown. With current technology, we are unable to extract meaningful information from the ash layer itself, leaving us reliant entirely on the discovery of intact artifacts within or underneath it. Effectively, nearly all of Era Dira was erased from history.
@@ -10,5 +14,5 @@ While the formation of the Earth is well documented and understood by now, the t
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

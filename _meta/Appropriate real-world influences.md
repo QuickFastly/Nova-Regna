@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 It's hard to build a world with no influence from reality at all. So I didn't. Everything in [[Earth|this world]] is influenced heavily by various parts of the real world, and it's no secret. If you want to create something new for the world and you want to know where to look for inspiration, this page is here to place influences on the map politically, as well as for the [[Cultures & Ethnicities]] of the world.
 
 > [!warning]
@@ -77,9 +81,9 @@ Don't let that stop you from adding representation for more real-world cultures 
 
 Also, since there isn't currently a more suitable place to put this note, all animals that exist in the real world exist in this world too. Some that have gone extinct in the real world may not be extinct here, and vice versa. It's also entirely possible to create completely original creatures that don't exist in the real world, as long as they're relatively believable, and in fact some original creatures would be pretty cool since there are so many possibilities for how mystic matter could affect animals in this world.
 
+[^1]: If you're no fun and you really want to know what they did, this is the footnote for you, but it might be more fun if you stop reading it now. Anyway, everything that the various pages in the cultures and ethnicities section say is "suggested" is true. It is also true that all the world's ethnicities come from the seven major groups, but several of the subgroups "thought to" be new developments did in fact exist since Era Dira, and Carlanders really are the first of the Exilans like they were "thought to" be, and the Farodet story of "emerging from the mountains" was spot on. The people who survived The End of Everything were sheltered within Himlavård, and then at the beginning of Anno Ortu, most of the people were teleported to their places around the world, but the Farodet, Exilan, and Irovell people walked out of the mountains themselves. Knowing all that, though, don't get used to the idea of things that are "thought to be" or "suggested" to be true *actually* being true, because some of the information on this wiki is deliberately incorrect due to being written from the human perspective without the knowledge of true events.
+
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
-
-[^1]: If you're no fun and you really want to know what they did, this is the footnote for you, but it might be more fun if you stop reading it now. Anyway, everything that the various pages in the cultures and ethnicities section say is "suggested" is true. It is also true that all the world's ethnicities come from the seven major groups, but several of the subgroups "thought to" be new developments did in fact exist since Era Dira, and Carlanders really are the first of the Exilans like they were "thought to" be, and the Farodet story of "emerging from the mountains" was spot on. The people who survived The End of Everything were sheltered within Himlavård, and then at the beginning of Anno Ortu, most of the people were teleported to their places around the world, but the Farodet, Exilan, and Irovell people walked out of the mountains themselves. Knowing all that, though, don't get used to the idea of things that are "thought to be" or "suggested" to be true *actually* being true, because some of the information on this wiki is deliberately incorrect due to being written from the human perspective without the knowledge of true events.
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Not to be confused with the lending term, the Credit (CR) is a globally accepted currency, separate from all established national economies and managed by an international board of independent economists. It is a fully cashless currency, usable only through digital systems.
 
 It was developed jointly by the governments of [[Shinzen]] and [[Ustonia]] in 1981, and was globally adopted in 1984. Both the Shinzenese Yen and the Ustonian Dollar remain linked to the value of the Credit to this day. Some banks keep local currency and Credits separately, while others will only keep one of the two and automatically convert to and from Credits as needed.
@@ -21,5 +25,5 @@ Credits are most commonly spent online, and the most common way to spend credits
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

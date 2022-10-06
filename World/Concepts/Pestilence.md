@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!warning]
 > Keep in mind, practically nobody in the world knows this. Whoever in the world gathered this information probably didn't live for long afterwards.
 
@@ -24,5 +28,5 @@ Because of how remarkably few people have ever achieved this condition throughou
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

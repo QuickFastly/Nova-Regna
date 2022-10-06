@@ -1,4 +1,6 @@
 ---
+share: true
+comments: true
 tags: RD
 ---
 > [!bug] Issue

@@ -1,4 +1,9 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Humans</th>
 	</tr>
@@ -23,7 +28,8 @@
 			<td style="padding:4px">140-200 lb<br>(63.5-90.7 kg)</td>
 		</tr><!-- Please use both metric AND imperial! -->
 		
-</table>
+  </table>
+</div>
 
 Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [[Cultures & Ethnicities|many varieties]].
 
@@ -73,11 +79,11 @@ In short, you still need to write fight scenes with a degree of realism in mind.
 ### Interracial relations
 
 > [!example]- A meta note on race
-> The social concept of "race" in this world does not differentiate by skin color or ethnicity. While it is certainly not unheard of for people to discriminate against others on the basis of skin color or cultural differences in this world, the severity of that discrimination is not nearly as severe as in the real world, except in the case of extreme nationlism. The concept of race, and with it the worst of the discrimination and oppression in this world is focused instead on the divide between humans and spirits, because they are entirely different species.
+> The social concept of "race" in this world does not differentiate by skin color or ethnicity. While it is certainly not unheard of for people to discriminate against others on the basis of skin color or cultural differences in this world, the severity of that discrimination is not as severe as in the real world, except in the case of extreme nationalism. The concept of race, and with it the worst of the discrimination and oppression in this world is focused instead on the divide between humans and spirits, because they are entirely different species.
 
 For most of history, humans have been strongly prejudiced against spirits of all types, and have constantly perpetuated discrimination, hate crimes, and even genocides against them. In recent years, this racism has sharply declined as more and more of the world works to change their treatment towards spirits, but some holdouts will likely always remain.
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

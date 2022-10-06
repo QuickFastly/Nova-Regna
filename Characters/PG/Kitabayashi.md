@@ -1,8 +1,9 @@
 ---
+share: true
 tags: PG
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final.
+> This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final. Image is **not** Creative Commons.
 
 [[LAW]]
 
@@ -17,5 +18,5 @@ Humble and uncompetitive, close friends with Mizota. If you asked him, he'd tell
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

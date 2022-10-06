@@ -1,3 +1,6 @@
+---
+share: true
+---
 > [!bug] Issue
 > nothing for now, this page is only here at the moment to keep track of the periods.
 
@@ -94,5 +97,5 @@ TBD
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

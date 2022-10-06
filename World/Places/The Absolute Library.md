@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!warning]
 > This be cursed knowledge! Knowing about this may change the way you think about the rest of the world. By the very nature of this place, virtually nobody in the world knows it exists, or even about Minerva. Think very carefully before writing anything involving this place if the characters mentioned here are anything other than central to the story.
 
@@ -11,5 +15,5 @@ Vanishingly few people ever receive Minerva's approval, and not all of them get 
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

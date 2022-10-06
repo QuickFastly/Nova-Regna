@@ -1,4 +1,5 @@
 ---
+share: true
 tags: PG
 ---
 > [!bug] Issue
@@ -14,5 +15,5 @@ tags: PG
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 Until the day someone goes hog wild and creates a large handful of fictional languages just for this world, real-world languages will be used. However, this will be handled in a specific way.
 
 **Real-world languages shall not be named at any point in any stories set in this world, nor on any page of this wiki, *except those in the [[Cultures & Ethnicities]] section.***
@@ -14,5 +18,5 @@ As a fun little bonus of that logic, measurement systems that we're familiar wit
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

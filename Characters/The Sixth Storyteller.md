@@ -1,11 +1,18 @@
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+---
+share: true
+comments: true
+---
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">The Sixth Storyteller</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Storyteller portrait.png|250]]</span>
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Storyteller portrait.png|250]]</span>
 
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 			
 			<tr>
 				<td style="padding:4px"><b>Artist</b></td>
@@ -89,9 +96,8 @@
 			<td style="padding:4px">50 kg / 111 lb</td>
 		</tr>
 	
-</table>
-
-<!-- If you want more stuff on the side beneath the info box, put it here. Make sure to add style="float:right; clear:right; width:260px; margin:14 0 7 14;" -->
+  </table>
+</div>
 
 The Sixth Storyteller is the current Storyteller of the [[Children of the Flame]]. His real name is not known, nor his origins or even appearance. The only part of his body that is ever visible is his hair. His true age is also not known, only that he is over 473, since he became Storyteller in the year 1560. Being effectively nameless, he allows others to call him by the name "Six" outside of formal or official settings.
 
@@ -127,5 +133,5 @@ When he became Storyteller in 1560, a huge number of ranking individuals across 
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

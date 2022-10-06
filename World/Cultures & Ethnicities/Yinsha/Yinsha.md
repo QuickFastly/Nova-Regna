@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.
 
@@ -17,7 +21,8 @@
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first seven) to get their own page and be recognizably distinct.
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Yinsha people</th>
 	</tr>
@@ -41,7 +46,8 @@
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Shanyǔ<br><i>(Standard Chinese)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Yinsha people are one of the seven major [[Cultures & Ethnicities|ethnic groups]] of [[Earth|the world]], occupying approximately 6% of the global population, primarily in [[Shaohou]] on the continent of [[Avangia]]. It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.
 
@@ -56,7 +62,8 @@ More TBD
 
 ### Suo people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Suo people</th>
 	</tr>
@@ -80,13 +87,15 @@ More TBD
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Yáhuà<br><i>(Malaysian Mandarin)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Suo people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Suwei]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Suo people has yet to be discovered. They speak Yáhuà today, which is considered a dialect of Shanyǔ by the Shaohan government, but it retains significant similarity to the extinct native Suo language, which itself shared some similarity to the Taesian language, Talidah, suggesting frequent cultural exchange despite the distance.
 
 ### Xi people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Xi people</th>
 	</tr>
@@ -110,13 +119,15 @@ The Suo people are an ethnic group thought to be descended from the [[Yinsha]] t
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Xoàihuà<br><i>(Vietnamese)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Xi people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Xinwei]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Xi people has yet to be discovered. Their language, known as Xoàihuà by the Shaohan government, is a distant evolution of the Proto-Wei language, and is entirely distinct from the Shannic family.
 
 ### Fa people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Fa people</th>
 	</tr>
@@ -140,13 +151,15 @@ The Xi people are an ethnic group thought to be descended from the [[Yinsha]] th
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Pak-sû<br><i>(Taiwanese Hokkien)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Fa people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Futou]] in what is now [[Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Fa people has yet to be discovered. They speak Pak-sû today, which despite being part of the Shannic family of languages and using a similar writing system, is almost entirely distinct when spoken.
 
 ### Yao people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Yao people</th>
 	</tr>
@@ -170,13 +183,15 @@ The Fa people are an ethnic group thought to be descended from the [[Yinsha]] th
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Yánghuà<br><i>(Cantonese)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Yao people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Onsai]] in what is now [[Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Yao people has yet to be discovered. They speak Yánghuà today, which despite being part of the Shannic family of languages and using a similar writing system, is almost entirely distinct when spoken.
 
 ### Mei people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Mei people</th>
 	</tr>
@@ -200,13 +215,15 @@ The Yao people are an ethnic group thought to be descended from the [[Yinsha]] t
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Talkhel<br><i>(Mongolian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Mei people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Yuezou]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Mei people has yet to be discovered. They speak Talkhel, which is a distant evolution of the Proto-Wei language, and is entirely distinct from the Shannic family and quite unique even within the Wei family. Today, the Mei people are considered stateless and are spread thin throughout all of Shaohou as a result of the atrocities committed during the [[Unification of Shaohou]].
 
 ### Heling people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Heling people</th>
 	</tr>
@@ -230,11 +247,12 @@ The Mei people are an ethnic group thought to be descended from the [[Yinsha]] t
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Atiphāsā<br><i>(Khmer (Cambodian))</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Heling people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Yuezou]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Heling people has yet to be discovered. They speak Atiphāsā, which is a distant evolution of the Proto-Wei language, and is entirely distinct from the Shannic family and quite unique even within the Wei family. Today, the Mei people are considered stateless and are spread thin throughout all of Shaohou as a result of the atrocities committed during the [[Unification of Shaohou]].
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

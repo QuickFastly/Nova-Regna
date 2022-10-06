@@ -1,14 +1,21 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Avangian Alliance</th>
 	</tr></table>
+  </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-right:2px solid #666; border-left:2px solid #666; border-collapse:collapse">![[Avangian Alliance flag.png|250]]</span>
-
-  <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Avangian Alliance flag.png|250]]</span>
+  
+  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 		
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Type</b></td>
@@ -30,7 +37,8 @@
 			<td style="padding:4px">Shinzen<br>Shaohou<br>Sangyon</td>
 		</tr>
 	
-</table>
+  </table>
+</div>
 
 The Avangian Alliance is a political agreement formed between [[Sangyon]], [[Shaohou]], and [[Shinzen]] in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.
 
@@ -50,5 +58,5 @@ TBD
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

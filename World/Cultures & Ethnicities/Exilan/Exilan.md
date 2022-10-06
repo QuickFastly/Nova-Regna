@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.
 
@@ -19,7 +23,8 @@
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first nine) to get their own page and be recognizably distinct.
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Exilan people</th>
 	</tr>
@@ -38,7 +43,8 @@
 			<td style="padding:4px"><b>Time of origin</b></td>
 			<td style="padding:4px">Sometime in Era Dira</td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Exilan people are one of the seven major [[Cultures & Ethnicities|ethnic groups]] of [[Earth|the world]], occupying approximately 39% of the global population, primarily in [[Ustonia]] on the continent of [[Yulentia]], and in [[Corstaea]] and [[Osun Tanum]] on the continent of [[Ozen]]. It is also the only ethnic and cultural group in the world that is more populous outside of its native continent, the apparent result of widespread large-scale colonization of Yulentia.
 
@@ -53,7 +59,8 @@ More TBD
 
 ### Carlanders
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Carlanders</th>
 	</tr>
@@ -77,13 +84,15 @@ More TBD
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Gurilàin, Druláin<br><i>(Scots Gaelic, Irish Gaelic)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 Carlanders are the first new ethnic group to be formed from the [[Exilan]] people, forming their shared identity after migrating to the island known today as [[Carlow]], [[Corstaea]], and are thought to be the most genetically, culturally, and linguistically similar to the original Exilans today due to their long isolation on the island. They are divided primarily into northern and southern subcultures, Gurilàin and Druláin, each also being the name of their own distinct languages, both of which still use the same alphabet and many of the same sounds as found in ancient Exilan artifacts from [[Era Dira]], making them two of the most ancient living languages in the world. Some believe that it is possible the Carlanders were alive during Era Dira based on that, or even that they may be the true first Exilans, but no evidence has been found to support these ideas.
 
 ### Mandese people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Mandese people</th>
 	</tr>
@@ -107,13 +116,15 @@ Carlanders are the first new ethnic group to be formed from the [[Exilan]] peopl
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Munait<br><i>(Old English (futhorc))</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Mandese people are the second new ethnic group to be formed from the [[Exilan]] people, first settling in what is now [[Manden]], [[Corstaea]], and seemingly the first among Exilans to develop a unique writing system. While their language, Munait, is very different today, it still uses a very similar alphabet as it did in ancient times, making ancient writings relatively easy to decipher.
 
 ### Allenesian people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Allenesian people</th>
 	</tr>
@@ -137,13 +148,15 @@ The Mandese people are the second new ethnic group to be formed from the [[Exila
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Harkan<br><i>(German)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Allenesian people are the third new ethnic group to be formed from the [[Exilan]] people, first settling in what is now [[Allenthal]], [[Corstaea]], before being pushed south by Mandese expansionism. Ancient Allenesians spoke Munait, but after regular contact and trade with the [[Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Oster and Vastian.
 
 ### Oster people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Oster people</th>
 	</tr>
@@ -167,13 +180,15 @@ The Allenesian people are the third new ethnic group to be formed from the [[Exi
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Oster<br><i>(Dutch)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Oster people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [[Osterfeld]], [[Osun Tanum]], during a mass Allenesian migration to the south caused by Mandese expansionism. The first Oster people spoke Munait, but after regular contact and trade with the [[Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Munait and Harkan.
 
 ### Vastian people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Vastian people</th>
 	</tr>
@@ -197,13 +212,15 @@ The Oster people are an ethnic group descended from the Allenesian people that d
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Vastian<br><i>(Austrian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Vastian people are an ethnic group descended from the Allenesian people that developed their unique culture and shared identity after settling in what is now [[Vastdal]], [[Osun Tanum]], during a mass Allenesian migration to the south caused by Mandese expansionism. The first Vastian people spoke Munait, but after regular contact and trade with the [[Irovell]] Halli people, their language developed into the amalgam it is today, mutually intelligible with neither of its roots, more similar instead to Harkan and Oster.
 
 ### Macan people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Macan people</th>
 	</tr>
@@ -227,13 +244,15 @@ The Vastian people are an ethnic group descended from the Allenesian people that
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Various</td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Macan people are a cultural melting pot, formed from a variety of Mandese, Allenesian, Oster, Vastian, Halli, Svalli, and Kolli peoples, forming their own cohesive shared identity around their common belief that their land of [[Macdon]], located in what is now [[Osun Tanum]], would one day be the center of the world stage. They have no language of their own, instead primarily speaking Halli and often the language of their ancestors as a first and second language.
 
 ### Oxi people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Oxi people</th>
 	</tr>
@@ -257,13 +276,15 @@ The Macan people are a cultural melting pot, formed from a variety of Mandese, A
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Halli<br><i>(Norwegian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Oxi people are descended from the Mandese people of [[Manden]], who identified themselves as Oxi after the colonization of [[Roxware]], [[Oxbalt]] in 1639, also forcing the name Old Oxi universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 ### Arkan people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Arkan people</th>
 	</tr>
@@ -287,13 +308,15 @@ The Oxi people are descended from the Mandese people of [[Manden]], who identifi
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Halli<br><i>(Norwegian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Arkan people are descended from the Allenesian people of [[Hartmond]], who identified themselves as Arkan after the colonization of [[Centralia]], [[Arkbay]] in 1643, also forcing the name Native Arkans universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 ### Graven people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Graven people</th>
 	</tr>
@@ -317,11 +340,12 @@ The Arkan people are descended from the Allenesian people of [[Hartmond]], who i
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Halli<br><i>(Norwegian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Graven people are descended from the Oster people of [[Osterfeld]], who identified themselves as Graven after the colonization of [[Gravenwood]], [[Lonfolk]] in 1647, also forcing the name First Gravens universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

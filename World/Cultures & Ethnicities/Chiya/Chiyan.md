@@ -1,3 +1,7 @@
+---
+share: true
+comments: true
+---
 > [!bug] Issue
 > This page is a stub, not just because there is much yet to be written, but because the development of this page and its subpages should ideally happen naturally through storytelling, not just worldbuilding. That is a slow process. Until enough detail is added to a given subgroup to be moved to its own page, it will remain here.
 
@@ -15,7 +19,8 @@
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first five) to get their own page and be recognizably distinct.
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Chiyan people</th>
 	</tr>
@@ -39,9 +44,8 @@
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Nalamal<br><i>(Korean)</i></td>
 		</tr>
-</table>
-
-
+  </table>
+</div>
 
 The Chiyan people are one of the seven major [[Cultures & Ethnicities|ethnic groups]] of [[Earth|the world]], occupying approximately 3% of the global population, primarily in [[Sangyon]] on the continent of [[Avangia]]. It is also one of the three ethnic and cultural groups that has retained its own prominence to this day since ancient times, even after the ethnogenesis of its numerous subgroups.
 
@@ -56,7 +60,8 @@ More TBD
 
 ### Sun people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Sun people</th>
 	</tr>
@@ -80,13 +85,15 @@ More TBD
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Nirukti<br><i>(Thai)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Sun people are the first new ethnic group to be formed from the [[Chiyan]] people, migrating south from what is now [[Dangje]] to what is now [[Tanbaek]], [[Sangyon]]. The ethnogenesis of this group seems to have been caused by lingual differences, as their language, Nirukti, has been found in ancient writings at least as old as the first Chiyan people alongside some of the oldest known Nalamal texts.
 
 ### Taesian people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Taesian people</th>
 	</tr>
@@ -110,13 +117,15 @@ The Sun people are the first new ethnic group to be formed from the [[Chiyan]] p
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Talidah<br><i>(Malay)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Taesian people are the second ethnic group of [[Chiyan]] lineage that came to be through the growing regional differences among the first Sun people, migrating south from what is now [[Tanbaek]] to what is now [[Tanje]], [[Sangyon]]. Their language, Talidah, is a relative of the Sun language, Nirukti, but today only shares a small number of common words. Their language shares some similarity with Yáhuà, the language spoken by the Suo people, suggesting frequent cultural exchange despite the distance.
 
 ### Jeonese people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Jeonese people</th>
 	</tr>
@@ -140,13 +149,15 @@ The Taesian people are the second ethnic group of [[Chiyan]] lineage that came t
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Jalisah<br><i>(Indonesian)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to be after the Taesian people settled what is now [[Jeonsan]], [[Sangyon]], and developed their own unique culture around the dense rainforest and tall hills of their new land, in stark contrast to the reliance on the sea found in [[Tanje]]. Their language, Jalisah, is a very close relative of the Taesian  language, Talidah, and they are generally mutually intelligible.
 
 ### Cheosan people
 
-<table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
+  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Cheosan people</th>
 	</tr>
@@ -170,11 +181,12 @@ The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to
 			<td style="padding:4px"><b>Language</b></td>
 			<td style="padding:4px">Tiyoma<br><i>(Filipino)</i></td>
 		</tr>
-</table>
+  </table>
+</div>
 
 The Cheosan people are the fourth ethnic group of [[Chiyan]] lineange that came to be after being pushed to the edges of the mainland by the first Chiyans for speaking a different language, first identifying themselves as a unique culture a century after settling the islands of [[Cheosu]], [[Sangyon]]. They seem to have originally spoken Nirukti, but eventually developed into the unique language they speak today.
 
 -----
 > [!cite] Author info
-> **Kit**\
-> [Web zone](https://kitabe.link) [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

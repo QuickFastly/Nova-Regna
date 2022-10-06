@@ -85,8 +85,6 @@ comments: true
 </div>
 
 Shinzen, officially known as the State of Shinzen (真善国), is an expansive country and international superpower located on the continent of [[Avangia]]. Its capital, [[Takagawa]], is located near the southern coast of the state of [[Asahi]]. It is bordered by [[Shaohou]] to the west, and closely neighbored by [[Sangyon]] to the northwest and [[Ilmaria]] in the eastern gulf.
-%% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
-%% Shiga Coordinates: 5°26'S 108°23'W (?) %%
 
 Shinzen is a highly developed nation with the second largest population in the world, a booming semi-industrial economy, and a very well outfitted military. Shinzen is also considered to be one of the world leaders in aviation and automotive engineering, as well as development in space travel, robotics, microelectronics, artificial intelligence, and biotechnology.
 
@@ -188,6 +186,8 @@ TBD
 
 [[World military balance]] (Meta)
 
+%% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
+%% Shiga Coordinates: 5°26'S 108°23'W (?) %%
 
 %%
 真善 shinzen (true and good) - {美 beautiful}

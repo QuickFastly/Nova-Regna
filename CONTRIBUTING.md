@@ -27,6 +27,8 @@ In an attempt to keep this wiki looking somewhat consistent, here are some guide
 
 When creating a new page, check if there's a template available for it, like the [[Character profile]] or [[Organization]] templates. These give a basic structure that you should try to stick with for the sake of consistency, but feel free to add or remove sections as you need. If there is no existing template, you may still find the [[Infobox]] template useful when inserted at the top of a page.
 
+*(If you're reading this from the wiki, the templates folder is missing, but is viewable in [the repo](https://github.com/QuickFastly/Nova-Regna/tree/main/_templates).)*
+
 ##### Credit
 
 When creating a new page, if you want to be credited for it, include the [[Author info]] template at the very bottom of the page and edit it to suit you. Use the same info for any other pages you create to keep it consistent. You can also use this block to declare a different license for the content of your page. If you do not include this on your page, you will receive no credit and your page will be licensed with the default CC-BY-SA 4.0.

@@ -7,6 +7,8 @@ This is a worldbuilding project that I've been brewing in my head for longer tha
 
 **This is an [open](https://opendefinition.org/) world**, and everything within it - *unless explicitly stated otherwise* - is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Anybody can [contribute](CONTRIBUTING.md) anything to this world, and [use](USAGE-GUIDELINES.md) anything in it however they want.
 
+If you're new and just want to browse, I understand that having so many pages and folders visible can be kind of overwhelming, so you can start with [[Earth]] and follow the links from there.
+
 %% If you're viewing the GitHub repo and you can read this line, you should know that I use [Obsidian](https://obsidian.md/), so everything here is made with that in mind. On GitHub, most of the formatting does not render, like these commented lines. Wikilinks also don't work, making navigation very cumbersome. If all you want to do is look around, you should either visit [the wiki](https://wiki.kitabe.link) or download this vault to open in Obsidian yourself.
 
 A quick way to set up and view this wiki in your own Obsidian installation is to click the Code button at the top right of the repo, click Download ZIP, extract that somewhere, and then open that folder as a vault within Obsidian. You could also just clone the repo if you know how to do that. I also recommend using at least this plugin for viewing convenience: [Image Toolkit](obsidian://show-plugin?id=obsidian-image-toolkit ) / https://github.com/sissilab/obsidian-image-toolkit

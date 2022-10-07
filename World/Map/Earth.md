@@ -7,7 +7,7 @@ comments: true
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Earth</th>
 	</tr></table>
-	</div>
+  </div>
 
  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i></span>
   

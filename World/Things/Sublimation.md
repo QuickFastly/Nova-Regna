@@ -7,6 +7,8 @@ comments: true
 
 Sublimation is a technology service introduced in Q4 2027 provided by [[11K]] through the [[SensNet]] interface that creates a living digital copy of the user within the [[Avalon]] data center. This digital existence persists after the physical death of the user, effectively granting the user immortality. It was a paid service that required a hefty upfront fee and ongoing subscription or a special grant to use, but it became free to start for all in Q4 2032 in exchange for the sublimated users' ongoing performance of various tasks, in essence making them digital employees of 11K. The process is a tightly guarded secret, nobody outside of a select few within 11K are aware of how it works.
 
+By default, each user of sublimation are given a digital avatar that is a near-perfect recreation of their physical body minus any disabling conditions. However, users have the opportunity to request customizations before the process begins, which can be anything from changing their eye color to changing every aspect of the body into something new. SensNet power users who have experience working with its software have also been known to be capable of modifying their own bodies however and whenever they wish.
+
 ## Reception
 
 Public reception was immediately and overwhelmingly positive when sublimation was first announced, the thought of achieving effective immortality being deeply tantalizing. After the service launched, however, it quickly became wildly controversial, with many people still being amazed by the idea of immortality while others began to question the motives of the company, and debates surrounding what it means to be alive and the nature of consciousness erupted around the world with renewed perspective and urgency.

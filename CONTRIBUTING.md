@@ -27,7 +27,7 @@ In an attempt to keep this wiki looking somewhat consistent, here are some guide
 
 When creating a new page, check if there's a template available for it, like the [[Character profile]] or [[Organization]] templates. These give a basic structure that you should try to stick with for the sake of consistency, but feel free to add or remove sections as you need. If there is no existing template, you may still find the [[Infobox]] template useful when inserted at the top of a page.
 
-*(If you're reading this from the wiki, the templates folder is missing, but is viewable in [the repo](https://github.com/QuickFastly/Nova-Regna/tree/main/_templates).)*
+*(If you're reading this from the wiki, the missing templates folder is viewable in [the repo](https://github.com/QuickFastly/Nova-Regna/tree/main/_templates).)*
 
 ##### Credit
 

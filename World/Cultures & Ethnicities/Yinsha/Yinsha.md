@@ -250,7 +250,7 @@ The Mei people are an ethnic group thought to be descended from the [[Yinsha]] t
   </table>
 </div>
 
-The Heling people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Yuezou]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Heling people has yet to be discovered. They speak Atiphāsā, which is a distant evolution of the Proto-Wei language, and is entirely distinct from the Shannic family and quite unique even within the Wei family. Today, the Mei people are considered stateless and are spread thin throughout all of Shaohou as a result of the atrocities committed during the [[Unification of Shaohou]].
+The Heling people are an ethnic group thought to be descended from the [[Yinsha]] that first settled the territory of [[Yuezou]] in what is now [[Shaohou]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 7 AO which points to the origins of the Heling people has yet to be discovered. They speak Atiphāsā, which is a distant evolution of the Proto-Wei language, and is entirely distinct from the Shannic family and quite unique even within the Wei family. Today, the Heling people are considered stateless and are spread thin throughout all of Shaohou as a result of the atrocities committed during the [[Unification of Shaohou]].
 
 -----
 > [!cite] Author info

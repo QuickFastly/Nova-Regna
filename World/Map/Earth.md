@@ -9,11 +9,7 @@ comments: true
 	</tr></table>
   </div>
 
- <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i></span>
-  
- <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i></span>
-  
- <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
+ <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i><br>![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i><br>![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
 
   <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
     <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">

@@ -38,6 +38,8 @@ A significant minority of skeptics remained consistently prominent around the wo
 
 In a particularly high profile case of criticism and rejection, the [[Children of the Flame]] officially banned its members from having SensNet devices installed, claiming that the technology is an insult to the gods and its users will not be spared on the day of reckoning.
 
+Regardless of the criticism and skepticism, the overwhelming majority of people now believe that SensNet is the most important technological advancement yet in living memory, with some even going so far to claim that SensNet is the first step towards the next phase of human evolution.
+
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\

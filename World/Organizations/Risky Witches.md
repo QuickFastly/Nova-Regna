@@ -105,7 +105,7 @@ The 3rd Division is comprised of 5th Wing "Pepita", a reserve wing dedicated to 
 | Division    | 80-7,680  | 32-384        | 2 Wings              | (O-6) General       |
 | *Air force* | *~12,800* | *~528*        | The entire air force | (O-7) Air Marshal                    |
 
-In addition to the regular forces, there are two flights patrolling the airspace as for early warning threat detection and approximately 1,200 civilians tasked with supplying and maintaining the Air Force branch.
+In addition to the regular forces, there are two flights tasked with constantly patrolling the airspace for early warning threat detection, and approximately 1,200 civilians tasked with supplying and maintaining the Air Force branch.
 
 ### Navy
 

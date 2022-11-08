@@ -73,7 +73,7 @@ tags: HT
 	
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Pronouns</b></td>
-			<td style="padding:4px">He/she/they</td>
+			<td style="padding:4px">They/he/she</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">

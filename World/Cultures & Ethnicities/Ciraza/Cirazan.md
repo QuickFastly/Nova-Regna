@@ -14,9 +14,9 @@ comments: true
 > - **Rovi** | Inspired by = Brazil
 > - **Parene** | Inspired by = Galicia & Portugal
 > - **Taren** | Inspired by = Mexico
-> - **Luzian** | Inspired by = Dominican Republic
+> - **Luzian** | Inspired by = Dominican Republic, particularly Afro-Dominican
 > - **Tonosian** | Inspired by = Haiti
-> - **Corosian** | Inspired by = Cuba
+> - **Corosian** | Inspired by = Cuba, particularly Afro-Cuban
 > - **Granazian** | Inspired by = Jamaica
 > - **Southern islanders** | Inspired by = Polynesia, primarily Māori
 > - **Eastern islanders** | Inspired by = Micronesia & Melanesia

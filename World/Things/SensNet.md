@@ -32,7 +32,7 @@ Installation of SensNet is permanent and irreversible. The device can be deactiv
 
 ## Reception
 
-Public reception of SensNet when it was first announced was skeptical and mixed, especially surrounding the installation procedure, but reception quickly became positive one the devices made their way into public hands, with most people believing that they could not imaging returning to a life without the product.
+Public reception of SensNet when it was first announced was skeptical and mixed, especially surrounding the installation procedure, but reception quickly became positive once the devices made their way into public hands, with most people believing that they could not imaging returning to a life without the product.
 
 A significant minority of skeptics remained consistently prominent around the world, and over time, slowly grew in numbers. Skeptics primarily cite concerns regarding the always-online internet connection that users cannot control, the closed black-box nature of the software, and the centralization of all personal and identifying information in 11K servers.
 

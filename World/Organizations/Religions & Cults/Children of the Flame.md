@@ -181,17 +181,19 @@ The Infernal are the front line infantry of the Enforcers, almost never being tr
 > [!warning]
 > Extremely few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame. It is also an extremely small portion of the organization, counting less than 10,000 people in its membership.
 
-The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem and a predatory prostitution ring. They proudly defy the ethical and moral codes of the organization, and were even considered to contradict the established morals of the organization when they were first established.
+The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem and a predatory prostitution ring. They proudly defy the ethical and moral codes of the organization, and were even considered to contradict the established morals of the organization when they were first established under The Third Storyteller.
 
 The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have supposedly been effectively quarantined within the organization, and are kept secret.
 
 ##### Matriarchs
 
-These elite women are, in essence, super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various controlling techniques. They evaluate prospective Initiates alongside the Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. All Matriarchs possess attunement.
+These elite women are, in essence, super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various controlling techniques. They evaluate prospective Initiates alongside the corrupted Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. All Matriarchs possess attunement.
 
 ##### Sirens
 
-These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Most Sirens possess attunement. Sirens with attunement sometimes use it against their victims in one of two ways, referred to as Draining and Breaking.
+These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Despite the inherent sinfulness in being a Siren, much of the money they steal is donated to the organization.
+
+Most Sirens possess attunement. Sirens with attunement sometimes use it against their victims in one of two ways, referred to as Draining and Breaking.
 
 > [!info]- Draining and Breaking (sexual content)
 > Draining utilizes their already exceptional abilities of hypnosis and manipulation and amplifies the effects through attunement. Recipients are slowly hypnotized during a sexual encounter and not allowed to orgasm until they are under full control of the performer, where they then use the moment of orgasm to implant an idea or an order in the recipient's mind with frightening efficacy.
@@ -207,7 +209,7 @@ These are the men who, as Initiates, showed a strong will and resisted all tempt
 
 ##### Sisters
 
-These are the women who among the Devout display a vested interest in the faith, and are noticed by the Internal Society as promising specimens. They are taken under the wing of the Sirens and treated as little sisters, hence the name, and indoctrinated into the Internal Society. Those who display enough willpower to resist indoctrination are brought before the Matriarchs and tested, where they will either pass and become Sirens or fail and be psychologically abused until they become totally dependent on the Matriarchs.
+These are the women who, as Initiates, were somehow deemed interesting enough by the Matriarchs to be taken for the Internal Society. They are taken under the wing of the Sirens and treated as little sisters, hence the name, and indoctrinated into the Internal Society. Those who display enough willpower to resist indoctrination are brought before the Matriarchs and tested, where they will either pass and become Sirens or fail and be psychologically abused until they become totally dependent on the Matriarchs.
 
 ---
 
@@ -320,6 +322,7 @@ The most notorious variation of this story was a complete fabrication, introduce
 ##### The Sixth Storyteller's Account
 
 A story in itself, [[The Account|this account]] was written by The Sixth Storyteller after a private meeting with the three deities of the organization. In this account, details of all three previous stories are covered and rectified, along with new information not previously known, though it is more of a life story of the deities than an informative report. It was kept secret for a number of years following the spread of the fabricated story of The Inferno and was even tampered with, presumably by the power-hungry High Cardinal. The original tampered documents are preserved in the library for posterity, and the digitally restored version is widely available.
+
 
 -----
 > [!cite] Author info

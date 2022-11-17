@@ -47,7 +47,7 @@ comments: true
   </table>
 </div>
 
-The Hijiya Corporation is a family owned business headquartered in [[Hijiya Tower]], located in the city of [[Hashiri]] in [[Sumitori]], [[Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence.
+The Hijiya Corporation is a family owned business headquartered in [[Hijiya Tower]], located in the city of [[Hashiri]] in [[Sumitori]], [[Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence programs.
 
 While Hijiya products are a rare sight in most of the world, they're everywhere in their home country of Shinzen, where the company is a national icon celebrated for not just it's work and products, but also for both its extensive humanitarian efforts and its staunch dedication to remaining independent, never outsourcing work or selling to foreign companies like [[11K]] and [[Concordia]]. Among past, current, and prospective employees, the company is also renowned for its highly considerate people-first attitude, making it one of only a handful of corporations in Shinzen that are not victim to the rampant workaholism of the country.
 
@@ -57,7 +57,7 @@ Known primarily for their EVA Drivers, Hijiya naturally owns a significant porti
 
 While their total revenue is still massive, their profits are so minuscule that there is a quite significant risk of taking losses significant enough to require making further cuts to avoid bankruptcy if they meet too difficult of competition. In an attempt to mitigate that risk while also working back to their former glory, Hijiya has begun to diversify into new fields, most notably in finance, and also rents out most of its defunct office space.
 
-One unexpected venture for Hijiya, though, was their contract with a virtual idol group in Shinzen. Their prototype android, [[K-17 T0]], was scouted by the idol group during one of its video game livestreams, a form of media that had seen explosive growth in Shinzen that various idol groups capitalized on. K-17 T0's live streams from then on became a surprisingly significant source of not only revenue, but positive public reception and interest for the company, becoming the unofficial face of Hijiya among virtual idol fans.
+One unexpected venture for Hijiya, though, was their contract with a virtual idol group in Shinzen. Their prototype android, [[K-17 T0]], was scouted by the idol group during one of its video game livestreams, a form of media that had seen explosive growth in Shinzen that various idol groups capitalized on. K-17 T0's live streams from then on became a surprisingly significant source of not only revenue, but positive public reception and interest for the company, becoming the unofficial face of Hijiya among virtual idol fans. The company is currently exploring further investment into this field.
 
 Company activity by revenue share:
 1. Artificial Intelligence - 22.2%

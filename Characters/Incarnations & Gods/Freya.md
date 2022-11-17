@@ -128,7 +128,7 @@ She virtually always chooses full length pants and boots, but on the rare occasi
 
 She wields [[Attunement]] to its fullest potential, able to do quite literally anything short of a feat of creation on her own, but when she, Kerosyn, and Florian work together, they become seemingly omnipotent, capable of reality-altering feats of unknown magnitude. The three of them also seem to share some type of primitive telepathic link, which allows them to always know each other's location and to share strong feelings, but does not allow them to communicate directly.
 
-Her alignment makes her capable of seeing, hearing, and feeling everything on a global scale, possibly even further. She may not be omniscient, but she'd be the prime candidate for it. With that it mind, it must be said that her hearing, vision, and reflexes are almost supernaturally good even without utilizing her alignment.
+Her alignment makes her capable of seeing, hearing, and feeling everything on a global scale, possibly even further. She may not be omniscient, but she'd be the prime candidate for it. With that in mind, it must be said that her hearing, vision, and reflexes are almost supernaturally good even without utilizing her alignment.
 
 Her signature use of power is to teleport objects, most often her bikes and guns. A fan of the dramatic, she might even teleport in a gun, fire all the loaded ammunition, then teleport it away and replace it with another one instead of reloading or teleporting more ammo into it. She can teleport living things as well, but prefers not to, claiming that it's quite exhausting. Her power manifests mostly as streaks of lightning or static electricity on and around some part of her body along with whatever she's manipulating. 
 

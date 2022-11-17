@@ -323,7 +323,6 @@ The most notorious variation of this story was a complete fabrication, introduce
 
 A story in itself, [[The Account|this account]] was written by The Sixth Storyteller after a private meeting with the three deities of the organization. In this account, details of all three previous stories are covered and rectified, along with new information not previously known, though it is more of a life story of the deities than an informative report. It was kept secret for a number of years following the spread of the fabricated story of The Inferno and was even tampered with, presumably by the power-hungry High Cardinal. The original tampered documents are preserved in the library for posterity, and the digitally restored version is widely available.
 
-
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\

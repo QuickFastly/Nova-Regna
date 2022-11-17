@@ -167,7 +167,7 @@ Are you suggesting a small edit, correction, or improvement to a page? Paste a l
 
 Are you suggesting the addition of an entirely new page? Write a little bit about what your new page is and why you want to add it, then attach the page as a separate file. It's strongly preferred to attach `.md` files with [Obsidian Markdown](https://help.obsidian.md/How+to/Format+your+notes) formatting, but `.txt`, `.odt`, `.rtf`, and `.docx` files are acceptable. If you want to be credited for your work, make sure you use the [author info](https://raw.githubusercontent.com/QuickFastly/Nova-Regna/main/_templates/Author%20info.md) template at the bottom of your page!
 
-*If you don't have a Markdown editor and don't want to download anything, [you have options](https://www.google.com/search?q=online+markdown+editors).*
+*If you don't have a Markdown editor and don't want to download anything, [you have options](https://www.google.com/search?q=online+markdown+editors). If you have Obsidian and you download this vault (click Code, then Download ZIP), you can create new pages that way and simply upload the finished `.md` file with your issue.*
 
 Once your issue goes through and the proposed changes are accepted, they will be added to the main vault on your behalf, potentially with some changes to the basic formatting for consistency.
 
@@ -197,7 +197,7 @@ Of course, if you know what cloning is and how to do it, you don't need me to te
 
 If you're an [Obsidian](https://obsidian.md) user, you can use the [Obsidian git](https://github.com/denolehov/obsidian-git) plugin for this. This is the method I recommend, because the vault looks best in Obsidian, was made in Obsidian, and is most convenient to work with through Obsidian.
 
-First, fork the repo as decribed earlier, then (assuming you're a Windows user who doesn't like the command line) follow [this guide](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md) with one major difference. That guide tells you to start with a new, empty repo, but for our purposes your repo will already have a vault in it, so you can skip the whole "making your vault a repository" step. GitHub Desktop has a Mac version too, but you're on your own there.
+First, fork the repo as decribed earlier, then (assuming you're a Windows user who doesn't like the command line) follow [this guide](https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md) with one major difference. That guide tells you to start with a new, empty repo, but for our purposes your repo will already have a vault in it, so you can skip the whole "making your vault a repository" step. GitHub Desktop has a Mac version too, and even a Linux version sometimes for some reason, but you're on your own there.
 
 In the Obsidian git plugin settings, I recommend enabling pull updates on startup, push on backup, and pull changes before push. You will still (to my knowledge) have to manually sync your fork with the main repo every now and then, but with these settings, you can sync your fork and then open Obsidian and it will automatically be up to date as well.
 

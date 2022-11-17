@@ -1,13 +1,13 @@
 ---
 share: true
 ---
-There are zero restrictions on how you use anything in this world, you have total creative freedom with your own creations provided you abide by the appropriate license(s). Unless a page you look at explicitly says otherwise, everything here is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Because of that, while you will be restricted to using the same or a compatible license on your work, it isn't even *possible* to control how you use this content.
+There are virtually zero restrictions on how you use almost anything in this world, you have total creative freedom with your own creations provided you abide by the appropriate license(s). Except for pages that explicitly say otherwise, everything here is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Because of that, while you will be restricted to using the same or a compatible license on your work, it isn't even *possible* to control how you use this content.
 
 However, there is still something you must keep in mind.
 
 If what you intend to create will *directly reference*, or be used to *actively promote* **real-world** politics, ideologies, religious beliefs, or violence, [do not provide attribution](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a3). This is universal and non-negotiable.
 
-The same applies if your work can be considered [hate speech](https://en.wikipedia.org/wiki/Hate_speech) %% - yes, I really linked the Wikipedia page for hate speech to define it - %% aimed at real-life groups or individuals. If you include such content for any purpose, do not provide attribution. The well thought out usage of fictional hate speech aimed at the fictional groups and individuals inside this world for is usually acceptable, however, so long as it is an aspect of consistent worldbuilding or plot relevant.
+The same applies if your work can be considered [hate speech](https://en.wikipedia.org/wiki/Hate_speech) %% - yes, I really linked the Wikipedia page for hate speech to define it - %% aimed at real-life groups or individuals. If you include such content for any purpose, do not provide attribution. The well thought out usage of fictional hate speech aimed at the fictional groups and individuals inside this world is usually acceptable, however, so long as it is an aspect of consistent worldbuilding or plot relevant.
 
 The contributors to this world all reserve the right to enforce these requests universally, and also reserve the right to have you remove attribution particularly to themselves and their content at any time, for any other reason they wish. If you do not remove attribution upon request within 30 days, you violate the terms of the license and it is automatically terminated, after which standard copyright law takes over, meaning you could be subject to a DMCA takedown or other legal action.
 

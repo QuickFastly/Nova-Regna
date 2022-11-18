@@ -71,7 +71,7 @@ Those who commit sins serious enough that the Preachers cannot absolve them are 
 > [!info]- Cleansing
 > During Cleansing, the recipient is doused in water by a Cardinal, then a Firekeeper engulfs the recipient in flame while they prostrate themselves begging for forgiveness. This is repeated six times, and if all goes smoothly, the recipient is pardoned and lauded by everyone.
 
-##### The Storyteller
+#### The Storyteller
 
 This is the highest position in the organization. What this person says is absolute, and all decisions can be overruled by them. They have an encyclopedic knowledge of the history of the organization, their texts, and their laws.
 
@@ -79,7 +79,7 @@ Traditionally, The Storyteller is meant to wear the most extravagant vestments a
 
 They are informed of every decision and action made by the organization at any point in time, but are rarely involved in the process unless it is a particularly major event, or when intervention is needed. There can be only one Storyteller at any given time, and the position - when available - is selected on merit alone.
 
-##### Cardinals
+#### Cardinals
 
 These are the people responsible for all major decision making and organization of the faith. They oversee the Enforcers wing alone, and assist the Seekers in overseeing the Preachers wing. They wear extravagant black vestments with tall hats, but the High Cardinal is exempt from this, instead wearing what The Storyteller says to wear.
 
@@ -88,7 +88,7 @@ They are akin to politicians in their role. To become a Cardinal, one must be se
 > [!info]- Cardinal's Rite
 > Prospective cardinals are selected to perform this rite personally by the High Cardinal. It is a purely ceremonial act, where the High Cardinal douses the prospective cardinal's head in black oil, and then burns the brand onto the back of their dominant hand.
 
-##### Seekers
+#### Seekers
 
 These are the people responsible for managing all activities of the Preachers wing, as well as overseeing the Internal Society. They are not concerned with managing the law, instead focusing on keeping the lore and history of the organization, while also acting as the lead scientists of the organization. They wear extravagant white vestments with no hat, but the High Seeker is exempt from this instead wearing what The Storyteller says to wear.
 
@@ -99,16 +99,16 @@ The High Seeker acts as The Storyteller's right hand, and is almost always with 
 > 
 > The prospective seeker dons the ceremonial vestment and is brought to two Firekeepers who grab hold of the prospective seeker's forearms and begin to burn them. A Cardinal grabs hold of the prospective seeker's neck, raises them off the ground and begins to read sacred texts. If the prospective seeker remains conscious for the duration of the reading, they are asked if they are ready, and if they agree, the Firekeepers immolate the prospective seeker. If the prospective seeker's will is strong enough, the flames will not burn them and will be extinguished when the Cardinal releases them. Buckets of water and a medical team are kept on standby for the weak willed.
 
-##### Chancellors
+#### Chancellors
 
 The bureaucrats of the organization, these are the people responsible for all administrative tasks and paper pushing. Almost all paperwork that needs to be done by any other member of the organization is usually routed to the Chancellors, and the Chancellors are often the ones delivering official orders. They wear understated vestments that distinguish them from all other classes. Becoming a Chancellor is as simple as filling out a form and turning in a resume.
 
-##### Firekeepers
+#### Firekeepers
 
-The mystics of the organization, these elite few are [[Attunement]] users with an affinity for flames. These are the people responsible for the performance of most holy tasks, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, exuding an aura of exotic elegance. Firekeepers are chosen for their powers and asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses the High Cardinal and High Seeker.
+The mystics of the organization, these elite few are [[Attunement]] users with an affinity for flames. These are the people responsible for the performance of most holy tasks, meting out internal punishments, and mystifying the people in public demonstrations. They wear light and wavy vestments with open or no footwear, designed to exude an aura of exotic elegance. Firekeepers are chosen from the Initiates after displaying promise both in faith and ability, and are then asked to perform the Mystic Dance, only allowed to become a Firekeeper if their dance impresses both the High Cardinal and High Seeker. Out of all positions within the organization, the Firekeepers are often seen as the closest to divinity, even among secular people.
 
 > [!info]- Mystic Dance
-> Firekeepers perform a mesmerizing ceremonial dance similar to a ribbon dance, but with flames instead of ribbons. They use no tools, implements, or anything else for the dance, only their own attunement abilities to create mesmerizing displays of elegance and controlled chaos.
+> Firekeepers perform a mesmerizing ceremonial dance similar to a ribbon dance, but with flames instead of ribbons. They use no tools, implements, or anything else for the dance, only their own attunement abilities to create mesmerizing displays of elegance and controlled chaos. The Mystic Dance can be choreographed before being performed, particularly for public demonstrations or large group performances, but when performed by an individual, it is always unique to that person. These dances often have profound effects on the audience, but the effect varies from person to person, and exactly how this happens is unclear, as the Firekeepers themselves do not have an answer for why it happens, only saying that it is not their intention.
 
 
 ### Preachers
@@ -122,13 +122,13 @@ The Preachers also give blessings to certain individuals, either by deeming them
 >
 > Charisma is vital to successfully perform this rite, as the strength of the blessing is only as strong as the conviction of the Reverend or Patriarch delivering it. The effects vary depending on what the recipient thinks, what is being said, and how charismatic the performer is.
 
-##### Patriarchs
+#### Patriarchs
 
 The "fatherly" types of the organization, these are the people that the entire Preachers wing answer to. They wear extravagant vestments and are rarely seen in public except for ceremonial occasions, but those within the organization beneath them tend to look up to the Patriarchs as role models.
 
 Mostly unknown to everyone, however, the Patriarchs also play a part in the Internal Society of the organization, evaluating Initiates to see whether or not they would fit as Eunuchs and sometimes engaging in debauchery with the Internal Society behind closed doors. Patriarchs are appointed personally by the Seekers.
 
-##### Reverends
+#### Reverends
 
 These are the people that the public imagine when they hear about the organization. They all have subtle but distinct vestments allowing them to stand out from the public, and they are all trained to appear as warm, friendly and approachable as possible, making them exude a divine and pleasant aura.
 
@@ -136,11 +136,11 @@ They dedicate much of their time to helping those in need, and are commonly seen
 
 Becoming a Reverend is as simple as expressing interest to a Patriarch, who will then look over the things they have done to help the public and decide whether or not the prospective Reverend is worthy. In special cases, they may be selected by a Firekeeper instead.
 
-##### Priests
+#### Priests
 
 These are the people on the front lines of the public, making every effort to help people in need and sharing their knowledge of the organization to those showing interest. They blend in seamlessly with the public due to wearing no vestments and not being outspoken about the organization. Becoming a Priest is as simple as expressing interest to a Reverend.
 
-##### Initiates
+#### Initiates
 
 These are the men who among the Devout display a vested interest in the faith, and are noticed by the Firekeepers as promising. They are taken under the wing of a Firekeeper and given basic training in what it takes to become one, which they can then choose to continue if they wish to become Firekeepers, or opt to become Reverends instead. Few Initiates are instead taken by the Internal Society through temptation.
 
@@ -150,7 +150,7 @@ These are the men who among the Devout display a vested interest in the faith, a
 > [!warning]
 > Very few people are aware of the existence of this branch, and virtually all of them are higher ranking members of the Children of the Flame. It is also an extremely small portion of the organization, counting less than 10,000 people in its membership.
 
-The Enforcers branch of the Children of the Flame is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered.
+The Enforcers branch of the Children of the Flame is a quite small but very powerful force of militaristic people, responsible for all the dirty work of the organization. They operate from the shadows for the most part, killing their targets quietly, simply gathering intelligence, or manipulating people for their own ends, though occasionally they will make large, organized, very public attacks when ordered. Under the reign of The Fifth Storyteller, the Enforcers were almost removed entirely, but they have slowly built themselves back up under The Sixth Storyteller, though it is unclear how or why.
 
 When sent to deal with a specific target, they typically use one of three methods of punishment, being Banishment, Forgiveness, or Purification.
 
@@ -161,17 +161,17 @@ When sent to deal with a specific target, they typically use one of three method
 >
 > Purification is performed by either an Inquisitor or one of the Sanctified, and is reserved for the truly heinous heretics. The recipient is restrained and stretched on a rack, sacred texts are fervently read, then the recipient is cut open with a Y-shaped incision and immolated from the inside out.
 
-##### Inquisitors
+#### Inquisitors
 
 These are the people responsible for identifying and dealing with heretics and any others marked by the higher-ups of the organization. They are most known for their use of gruesome torture methods and seeming to take pleasure in carrying them out, but are most commonly sent out purely for espionage. Notably, no Inquisitors possess attunement. Becoming an Inquisitor requires a test to prove oneself dedicated. This test is decided on a case by case basis and must be carried out alone.
 
-##### The Sanctified
+#### The Sanctified
 
 These people are, in essence, a merciful version of the Inquisitors, and much more focused on the divine aspect of their work. Where the Inquisitors derive pleasure or entertainment in their tasks, The Sanctified are disgusted by the barbaric nature. They take great pride as divine and merciful executioners. Notably, all of The Sanctified possess attunement.
 
 There are an extremely small number of The Sanctified due both to the rarity of attunement and the difficulty of the training required.
 
-##### The Infernal
+#### The Infernal
 
 The Infernal are the front line infantry of the Enforcers, almost never being trusted with important tasks and most often being utilized in great numbers. They are selected by Inquisitors or the Sanctified based on ability and desire, and are eligible to become one of the higher ranks based on merit and seniority.
 
@@ -183,13 +183,13 @@ The Infernal are the front line infantry of the Enforcers, almost never being tr
 
 The Internal Society of the Children of the Flame shares very little with the other branches, or even the general concept of the faith, instead operating much like a dynastic harem and a predatory prostitution ring. They proudly defy the ethical and moral codes of the organization, and were even considered to contradict the established morals of the organization when they were first established under The Third Storyteller.
 
-The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but they have supposedly been effectively quarantined within the organization, and are kept secret.
+The continued presence of this part of the organization is a point of extreme contention among those who are aware of it, as nobody outside of the Internal Society believes it should be allowed to exist, nor do they understand how it persists. The true amount of influence the Internal Society holds over the organization is still unknown. The efforts of the Fifth and the continuing efforts of the Sixth storytellers have not been enough to remove the Internal Society, but their numbers have been reduced to a small fraction of what they once were, and they have supposedly been effectively quarantined within the organization, and are kept secret.
 
-##### Matriarchs
+#### Matriarchs
 
 These elite women are, in essence, super Sirens. Everything a Siren can do, a Matriarch can do better. However, they remain sequestered in the Internal Society to manage things, instead targeting Patriarchs and Initiates with their various controlling techniques. They evaluate prospective Initiates alongside the corrupted Patriarchs. Occasionally, they will take a Patriarch as a husband, though they ultimately hold higher authority than the Patriarchs do. All Matriarchs possess attunement.
 
-##### Sirens
+#### Sirens
 
 These women are masters of seduction, manipulation and trickery. Of the entire Internal Society, they are the only ones ever seen in public, though they aren't recognized because they have no vestments. They hypnotize - figuratively or literally depending on the person and their abilities - unsuspecting or vulnerable people and manipulate them into doing their bidding or give them what they want, most commonly using their bodies to their advantage. Despite the inherent sinfulness in being a Siren, much of the money they steal is donated to the organization.
 
@@ -203,11 +203,11 @@ Most Sirens possess attunement. Sirens with attunement sometimes use it against 
 > Breaking is very similar to the rite of Draining, but instead designed purely to humiliate, demoralize, and ultimately break the mind. Some recipients may end up in a vegetative state, others may have a permanent personality change, the effect varies. It can also be repeated to the point of death.
 
 
-##### Eunuchs
+#### Eunuchs
 
 These are the men who, as Initiates, showed a strong will and resisted all temptation from the Sirens, while also showing enough respect to have made no advances on the Sisters. They are then brought before the Matriarchs to be castrated, and from then on dedicate themselves to guarding the Internal Society. They generally develop pseudo-familial relationships with the women which only strengthens their devotion.
 
-##### Sisters
+#### Sisters
 
 These are the women who, as Initiates, were somehow deemed interesting enough by the Matriarchs to be taken for the Internal Society. They are taken under the wing of the Sirens and treated as little sisters, hence the name, and indoctrinated into the Internal Society. Those who display enough willpower to resist indoctrination are brought before the Matriarchs and tested, where they will either pass and become Sirens or fail and be psychologically abused until they become totally dependent on the Matriarchs.
 
@@ -247,7 +247,15 @@ The Children of the Flame are in possession of nearly 40% of all known intact ar
 
 ### Funding
 
-Most of their funding is provided by donations, primarily from members. There is no tithing or other collection. Smaller sources of funding for the organization come from real estate, royalties for non-religious media attributed to the organization, and the sale of lifestyle products produced by companies owned by the organization. The Internal Society is also a source of funding for the organization, though this is a deeply controversial situation both outside and within the organization. The Children of the Flame have been listed as one of the 50 richest corporations in the [[Ozen Federation]], and one of the 20 richest in Osun Tanum.
+Most of their funding is provided by donations, primarily from members. There is no tithing or other collection. Smaller sources of funding for the organization come from real estate, royalties for non-religious media attributed to the organization, printing fees from renting out their many printing facilities to other organizations and corporations, and the sale of lifestyle products produced by companies owned by the organization. The Internal Society is also a source of funding for the organization, though this is a deeply controversial situation both outside and within the organization. The Children of the Flame have been listed as one of the 50 richest corporations in the [[Ozen Federation]], and one of the 20 richest in Osun Tanum.
+
+### Real estate
+
+The Children of the Flame own and maintain all of their own gathering halls, which are simply called "halls" within the organization, in great numbers all over the world. These buildings are funded entirely by the organization, and do not generate any form of income. They also own and maintain a vast network of printing facilities around the world that were once used to print copies of their holy texts, but have now been converted into print-on-demand businesses for others to utilize, generating a significant income for the organization.
+
+The organization owns a large portion of the land within the city of Falkenvall. Historically it was used exclusively for the purposes of the organization, but The Sixth Storyteller has had most of their buildings replaced with residential tenements that are mostly rented out to the public, with some units being offered free of charge to the poor and homeless under the agreement that they will either begin to pay rent or move elsewhere once they find employment that pays a living wage, and that they will actively search for such employment. Units that are not rented to the public are instead kept available for travelling preachers. The organization owns similar residential complexes in many other places around the world, many operating in the same manner.
+
+Being a religious organization, the Children of the Flame are not required to pay property taxes on their land in most of the world.
 
 ## Beliefs
 
@@ -298,19 +306,19 @@ Several of these stories are corroborated by independent historians around the w
 
 Four stories are particularly notable both within and outside of the organization, with religious and secular people alike.
 
-##### The Beginning
+#### The Beginning
 
 This story, known more generally as [[Creation myths#The Common Myth|the common myth]], describes the process of the world's creation. It has spawned countless variations and interpretations throughout history, but every single variation shares at least one commonality: They all depict "The Creator" as a beautiful woman who sacrificed herself for humanity. Some interpretations claim she did it to save humans from destruction, others believe it was an attempt to eradicate them, and countless interpretations exist between those two extremes.
 
 %%The story isn't actually written yet, and doesn't really need to be.%%
 
-##### The Reckoning
+#### The Reckoning
 
 This is the story recounting the great wars of humanity before the end of everything. All interpretations contain the statement that human population dropped to near extinction, but each version of the story has its own idea of the cause. Some say it's because humans invoked the wrath of the gods, others say it was hubris or arrogance, a petty conflict that got out of hand, among many other causes. Many stories have mentioned a god by name, but these names were never corroborated by other variations. The one exception to that observation is Morrigan, who appears as a goddess of death and misery in many variations of the story, contributing to the feared reputation of the [[Crow|crows]].
 
 %%The story isn't actually written yet, and doesn't really need to be.%%
 
-##### The Inferno
+#### The Inferno
 
 This story is the most consistent across multiple versions. It describes an event known by most as The End of Everything, and as Armageddon to some others. A common theme found in all versions of this story is that the world was bathed in fire with only a minuscule fraction of life remaining to rebuild. This is the event dividing Era Dira and Anno Ortu on the calendar.
 
@@ -319,9 +327,23 @@ The most notorious variation of this story was a complete fabrication, introduce
 > [!info]- The false story
 > *And in the end times, the false one bore control of the world and was to marshal it to ruination, yet the destroyer stood up to the false one and engaged him in war. They fought for a thousand years bringing perpetual wink and woe to all those around them, till one day appeared the deceiver, whom tricked them into believing neither one was content to battle any longer, and mocked the men into worshiping her as the one righteous god for a thousand years. And in the two thousandth year, the deliverer stood up and denounced those men for their sins, and he demonstrated his righteousness by taking the heart of the false one and burning him towards the pyre, from which the flames spread across all of the of the world, and the destroyer known his righteous bid and was sent to amerce those men of sin, while those men whom saw the righteousness of the deliverer and pledged themselves to him were spared, among them, the deceiver prostrated herself and declared herself to be reformed. And towards the day of the solar eclipse, the deliverer granted a righteous speech to those men whom pledged to him, and bestowed upon them the code to live by, lest the destroyer amerce their sins, and then he rose up and the entirety of the world was bathed in his holy flame, born anew from the ashes, our home.*
 
-##### The Sixth Storyteller's Account
+#### The Sixth Storyteller's Account
 
 A story in itself, [[The Account|this account]] was written by The Sixth Storyteller after a private meeting with the three deities of the organization. In this account, details of all three previous stories are covered and rectified, along with new information not previously known, though it is more of a life story of the deities than an informative report. It was kept secret for a number of years following the spread of the fabricated story of The Inferno and was even tampered with, presumably by the power-hungry High Cardinal. The original tampered documents are preserved in the library for posterity, and the digitally restored version is widely available.
+
+## Criticism
+
+The Children of the Flame have received criticism from other religious organizations, former members, governments, academics, and more throughout the history of the organization. They have been accused of doctrinal inconsistency and reversals, failed predictions, mistranslations of historical artifacts for their own benefit, harsh treatment of former members, connection to numerous high profile murders and sexual abuse cases, and autocratic and coercive leadership.
+
+Under the reign of The Sixth Storyteller, much of this criticism has been addressed and many accept certain problems as resolved, though some people still do not believe the organization has taken adequate action, and some points of contention are still unresolved.
+
+### Unfulfilled predictions
+
+A core belief of the organization is that an apocalyptic event is going to happen in the future, and only the faithful ones will be spared at that time. Ever since the organization has had a Storyteller, innumerable predictions have been made for when this time will come, all of which have proven themselves false. Many followers throughout history have had their lives uprooted by these failed predictions after choosing to sell their homes and belongings in preparation for the end that never came.
+
+They believe that "we are living in the last days" but have not been consistent in identifying when that began. The "last days" have "begun" in 1649, 1799, 1804, 1844, 1904, and 1915.
+
+Since the beginning of The Sixth Storyteller's reign, while inconsistencies regarding the "last days" have continued to be presented, there have notably been no more predictions regarding the End of Everything. A standing prediction from the previous reign that the End of Everything would occur in 1975 was even retracted and denounced by The Sixth Storyteller shortly after the beginning of his reign.
 
 -----
 > [!cite] Author info

@@ -190,7 +190,7 @@ Freya has had a long career of interfering with military affairs. Here is a list
 - [[Vampire Squadron]] - Ground strike fighter squadron
 - [[Sorcerer Squadron]] - Air superiority fighter squadron
 - [[Witch Squadron]] - Multirole fighter squadron
-- Witchblades - Guerrillas, precursor to the Risky Witches
+- Unnamed Destrean rebel group - Guerrillas, precursor to the Risky Witches
 
 ## Trivia
 

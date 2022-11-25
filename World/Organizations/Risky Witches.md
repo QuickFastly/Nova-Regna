@@ -16,7 +16,7 @@ comments: true
 	
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
 			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Private military</td>
+			<td style="padding:4px">Private military<br>Separatist organization<br>Alleged terrorists</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -26,7 +26,7 @@ comments: true
 		
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px"><b>Alternative names</b></td>
-			<td style="padding:4px">Revolutionary State of Espada<br>Demons of Destrea<br>Separatist Spirits<br>Witchblades (former)</td>
+			<td style="padding:4px">Revolutionary State of Espada<br>The Witches<br>Demons of Destrea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -47,17 +47,17 @@ comments: true
 
 The Risky Witches are a paramilitary group led by [[Freya]] and comprised primarily of Destrean separatists, [[Spirits|spirits]], and humans with [[Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.
 
-They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and most infamous for executing [[The Big Event]]. They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.
+They are known globally for their extraordinary military strength, rumored to be capable of turning the tides of battle while outnumbered ten to one, and are most infamously known for carrying out [[The Big Event]]. They lean heavily into their reputation by choosing to mobilize the smallest force possible for most operations. Because of this, the intimidation factor can be so great when they do rarely mobilize a large force that their enemies may sometimes surrender entirely without a fight.
 
 Because of their strong focus on the protection of spirits and marginalized humans, the Risky Witches emblem is seen as a symbol of hope for many of those people. At the same time, many people loyal to their countries or ignorant of the issues the Risky Witches call attention to see their emblem as a symbol of death and suffering due to the frightening military prowess they flaunt.
 
 ## Structure
 
-While the Risky Witches are not affiliated with any political entities, they are structured in largely the same standard fashion as the regular armies of the world with eight Enlisted ranks (E-1 - E-8), and eight Officer ranks (O-1 - O-8), though they have no need to distinguish between commissioned, non-commissioned and warrant officers. Instead, becoming an Officer is accomplished by merit alone, only needing to prove oneself capable and be willing to fill the role.
+While the Risky Witches are not affiliated with any other governmental entities, they are structured in largely the same standard fashion as the regular armies of the world with eight Enlisted ranks (E-1 - E-8), and eight Officer ranks (O-1 - O-8), though they have no need to distinguish between commissioned, non-commissioned and warrant officers. Instead, becoming an Officer is accomplished by merit alone, only needing to prove oneself capable and be willing to fill the role.
 
-The rank of O-8, Grand Marshal, is only held by Freya, though there isn't any official record of her. Most members of the Risky Witches only know of her existence and authority through legend or description, and foreign entities are given false information if they inquire.
+The rank of O-8, Grand Marshal, is only held by Freya, though there isn't any official record of her existence within the group. Most members of the Risky Witches only know of her existence and authority through legend or description, foreign entities are given false information if they inquire, and the general public only knows stories and rumors.
 
-Since she has the ability to monitor the entire world all at once, she's always informed, but since she's not particularly interested in personally running an entire military herself, she hand picks the Field, Air, and Sea Marshals and distributes information through them. On the rare occasion she personally takes control, it's usually to turn the tide of battle in her favor, as her direct control can increase effective strength to that of a force five times their size, or to the point of being virtually undefeatable with the assistance of [[Haida]].
+Since she has the ability to monitor the entire world all at once, she's always informed, but since she's not particularly interested in personally running an entire military herself, she hand picks the Field, Air, and Sea Marshals and distributes information through them. On the rare occasion she personally takes control, it's usually to turn the tide of battle in her favor, as her direct control can increase effective strength to that of a force five times their size, or to the point of being virtually undefeatable with the assistance of [[Haida]] to facilitate instant telepathic communication with key operatives.
 
 Freya and Haida are also both members of Task Force 5555 along with [[Garm]], [[Dvalinn]], [[Kuhai]], and [[Neven]]. No official record of any of them - or even their unit - exists, but their existence is nevertheless known to members of the Risky Witches. Outside the unit, all of the incarnations aside from Freya hold the effective rank of O-6, and everyone else holds the effective rank of O-5. The hierarchy within the unit is informal at best and a disorganized mess at worst.
 
@@ -131,19 +131,19 @@ In addition to the regular forces, there is an elite combined arms regiment of 2
 
 ### Special forces
 
-The Special Forces branch of the Risky Witches is comprised of the hand picked elite from all three combat divisions, dedicated entirely to irregular warfare and high priority target recovery. Much of this branch is classified. They number approximately 3,600 personnel and supply their own equipment, including aircraft, but rely on the special operations fleet for naval operations. The branch is also home to two unique divisions.
+The Special Forces branch of the Risky Witches is comprised of the hand picked elite from all three combat divisions, dedicated entirely to irregular warfare and high priority target recovery or acquisition. Nearly everything within this branch is classified as top secret. They number approximately 3,600 personnel and supply their own equipment, including aircraft, but rely on the special operations fleet for naval operations. The branch is also home to two unique divisions.
 
-Task Force 1743, Irregular Security (ISEC) is a unit classified as top secret, known by name only to all but a select handful of high ranking individuals. Their influence is global, and as such their numbers are impossible to ascertain. They operate in the shadows, outside of international law, and always accomplish their mission no matter the cost. Nothing is off limits for them.
+Task Force 1743, Irregular Security (ISEC) is a unit classified as top secret, known at most by name only to all but a select handful of high ranking individuals. Their influence is global, and as such their numbers are impossible to ascertain. They operate in the shadows, outside of international law, and always accomplish their mission no matter the cost. Nothing is off limits for them.
 
 Task Force 5555, "Party Regiment" is an all weather, day and night shock unit comprised of the pinnacle of the elite, trained for absolute superiority both on the ground and in the air, led personally by Freya and the [[Incarnations]]. While the unit is technically classified to prevent vital information from leaking, the name and strength of this unit is well known to all of the Risky Witches and is a huge morale booster. Part of the nickname comes from that fact, as simply hearing that the unit is joining the battle causes effective allied strength to surge. The other reason for the nickname is from the extreme freedom enjoyed within this unit, leading to a lot of highly unprofessional activity, like frequent wild parties.
 
-They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs, and none of which is counted in their official statistics. They number 328 personnel, and all but three of them have both [[Alignment|alignment]] and attunement. The exceptions are Garm and Kuhai, who lack alignment, and [[Nikolai Anatolyevich Litvyak]], who lacks both abilities.
+They have their own dedicated armory and a large, extremely varied aircraft inventory, all sporting distinctive paint jobs. None of their equipment is counted in the official statistics of the organization. They number 328 personnel, and all but three of them have both [[Alignment|alignment]] and attunement. The exceptions are Garm and Kuhai, who lack alignment, and [[Nikolai Anatolyevich Litvyak]], who lacks both abilities.
 
 ### Non-combatants
 
 To keep the Risky Witches functioning, a number of non-combat roles are essential. There are approximately 8,500 non-combatants spread as needed through six distinct departments. Some combat mission orders come from these departments, be it for defense, conflict resolution, hired support, or otherwise.\
 **Internal Affairs**: Tasked with top level administration and governance, including legislation and economics. \
-**Political Affairs**: Tasked with negotiation and diplomacy with foreign powers and private companies as needed. \
+**Political Affairs**: Tasked with negotiation and diplomacy with foreign powers and private companies as needed, as well as the management of tasks related to the goal of establishing independence as a free nation. \
 **Supply Chain Management**: Tasked with everything related to the supply chain, including buying and selling smuggled goods. \
 **Intelligence**: Tasked with acquiring, managing, archiving, and distributing intelligence as needed. \
 **Espionage**: A classified department tasked with subterfuge, blackmail, and acquiring high value intelligence. \
@@ -151,19 +151,37 @@ To keep the Risky Witches functioning, a number of non-combat roles are essentia
 
 ## Public Agenda
 
-Shortly after being declared terrorists by the reformed Destrean government in 1991, the Risky Witches formally established themselves in the international community as the Revolutionary State of Espada by coming forward with this agenda.   
+Immediately after The Big Event in 1991, what remained of the Destrean government declared the Risky Witches terrorists, to which the Risky Witches responded by addressing the public to reveal the amount of civilian casualties caused by Destrea during The Big Event, prove that none of said civilian casualties were caused by the Risky Witches, and state their objectives:
 
-- To become independent from the tyranny of Destrea, by any means necessary.
-- To protect all spirits anywhere in the world, no matter the consequences.
-- To protect all marginalized humans in the world, no matter the consequences.
-- To never kill even one innocent person, no matter what the operation may be.
-- To crush all who oppose us, and all those who oppose our allies.
+- To become independent from the tyranny of Destrean regime, by any means necessary.
+- To protect all marginalized people, be they spirit or human, no matter the consequences.
+- To stand against tyranny and oppression around the world, no matter the cost.
+- To never allow the killing of even one innocent person under our watch.
+- To crush all who oppose us, all who oppose our allies, and all who oppose their own people.
 
-While the organization at large rallies under this agenda and the international community accepts it, Freya herself has little interest in independence. To her, the organization is her tool to further her own goals, protect the world as a whole by preventing devastating attacks and war crimes before they happen, and indulge in violence for fun and profit.
+Since then, this agenda has not changed, but the group has moved from a proactive approach to Destrean hostilities to a reactive one.
+
+### Independence
+
+While the Risky Witches are in total control of the Espada prefecture of Destrea, and are known specifically in international politics as the Revolutionary State of Espada, they stake claims on much more territory than just Espada. The provinces of [[Tarence]], [[Mugenno]], [[Baria]], and [[Selva Luce]] are included in their demands to Destrea, along with the western third of Nalano, continuing Espada's border southeast where it intersects. They claim that these parts of Destrea have the highest relative proportions of spirit population, poverty, homelessness, disability, and general unmet needs among the people, including recognition of ancestral rights and cultural identities, and that liberating and subsequently uniting these areas under a new flag is necessary to end the oppression.
+
+When asked anonymously and off the record, people in those areas - particularly in Selva Luce - seem to be in full support of the group, but are afraid of what could happen to them if they express that publicly. The people who lacked that fear have reportedly already defected and fled to Espada. Some international politicians that support the group believe that this lofty goal is the largest obstacle before Espada's freedom, even calling it a more complicated issue than their war against Destrea and the crimes they have committed, both in said war and separately as a PMC.
+
+The Risky Witches themselves report that the only reason they have not yet taken the areas they demand is because they don't have the resources needed to effectively and safely care for the people in those areas, and lack the numbers to spread their military strength so thin while Destrea is still able to constantly attack Espada, so they intend to crush the Destrean forces entirely through attrition before taking the land and bolstering their strength.
+
+When asked why they only seek to claim the west of Nalano when they currently are in control of Presidio de Tiburón in the east, representatives of the Risky Witches responded saying that they will continue to control that area, and they are only doing it because it's close to the Destrean capital, [[Syrres]], which keeps the Destrean leadership as angry and irrational as possible.
+
+### Revolution
+
+The secondary objective of the Risky Witches is to incite revolution within Destrea by empowering the rebellion engaged in the current civil war wherever possible. The group's current strategy to gain independence lines up with this goal, as both the Risky Witches and the Destrean rebels are working to dramatically weaken the Destrean military and leadership.
+
+While the Risky Witches have no desire to overthrow the Destrean government themselves, as they would rather separate entirely, the group is also unwilling to overlook the current fascist regime and have stated that while they are in full support of the rebellion, another "big event" could happen if the revolution has not succeeded by the time the group has achieved their primary goal of independence.
+
+The Risky Witches also stand to directly benefit from a successful Destrean revolution carried out by allies of the group, but have not confirmed nor denied whether or not this matters to them.
 
 ## Assets
 
-They hold control over the whole state of Espada, as well as Presidio de Tiburón in the state of Nalano. Their armaments, while mostly bought or taken from Ustonia and Destrea, are a mixture of things from every country, especially among the Special Forces division where soldiers and pilots are given extra freedom to choose their preferred loadouts.
+They hold control over the whole Espada prefecture, as well as Presidio de Tiburón in the Nalano prefecture. Their armaments, while mostly bought or taken from Ustonia and Destrea, are a mixture of things from every country, especially among the Special Forces division where individual soldiers and pilots are given extra freedom to choose their preferred equipment.
 
 The majority of their armaments are two or three generations behind current, with small portions of both newer and older technology mixed in. They also have an in-house weapons manufacturing plant, world renowned gunsmiths, and expert aircraft engineers and mechanics. Chances are if you can imagine it, they probably have it, and if they don't have it, they can make it for the right price.
 
@@ -179,7 +197,7 @@ Some, but not all, of the many weapons in service, roughly in order of prominenc
 	- Boberg XR9S *(Primary carry for all vehicle/equipment operators and field engineers, and concealed carry for special forces and non-combatants)*
 	- FN Five-seveN *(Available for special forces when required, either unsuppressed with AP rounds or suppressed with subsonic rounds. Standard issue for ISEC)*
 	- Mateba 2006M *(Carried by O-4+ officers together with a standard sidearm)*
-	- Mateba Model 6 Unica *(Carried by Task Force 5555 only)*
+	- Mateba Model 6 Unica *(Carried by Task Force 5555 officers only)*
 - **Rifles**
 	- Beretta AR70/90
 	- Algimech AGM-1
@@ -235,22 +253,37 @@ Some, but not all, of the many weapons in service, roughly in order of prominenc
 > [!example] Meta
 > None of these things exist in this world as written, they must all be fictionalized. They are listed here with their real-world names for convenience and will be updated eventually.
 
+Perhaps most notably, they are also in possession of the [[Nagase]] X-0 Dauntless prototype fighter aircraft, presumed to be nuclear capable, but its whereabouts and operational status are unknown.
+
+### Food, water, and other necessities
+
+The entirety of the Espada prefecture is a desert. There is no farmable land, no area suitable for raising farm animals, and water is scarce. Before the Risky Witches took control, the area was entirely reliant on imports from other parts of the country, but those supply lines have all been cut off. The Risky Witches receive some supplies from Ustonia as part of their regular arms deals through a heavily guarded supply line running through the Tarence prefecture, and occasionally receive air dropped supplies from Alastor and Osun Tanum.
+
+These supplies are not enough to support the organization on their own, however, so the Risky Witches regularly steal from the Destrean military, both on defensive and offensive operations.
+
+### Sources of revenue
+
+The Risky Witches, despite striving to become an independent free nation, do not have any form of self sustaining economy. Instead they are entirely reliant on income sourced outside of their borders. They offer services as private military contractors and as security professionals on the public market, and are frequently hired by the governments of Ustonia, Grenneria, Shinzen, as well as private individuals around the world. They also export contract labor on weapons and aerospace manufacturing and design, cybersecurity, heavy-lift air cargo transport, air medical services and evacuation, and both civilian and military flight instruction.
+
+Less publicly, the Risky Witches are also frequently hired by various governments in secret to carry out illegal military operations, assassinations, and espionage behind enemy lines, and by private individuals for hits ranging from intimidation to assassination. These illegal operations bring in approximately 40% of their total revenue, not because of frequency, but because of absurdly high prices.
+
+A notable portion of their income is stolen from the Destrean government, be it by simply taking cash they find, planned highway robberies, wire fraud, scams, or cybercrime.
+
+The smallest source of regular revenue for the group comes from various nature and wildlife preservations around the world that require protection from poachers and hostile trespassers. Some members of the Risky Witches are exported as full time park rangers that work below market rate, and among them, some are unpaid volunteers.
+
 ## History
 
-> [!bug] Issue
-> Need to rethink the Risky Witches history and rewrite it to be more descriptive of the group rather than some of the people in it.
+The origins of the Risky Witches began ten years before their official establishment. At this time, Freya was the flight commander of the [[Witch Squadron]], a Destrean multirole fighter squadron that was infamous for their lethality and unpredictable nature, and had a negative reputation with the Destrean military due to repeated insubordination that proved unresolvable through standard disciplinary action. Rather than continue trying to discipline the unit or force them to disband, the Destrean military opted to send the Witch Squadron into increasingly dangerous operations, leading to the losses of several pilots. Already not afraid to reject authority, Freya and those remaining in her unit took this treatment as an opportunity.
 
-The Risky Witches began to form in 1981, originally a multirole fighter squadron in the Destrean air force commanded by Freya, known as the [[Witch Squadron]]. Their flying prowess combined with Destrean affiliation caused the Witch Squadron to slowly grow infamous, and their repeated insubordination caused the Destrean military to grow tired of their presence. Rather than disband the unit, its resources were quietly reallocated and the unit was sent into increasingly dangerous operations.
+During an operation in 1981, Freya was shot down deep inside enemy territory and reported that she could not eject, then just before impact, ordered her squadron to withdraw against orders. Upon landing, the unit was immediately grounded and placed under surveillance by the base commander, and their planes were reassigned to another unit. The entirety of the Witch Squadron mourned the loss of Freya, but days later, she walked into the dormitory alive and wielding a revolver, shot the supervisor in front of her squad mates, and deserted with them. Word spread quickly about the 131 rebels, and their infamy grew explosively.
 
-They lost several pilots, including Freya herself who was shot down over enemy territory and could not eject. Before impact, she ordered her squadron to withdraw, after which they were swiftly grounded by the wing commander. Having grown rather close, the surviving members of the Witch Squadron mourned Freya, but days later she walked into the dormitory wielding a revolver, shot the supervisor in front of her squad mates, and deserted with them. Word spread quickly and their infamy grew explosively.
+This small group spent the next year carrying out clandestine raids on small Destrean military bases and transports both to supply themselves with arms and to recruit more soldiers to their rebellion, increasing their numbers from 131 to over 1,000. Among these recruits was a 9 year old Garm found being used as a living weapon by a Destrean officer.
 
-Just one year later, now calling themselves the Witchblades, a group of guerrillas, their numbers ballooned as Freya's actions inspired many more to desert Destrea.
+After the discovery of Garm, the group transitioned away from raiding to instead focus on spreading propaganda for their cause and building their strength through intensive training, while Freya tracked down and recruited the rest of the incarnations, Dvalinn, Haida, Kuhai, and Neven. Over the next nine years, their numbers ballooned even further, surpassing 15,000 rebels. The vast majority of these rebels were trained to a level that could be considered elite among the elite.
 
-During a planned ambush on a Destrean transport, a young Garm was found being used as a living weapon. She was recovered alive during the ambush and immediately became attached to Freya. She was only 9 years old, and having seen the horrific way she was being treated, the group mindset began to shift away from empty vengeance to a common purpose. Freya took advantage of this and withdrew the Witchblades from active combat, switching the focus to recruiting more deserters in preparation for what she would only call "the big event."
+On new year's day in 1991, the Risky Witches made their presence officially known to the world by carrying out [[The Big Event]], seizing Espada, and broadcasting their agenda on national television.
 
-Garm was raised to adulthood in the company of Freya and the Witchblades, who treated her warmly like their own family. During this time, Freya was also seizing every opportunity to track down Dvalinn, Haida, Kuhai, and Neven, and Destrean soldiers continued to desert. Desertions by spirits and people with attunement also skyrocketed.
-
-On new year's day in 1991, the Risky Witches carried out [[The Big Event]].
+In 1998, the Risky Witches joined the [[Reclamation War]] after a Shinzenese air force test pilot stole and escaped with the Nagase X-0 Dauntless prototype fighter. The pilot intended to do whatever she could to stop the Destrean operatives from carrying out their plan to steal the Nagase aircraft and use them against Ustonia, but she herself was branded a traitor and an enemy in the process, both by Shinzen and Ustonia, but the Risky Witches trusted her and brought her to their headquarters. With her help, the Risky Witches engaged and destroyed all other stolen Nagase aircraft before they had the opportunity to do critical damage, then exited the conflict.
 
 ## Foreign relations
 
@@ -277,7 +310,7 @@ While Ilmaria has turned a blind eye to the Risky Witches, the Risky Witches hav
 Osun Tanum is cautious towards the Risky Witches, but fully support their goal of independence. The Risky Witches are cautiously optimistic regarding Osun Tanum as they are in full support of their policies and cultural treatment towards spirits and those with attunement, but neither offers services nor accepts support from them due to the possible consequences for Osun Tanum.
 
 **[[Sangyon]]**\
-Sangyon is very wary of the Risky Witches because they know their military strength cannot compare. However, the Risky Witches have no issue with Sangyon and regularly offer their services.
+Sangyon is very wary of the Risky Witches because they know their military strength cannot compare. However, the Risky Witches have no issue with Sangyon and regularly offer their services at discounted rates.
 
 **[[Shaohou]]**\
 Shaohou, as a friend to Destrea, shares their hostile opinion against the Risky Witches, but not quite to the same degree. Relations are still possible between the two, though under extreme tension.
@@ -287,6 +320,10 @@ Shinzen has a very negative opinion of the Risky Witches as they are highly oppo
 
 **[[Ustonia]]**\
 As Ustonia had negative relations with Destrea already, they seized an opportunity when the Risky Witches formed and formed a pact. Ustonia provides the Risky Witches with supplies and arms regularly in return for a heavy discount on their services and mutual defense when called for.
+
+## Trivia
+
+- The name "Risky Witches" is silly, and they all know it. During their time as rebels, a name for their group was never considered, but when one was suddenly needed, nobody had any ideas. When discussing The Big Event, a young Garm commented that the operation was very risky. Freya joked about it. The group ran with it, and the joke became their name.
 
 -----
 > [!cite] Author info

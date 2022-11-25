@@ -310,13 +310,9 @@ Four stories are particularly notable both within and outside of the organizatio
 
 This story, known more generally as [[Creation myths#The Common Myth|the common myth]], describes the process of the world's creation. It has spawned countless variations and interpretations throughout history, but every single variation shares at least one commonality: They all depict "The Creator" as a beautiful woman who sacrificed herself for humanity. Some interpretations claim she did it to save humans from destruction, others believe it was an attempt to eradicate them, and countless interpretations exist between those two extremes.
 
-%%The story isn't actually written yet, and doesn't really need to be.%%
-
 #### The Reckoning
 
 This is the story recounting the great wars of humanity before the end of everything. All interpretations contain the statement that human population dropped to near extinction, but each version of the story has its own idea of the cause. Some say it's because humans invoked the wrath of the gods, others say it was hubris or arrogance, a petty conflict that got out of hand, among many other causes. Many stories have mentioned a god by name, but these names were never corroborated by other variations. The one exception to that observation is Morrigan, who appears as a goddess of death and misery in many variations of the story, contributing to the feared reputation of the [[Crow|crows]].
-
-%%The story isn't actually written yet, and doesn't really need to be.%%
 
 #### The Inferno
 

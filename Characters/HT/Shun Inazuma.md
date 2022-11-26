@@ -104,33 +104,33 @@ tags: HT
   </table>
 </div>
 
-Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with his wife, [[Nori Inazuma]], he traveled the world for several centuries and appears in many disparate historical events as a result. He currently lives in rural [[Shiga]] in [[Onsai]], [[Shinzen]].
+Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with their wife, [[Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[Shiga]] in [[Onsai]], [[Shinzen]].
 
 ## Physical description
 
-He has brilliant blue eyes, jet black hair and fur, very large and somewhat rough fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers, a sleeveless floral kimono-style top, and baggy pants tied around the ankles. More detail TBD
+They have brilliant blue eyes, jet black hair and fur, very large and somewhat rough fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers, a sleeveless floral kimono-style top, and baggy pants tied around the ankles. More detail TBD
 
-He lost his right arm entirely in (year).
+They lost their right arm entirely in (year).
 
 ## Special abilities
 
-Like all fox spirits, he has both [[Alignment]] and [[Attunement]]. He was a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with his ability to slow his perception of time and force his body to move proportionally faster made him one of the most feared swordmasters of Shinzen.
+Like all fox spirits, they have both [[Alignment]] and [[Attunement]]. They were a master of the traditional Inazuma sword arts despite only receiving one short year of training from another master, and mastered them with the standard right handed technique despite being left handed. This combined with their ability to slow their perception of time and force their body to move proportionally faster made them one of the most feared swordmasters of Shinzen.
 
-After losing his right arm, he immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of his homeland of [[Shaohou]]. He never drew a sword again since then.
+After losing their right arm, they immediately displayed an even more fearsome mastery of left handed swordsmanship by combining the Inazuma sword arts with a traditional sword and swordsmanship of their homeland of [[Shaohou]]. They never drew a sword again since then.
 
 ## Personality
 
-Shun is a mischievous and curious person. He takes nothing seriously, no matter what it is, and can come off as rude and disrespectful as a result, but his actions show his deep compassion for others much more obviously than his words.
+Shun is a mischievous and curious person. They take nothing seriously, no matter what it is, and can come off as rude and disrespectful as a result, but their actions show their deep compassion for others much more obviously than their words.
 
-While it is typical for fox spirits to think very little of gender roles and expectations, and most of the world is aware of that and treats them appropriately, Shun was raised with an acute awareness of traditional gender roles and enjoys taking full advantage of that common belief to tease and manipulate others, and will respond the same way to any pronouns or gendered treatment. His only preference is that he be called Nori's husband, not her wife, out of respect to her.
+While it is typical for fox spirits to think very little of gender roles and expectations, and most of the world is aware of that and treats them appropriately, Shun was raised with an acute awareness of traditional gender roles and enjoys taking full advantage of that common belief to tease and manipulate others, and will respond the same way to any pronouns or gendered treatment. Their only preference is that they be called Nori's husband, not her wife, out of respect to her.
 
 ## Relationships
 
-He has been married to Nori Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
+They have been married to Nori Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
 
 ## History
 
-He was born in [[Taihua]], [[Yuezou]], Shaohou to a Shisuya mother and Yao father, the names of both unknown, but history suggests that his mother was the third daughter of the first Inazuma. According to Shun, his mother raised him as a daughter to protect him from the rulers of the time, and it was her that taught him swordsmanship in secret and crafted the Shaohan sword he still holds today. He was sent away on his long solitary journey eastward through Shinzen by his mother after the rulers discovered that she was hiding Shun's true nature from them.
+They were born in [[Taihua]], [[Yuezou]], Shaohou, to a [[Shisuya]] mother and [[Yinsha#Yao people|Yao]] father, the names of both unknown, but history suggests that their mother was the third daughter of the first Inazuma. According to Shun, their mother raised them as a daughter to protect them from the rulers of the time, and it was her that taught them swordsmanship in secret and crafted the Shaohan sword they still hold today. They were sent away on their long solitary journey eastward through Shinzen by their mother after the rulers discovered that she was hiding Shun's true nature from them.
 
 -----
 > [!cite] Author info

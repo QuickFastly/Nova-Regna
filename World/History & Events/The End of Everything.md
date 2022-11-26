@@ -5,7 +5,7 @@ comments: true
 > [!bug] Issue
 > The Children of the Flame are not the only people with a story for this event, the others just aren't written yet. The other religions aren't even written at all yet themselves.
 
-Deep beneath the surface of the [[Earth]] is a thick layer of ash and charcoal that extends even some distance beyond ocean shores, suggesting that the whole of the planet was on fire for a period of 6 to 8 years. With current technology, we are unable to extract meaningful information from the ash layer itself, leaving us reliant entirely on the discovery of intact artifacts within or underneath it to learn about the period. Effectively, nearly all of Era Dira was erased from history.
+Deep beneath the surface of the [[Earth]] is a thick layer of ash and charcoal that extends even some distance beyond ocean shores, suggesting that the whole of the planet was on fire for a period of 6 to 8 years. With current technology, we are unable to extract meaningful information from the ash layer itself, and all current methods of measuring the age of organic materials show that everything beneath the ash layer appears to be the same age as the ash, leaving us reliant entirely on the discovery of intact artifacts within or underneath it to learn about the period. Effectively, nearly all of [[Era Dira]] was erased from history.
 
 How this fire could have happened has yet to be explained by any credible scientific theory, and by all counts is blatantly impossible. And yet, it clearly happened. Naturally, the religions and ancient cultures of the world have their own explanations of what supposedly happened.
 

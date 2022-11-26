@@ -141,13 +141,20 @@ They have their own dedicated armory and a large, extremely varied aircraft inve
 
 ### Non-combatants
 
-To keep the Risky Witches functioning, a number of non-combat roles are essential. There are approximately 8,500 non-combatants spread as needed through six distinct departments. Some combat mission orders come from these departments, be it for defense, conflict resolution, hired support, or otherwise.\
-**Internal Affairs**: Tasked with top level administration and governance, including legislation and economics. \
-**Political Affairs**: Tasked with negotiation and diplomacy with foreign powers and private companies as needed, as well as the management of tasks related to the goal of establishing independence as a free nation. \
-**Supply Chain Management**: Tasked with everything related to the supply chain, including buying and selling smuggled goods. \
-**Intelligence**: Tasked with acquiring, managing, archiving, and distributing intelligence as needed. \
-**Espionage**: A classified department tasked with subterfuge, blackmail, and acquiring high value intelligence. \
-**Cyber Ops**: A classified department dedicated to cybersecurity, cyber warfare, and providing services for hire.
+To keep the Risky Witches functioning, a number of non-combat roles are essential. There are approximately 8,500 non-combatants spread as needed through six distinct departments. Some combat mission orders come from these departments, be it for defense, conflict resolution, hired support, or otherwise.
+
+##### Internal Affairs
+Tasked with top level administration and governance, including legislation and economics.
+##### Political Affairs
+Tasked with negotiation and diplomacy with foreign powers and private companies as needed, as well as the management of tasks related to the goal of establishing independence as a free nation.
+##### Supply Chain Management
+Tasked with everything related to the supply chain, including buying and selling smuggled goods.
+##### Intelligence
+Tasked with acquiring, managing, archiving, and distributing intelligence as needed.
+##### Espionage
+A classified department tasked with subterfuge, blackmail, and acquiring high value intelligence.
+##### Cyber Ops
+A classified department dedicated to cybersecurity, cyber warfare, and providing services for hire.
 
 ## Public Agenda
 

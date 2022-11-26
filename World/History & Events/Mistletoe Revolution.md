@@ -9,7 +9,7 @@ The Mistletoe Revolution was a non-violent transition of power in [[Ustonia]] th
 
 Within the first half of 1973, the newly elected president had successfully negotiated peace with [[Destrea]] and [[Osun Tanum]], and returned all annexed territories to them except for [[Isla Sofia]], [[West Vastdal]], and [[South Macdon]]. Ustonia then committed to provide ten years of disaster relief funding to both countries. In the second half of the year, an alliance was formed with [[Shinzen]] with the stated goals of both countries being the assurance of lasting peace around the world, their combined overwhelming military forces being a powerful deterrent.
 
-Prior to the Mistletoe Revolution, Ustonia had been at war with Destrea and Osun Tanum for over five years, and had annexed over 80% of the territory in both countries.
+Prior to the Mistletoe Revolution, Ustonia had been at war with Destrea and Osun Tanum for over eight years, and had fully occupied over a third of each country.
 
 -----
 > [!cite] Author info

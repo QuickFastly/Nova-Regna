@@ -30,6 +30,8 @@ Individuals found to be in violation of their claimed exemptions after they have
 
 While it is not specified in the treaty, some countries also restrict concealment and regulate ownership of weapon categories 3, 4, and 5 at their own discretion. Fines for these violations are not required to be paid to the international trust, and may instead be collected by local governments.
 
+The proliferation of 3D printing technology bringing with it a new problem of untraceable weapons created by people in their own homes was an unforeseen problem and is not addressed by the treaty, so any weapons created in this manner are treated the same as other weapons under the treaty, but local governments have the ability to apply their own specific restrictions, regulations, and penalties for these cases where possible.
+
 ### Public reception
 
 Public reception was largely positive when this treaty was proposed, notable exceptions being Destrea, who fully opposed the treaty and refused to sign, and both [[Grenneria]] and [[Ustonia]], citing high border tensions with Destrea as a concern, though they ultimately did sign as it became clear that national militaries and private military companies were exempt.

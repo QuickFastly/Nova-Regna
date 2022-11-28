@@ -3,7 +3,7 @@ share: true
 tags: PG
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later.
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.
 
 [[LAW]]
 

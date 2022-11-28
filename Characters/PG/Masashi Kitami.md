@@ -3,7 +3,7 @@ share: true
 tags: PG
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final. Image is **not** Creative Commons.
+> This page is a stub, here as a reminder for later. If you think this is a real person, stop that, this is a fictional character. The car photo is only for inspiration, not final. Nickname not final. Image is **not** Creative Commons. Part of a project that is on hold.
 
 [[Phantom Special Works]]
 

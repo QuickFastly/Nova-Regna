@@ -2,7 +2,7 @@
 share: true
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later.
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.
 
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">

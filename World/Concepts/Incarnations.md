@@ -6,7 +6,7 @@ Seemingly inexplicable by science but clearly visible as reality, incarnations a
 
 Incarnations seem to be divided into two groups, mortal and immortal. The power held by each mortal incarnation seems to vary wildly, while the immortal incarnations appear to hold nearly infinite power.
 
-A wealth of myths and legends exist claiming to explain the existence of these incarnations, but none have ever been confirmed. Even the [[Children of the Flame]] have their own explanation that they claim has been passed down by their gods as divine truth, but while it is known that they have this information, the information itself is a closely guarded secret.
+A wealth of myths and legends exist claiming to explain the existence of these incarnations, but none have ever been confirmed. Even the [[Children of the Flame]] claim to have their own explanation that was supposedly passed down by their gods as divine truth, but while it is known that they have this information, the information itself has not been shared with the public.
 
 All that is fully known about the incarnations is that their power is tied directly to [[Mystic Matter|mystic matter]] and appears to defy all logical boundaries, and their lifespans are far longer than average spirits of their respective varieties.
 

@@ -18,9 +18,9 @@ Only adding to the great difficulty of learning to utilize this ability is that 
 
 ## Affected groups
 
-Fox, [[Deer]], and [[Crow]] [[Spirits|spirits]] all possess attunement inherently from birth, along with all Incarnations. Other major spirits are by far the most likely to be born with attunement at approximately one per 1,000 births, while minor spirits have a significantly lower rate of approximately one per 3,000 births. Over 75% of these births have at least one parent that also has attunement.
+Fox, [[Deer]], and [[Crow]] [[Spirits|spirits]] all possess attunement inherently from birth, along with all Incarnations. Other major spirits are by far the most likely to be born with attunement at approximately one per 1,000 births, while minor spirits have a significantly lower rate of approximately one per 3,000 births. Over 85% of these births have at least one parent that also has attunement.
 
-While it is possible for [[Human|humans]] to have attunement as well, it is extremely rare at a rate of less than one per 25,000 births, with nearly all of those births having at least one parent that also has attunement.
+While it is possible for [[Human|humans]] to have attunement as well, it is extremely rare at a rate of less than one per 25,000 births in the last 50 years, with virtually all of those births having at least one parent that also has attunement. The rate of humans with attunement has been declining through all of known history, and is currently just under half of what it likely was in the year 500 AO.
 
 ## Cultural reception
 

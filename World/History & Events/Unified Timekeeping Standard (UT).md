@@ -4,7 +4,7 @@ comments: true
 ---
 Historically, the legal and cultural expectations and methods for representing dates and times have varied between nations, and has been a source of confusion internationally. In an effort to simplify the keeping of time around the world, the Unified Timekeeping Standard was proposed in 1523 by an independent group of merchants, and has been in use worldwide since 1549.
 
-The standard was not made retroactive, so any dates and times found in documents and media written prior to when a given country adopted the standard should be assumed to have been written using the system that was in use in that place at that time. However, the standard has been made retroactive in modern times, so all dates and times found in documents and media written since 1549, even if the date written is before that year, can be assumed to be written in the Unified Timekeeping Standard.
+The standard was not made retroactive, so any dates and times found in documents and media written prior to when a given country adopted the standard should be assumed to have been written using the system that was in use in that place at that time. However, the standard does account for retroactive use in current times, so all dates and times found in documents and media written since 1549, even if the date written is before that year, can be assumed to be written in the Unified Timekeeping Standard.
 
 | Country       | Year adopted    | Country        | Year Adopted    |
 | ------------- | --------------- | -------------- | --------------- |
@@ -41,7 +41,7 @@ The UT time zone, denoted as UT±00, is between 0° and 15° longitude, with eve
 
 Pilots and ship captains typically use UT±00, regardless of their location, to ensure that they are always in sync and on time to prevent confusion when travelling between time zones, though some military forces may prefer to synchronize to their home time zone regardless of location.
 
-##### Daylight saving
+#### Daylight saving
 
 Daylight saving time is the practice of advancing clocks, typically by one hour, during warmer months so that darkness falls at a later clock time, primarily for the theoretical energy savings and economical benefits. The Unified Timekeeping Standard does not change with a change of seasons, but local time may change if a time zone jurisdiction observes daylight saving time.
 

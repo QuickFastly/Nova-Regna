@@ -4,7 +4,7 @@ comments: true
 tags: HT
 ---
 > [!bug] Issue
-> This page is a first draft, and is guaranteed to change in the future.
+> This page is a first draft, part of a project being actively worked on, and is guaranteed to change in the future.
 
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">

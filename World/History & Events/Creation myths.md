@@ -15,13 +15,13 @@ The common myth is named as such due to the fact that it is not only the one bel
 
 According to the common myth, the world was created by a singular entity, known only as The Creator, who is depicted as a beautiful woman that later sacrificed herself for the sake of her creations either before or during [[The End of Everything]]. There are many variations of the myth, but with a single exception, they all include around this entity and her sacrifice, and most are centered around her.
 
-##### The Account
+#### The Account
 
 In the year 1854, [[The Account]] was published by [[The Sixth Storyteller]] of the Children of the Flame. It is missing an unknown amount of its original text and contains redactions throughout. It contains the Storyteller's retelling of the stories allegedly told to him by the deities [[Kerosyn]] the Deliverer, [[Freya]] the Deceiver, and [[Florian]] the Destroyer at least 200 years ago, whose true names were also first documented there.
 
 This detailed variation of the myth claims that rather than a single Creator, it was actually a pair of gods responsible for the creation of the Earth, plus their eight children who all played their own parts in the creation of life and the first cultures. They also claim that one of the gods mentioned within whose name we only know begins with R is the writer behind most of the holy texts of the faith, including several prophecies that have proven true, and more that have yet to manifest.
 
-##### The Fox Variant
+#### The Fox Variant
 
 [[Fox]] spirits traditionally believed that The Creator was actually Kerosyn, rather than the unknown woman. There are no further differences in this variation, and it was the only version of the common myth not to include the woman. This belief is considered incorrect and obsolete by most fox spirits today, however, as they later accepted The Account after its publication.
 

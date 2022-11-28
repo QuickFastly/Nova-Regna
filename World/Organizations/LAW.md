@@ -3,7 +3,7 @@ share: true
 tags: PG
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later.
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.
 
 The racing team that officially took over [[Run Free Race Team]]. Nobody knows who founded this team, but many members of Run Free are still racing as part of LAW. They are known for setting very high wagers and winning races at all costs. Those who defeat a LAW member, refuse to race, or refuse to join when asked, are often arrested and found in news headlines mere days later. 
 

@@ -3,7 +3,7 @@ share: true
 tags: RD
 ---
 > [!bug] Issue
-> This page is a stub, here as a reminder for later.
+> This page is a stub, here as a reminder for later. Part of a project that is on hold.
 
 Friends and roommates with [[Nozomi Hijiya]] and [[Suruko Zukeran]]. Unfortunate victim of Protagonistitis.
 

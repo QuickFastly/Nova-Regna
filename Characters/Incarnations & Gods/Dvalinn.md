@@ -149,7 +149,7 @@ Aside from this summary, the rest of this page applies only to the current incar
 
 ## Special abilities
 
-His alignment grants him what is effectively 360 degree vision and the ability to see around corners, though, being blind from birth, he does not see anything the same as a sighted person would. Vision through alignment also allows him to see unimpeded in darkness, and even with his eyes closed or covered.
+His alignment grants him what is effectively 360 degree vision and the ability to see around corners. Though, being blind from birth, he does not see anything the same as a sighted person would. Vision through alignment also allows him to see unimpeded in darkness, and with his eyes closed or covered.
 
 His attunement primarily manifests as near total dominion over flora and fauna, allowing him to control, manipulate, and weaponize any and all living things - excluding humans and spirits - within a radius of at least 20 kilometers. Within visual range, he can also manipulate and weaponize air, water, and the earth, appearing to use his staff as a focus of sorts.
 
@@ -169,7 +169,7 @@ The one area where he exhibits full confidence is on the topic of nature. Being 
 
 Dvalinn is concerned primarily with the preservation of undisturbed forests around the world, with the safety and prosperity of deer spirits being a distant second. He is an odd mixture of conflicting extremes, preferring to avoid violence entirely at all times while still being willing to inflict extreme and vicious violence on the enemy. On his own, when he encounters people wandering into his forest or camping, he will peacefully guide them out and instruct them to stay out, be it kindly or frightfully. But when loggers, city planners, developers, builders, hunters, poachers, or anything similar find their way into his forest, they are never heard from again.
 
-With enough convincing, Freya used his violent heart to sway him to join the Risky Witches with the promise that by protecting the deer spirits, they will go on to protect the forests. While he still does what he can to protect forests, he now finds pleasure in combat.
+With enough convincing, Freya took advantage of his violent heart to sway him to join the Risky Witches with the promise that by protecting deer spirits with the group, they will go on to protect the forests themselves. While he still does what he can to protect forests personally, he now finds pleasure in combat.
 
 ## Relationships
 
@@ -177,7 +177,7 @@ Dvalinn was the most difficult of the incarnations for Freya to recruit due to h
 
 He has a rather sour relationship with [[Garm]] because of her constant bullying and pestering, but still tries to treat her with respect. He views [[Kuhai]] as little more than a colleague and mostly treats her as such. He enjoys speaking with [[Neven]] when she's alone, but finds her annoying when others are around. He is closest with [[Haida]] and deeply values her wisdom, showing her the most respect in the group.
 
-In truth, he is quite bad at hiding his true feelings, especially when teased about them. While it's true that he was distant at first, over time he did grow very close with everyone in the group and would do a lot for them, but he will never admit that to them.
+In truth, he is quite bad at hiding his true feelings, especially when teased about them. While it's true that he was distant at first, over time he did grow very close with everyone in the group and would do a lot for them, but he will never admit that to anyone.
 
 ### Affiliations
 

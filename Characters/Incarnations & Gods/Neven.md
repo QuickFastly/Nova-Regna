@@ -149,11 +149,11 @@ She uses her telekinesis to create a necklace, four bracelets, and four anklets 
 
 ## Special abilities
 
-Her alignment grants her telepathy limited within earshot. If anyone thinks near her, she will hear it as though they spoke, and anyone she telepathically communicates with will hear her voice as though she spoke. It also allows her to read deeper thoughts, emotions, and subconscious feelings of any person or animal she touches, as well as psychometry that allows her to see the memories and history of people, animals, and inanimate objects as though she was present at the time by touching them.
+Her alignment grants her telepathy limited within earshot. If anyone thinks near her, she will hear it as though they spoke, and anyone she telepathically communicates with will hear her voice as though she spoke. It also allows her to read deeper thoughts, emotions, and subconscious feelings of any person or animal she touches, and additionally grants psychometry that allows her to see the memories and history of people, animals, and inanimate objects as though she was present at the time by touching them.
 
-Her attunement grants her telekinesis limited within visual range. Like invisible hands, she can only manipulate objects when she can see them, or is fully aware of their location, like things inside a pocket, under a cover, or anything she moved behind herself. She can also apparently "imprint" on objects to be able to perceive and manipulate them even when she can't see them, but it seems this only appears to her necklace, bracelets, anklets, sword, motorcycle, and helmet.
+Her attunement grants her telekinesis limited within visual range. Like invisible hands, she can only manipulate objects when she can see them, or is fully aware of their location, like things inside a pocket, under a cover, or anything she moved behind herself. She can also apparently "imprint" on objects, allowing her to perceive and manipulate them even when outside of visual range, but it seems this only currently applies to her necklace, bracelets, anklets, sword, motorcycle, and helmet.
 
-As an incarnation, her attunement gives her the physical strength of a gymnast despite her light weight, and also gives her drastically increased physical durability, endurance, and flexibility, allowing her to survive in extreme conditions, take heavy impacts without breaking a bone, and contort her body in ways that seem impossible. Her alignment also grants her virtually instant reaction speed, and her attunement gives her the control over her body needed to physically react at nearly the same speed, even if she tears her muscles in the process.
+As an incarnation, her attunement gives her the physical strength of a gymnast despite her featherlight weight, and also gives her drastically increased physical durability, endurance, and flexibility, allowing her to survive in extreme conditions, take heavy impacts without breaking a bone, and contort her body in ways that seem impossible. Her alignment also grants her virtually instant reaction speed, and her attunement gives her the control over her body needed to physically react at nearly the same speed, even if it means tearing her muscles in the process.
 
 ## Personality
 
@@ -163,13 +163,13 @@ Her natural state is quiet and stoic, full of compassion and an intense desire t
 
 Around Freya, she becomes playful, flirty, sly, and mischievous, and gets a kick out of slipping embarrassing things into conversations whenever she can, and this adaptation overpowers all others. The other incarnations also have strong influences on her, but nowhere near as strong as Freya.
 
-When Freya isn't around, the chaotic nature of the people in the Risky Witches blur together into a chaotic mess of noise in her head, ultimately adding a silly, scatterbrained nature on top of whatever other personality changes appear at the time. The cognitive load of this chaos also makes her rather clumsy and affects her balance, making her look drunk all the time.
+When Freya isn't around, the wild and loud nature of the people in the Risky Witches blur together into a chaotic mess of noise in her head, ultimately adding a silly, scatterbrained nature on top of whatever other personality changes appear at any given time. The cognitive load of this chaos also makes her rather clumsy and affects her balance, making her look drunk all the time.
 
-The only time she can overcome these adaptations is when exposed to a high stress, high stakes situation that requires her full attention, like saving a life, be it someone else's or her own, or on non-trivial deployments with her unit. In these situations, all the noise in her head is silenced and she becomes cold, efficient, and hyperfocused on the task at hand.
+The only time she can overcome these adaptations without solitude is when exposed to a high stress, high stakes situation that requires her full attention, like saving a life, be it someone else's or her own, or while on non-trivial deployments with her unit. In these situations, all the noise in her head is silenced and she becomes cold, efficient, and hyperfocused on the task at hand.
 
 ### Motivation
 
-Neven has an innate desire for balance, but "balance" being so vague leads often to confusion and frustration. She has a foggy memory of a feeling that leads her to believe that all of her past lives devoted themselves to imposing their ideas of balance on their surroundings, and that further frustrates Neven, so she has instead dedicated herself to traveling the world to study and come to a greater understanding of what "balance" is, both in nature and in society. Since setting out on this quest when she was still a child, it has instilled a deep compassion for life in her, and her current idea of "maintaining balance" is simply to help the people she encounters to live better lives.
+Neven has an innate desire for balance, but "balance" being such a vague concept leads often to confusion and frustration. She has a foggy memory of a feeling that leads her to believe that all of her past lives devoted themselves to imposing their ideas of balance on their surroundings, but does not tell her what those ideas actually were, and that further frustrates Neven, so she has instead dedicated herself to traveling the world to study and come to a greater understanding of what "balance" is, both in nature and in society. Since setting out on this quest when she was still a child, it has instilled a deep compassion for life in her, and her current idea of "maintaining balance" is simply to help the people she encounters to live better lives.
 
 She was swayed to join the Risky Witches with the promise of liberation for spirits and marginalized people around the world, which aligned with her personal goals already. She is one of the most influential voices in the group that calls to minimize bloodshed.
 
@@ -177,7 +177,7 @@ She was swayed to join the Risky Witches with the promise of liberation for spir
 
 Neven is very close and friendly with [[Dvalinn]], [[Garm]], and [[Kuhai]], treating them all like younger siblings and offering her support to them in every way she can, provided Freya isn't nearby to change her personality. She is especially close with [[Haida]], because she looks up to her as a role model, and feels honored that Haida opened up to her in return. Out of the whole group, Neven is the most skeptical of Freya and tries to keep her at arm's length, which tends to appear outwardly as a rivalry.
 
-She also wishes to be close with [[Seth Alden]] and offers him support wherever possible, but he makes it difficult with his attitude of deliberate distance. Unlike the others, though, Neven makes an active effort to break through his walls.
+She also particularly wishes to be close with [[Seth Alden]] and offers him support wherever possible, but he makes it difficult with his attitude of deliberate distance. Unlike the others, though, Neven makes an active effort to break through his walls.
 
 ### Affiliations
 
@@ -190,7 +190,7 @@ sorry nothing
 ## Trivia
 
 - Her nickname, "Dizzy", is probably from her clumsy and scatterbrained nature during downtime with the Risky Witches. Or maybe it's from how she can switch from that to the cold and efficient super soldier so quickly that it makes people's heads spin. Who knows?
-- Another reason she is so close with Haida is because Haida's [[Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.
+- Another reason she is so close with Haida is because Haida's [[Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude or stress. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.
 
 ## See Also
 

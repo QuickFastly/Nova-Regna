@@ -6,7 +6,7 @@ Mystic matter is a type of naturally occurring substance found in nearly everyth
 
 This is the substance that is perceived by people with [[Alignment]] and manipulated by people with [[Attunement]].[^1]
 
-Being a very recent discovery that defies virtually all of then-current scientific understanding and is capable of turning the laws of physics upside down, very little is known or understood about mystic matter today.
+Being a very recent discovery that defies virtually all prior scientific understanding and is capable of turning the laws of physics upside down, very little is known or understood about mystic matter today.
 
 It has proven an incredibly difficult subject of study, as most research conducted to this day has turned out inconclusive, inconsequential, or invalid. The study of mystic matter also struggles with very limited funding and attention, as many scientific organizations have yet to acknowledge its existence as true.
 

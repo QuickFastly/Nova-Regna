@@ -1,5 +1,6 @@
 ---
 tags: RD
+share: true
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.

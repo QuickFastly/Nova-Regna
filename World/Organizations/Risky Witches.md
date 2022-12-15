@@ -158,7 +158,7 @@ A classified department dedicated to cybersecurity, cyber warfare, and providing
 
 ## Public Agenda
 
-Immediately after The Big Event in 1991, what remained of the Destrean government declared the Risky Witches terrorists, to which the Risky Witches responded by addressing the public to reveal the amount of civilian casualties caused by Destrea during The Big Event, prove that none of said civilian casualties were caused by the Risky Witches, and state their objectives:
+Immediately after The Big Event in 1991, what remained of the Destrean government declared the Risky Witches terrorists, to which the Risky Witches responded by addressing the public to reveal the amount of civilian casualties caused by Destrea during The Big Event, prove that none of said civilian casualties were caused by the Risky Witches, and re-state their objectives:
 
 - To become independent from the tyranny of Destrean regime, by any means necessary.
 - To protect all marginalized people, be they spirit or human, no matter the consequences.
@@ -282,7 +282,7 @@ The smallest source of regular revenue for the group comes from various nature a
 
 The origins of the Risky Witches began ten years before their official establishment. At this time, Freya was the flight commander of the [[Witch Squadron]], a Destrean multirole fighter squadron that was infamous for their lethality and unpredictable nature, and had a negative reputation with the Destrean military due to repeated insubordination that proved unresolvable through standard disciplinary action. Rather than continue trying to discipline the unit or force them to disband, the Destrean military opted to send the Witch Squadron into increasingly dangerous operations, leading to the losses of several pilots. Already not afraid to reject authority, Freya and those remaining in her unit took this treatment as an opportunity.
 
-During an operation in 1981, Freya was shot down deep inside enemy territory and reported that she could not eject, then just before impact, ordered her squadron to withdraw against orders. Upon landing, the unit was immediately grounded and placed under surveillance by the base commander, and their planes were reassigned to another unit. The entirety of the Witch Squadron mourned the loss of Freya, but days later, she walked into the dormitory alive and wielding a revolver, shot the supervisor in front of her squad mates, and deserted with them. Word spread quickly about the 131 rebels, and their infamy grew explosively.
+During an operation in 1981, Freya was shot down deep inside enemy territory and reported that she could not eject, then just before impact, ordered her squadron to ignore all other orders and withdraw. Upon landing, the unit was immediately grounded and placed under surveillance by the base commander, and their planes were reassigned to another unit. The entirety of the Witch Squadron mourned the loss of Freya, but days later, she walked into the dormitory alive and wielding a revolver, shot the supervisor in front of her squad mates, and deserted with them. Word spread quickly about the 131 rebels, and their infamy grew explosively.
 
 This small group spent the next year carrying out clandestine raids on small Destrean military bases and transports both to supply themselves with arms and to recruit more soldiers to their rebellion, increasing their numbers from 131 to over 1,000. Among these recruits was a 9 year old Garm found being used as a living weapon by a Destrean officer.
 

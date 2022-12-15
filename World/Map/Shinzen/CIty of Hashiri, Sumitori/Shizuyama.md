@@ -25,7 +25,7 @@ tags: PG
   </table>
 </div>
 
-Shizuyama is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It was originally used exclusively as a base of operations for the SRDF Air Force with both military and civilian personnel housed on site, but eventually developed into a full fledged town for non-military families. The military air base is still operational in limited capacity.
+Shizuyama is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It was originally used exclusively as a base of operations for the [[Shinzen#Military|SRDF]] Air Force with both military and civilian personnel housed on site, but eventually developed into a full fledged town for non-military families. The military air base is still operational in limited capacity.
 
 -----
 > [!cite] Author info

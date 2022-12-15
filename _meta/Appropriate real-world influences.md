@@ -7,7 +7,7 @@ It's hard to build a world with no influence from reality at all. So I didn't. E
 > [!warning]
 > It is important to keep in mind that just because all these people and places are based heavily on the real world, they are still *fictional*. A lot of real-world history does not exist here, and a lot of creative liberty must be taken. Original ideas are just as important as the real-world sources, this page only serves to list sources of *influence*, not of 1-to-1 recreations.
 > 
-> Some cultural stereotypes may also be written for the sake of narrative simplicity, but they are under no circumstances to be portrayed as derogatory or at the expense of others, nor is that ever the intention, so while you should not take them overly seriously or read too deeply into them, please contribute suggestions and reasoning for improvements if you have any.
+> Some cultural stereotypes may also be written to quickly convey a theme in a simple way, but they are under no circumstances to be portrayed as derogatory or at the expense of others, nor is that ever the intention, so while you should not take them overly seriously or read too deeply into them if/where they are present, please contribute suggestions and reasoning for improvements if you have any.
 
 - [[Corstaea]] represents Norway, Finland, Iceland, Faroe Islands, Germany, the United Kingdom, and Ireland.
 	- [[Carlow]] specifically represents the Celtic nations.

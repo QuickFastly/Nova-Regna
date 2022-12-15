@@ -13,6 +13,9 @@ She was born with an innate knowledge of everything that exists and all history,
 
 She is very small and kind of frail, and usually looks kind of unkempt, only made worse by her tendency to wear clothes several sizes too big.
 
+> [!example]- A note about this character
+> Minerva is a holdover from an earlier attempt at worldbuilding that was thrown away in the process of creating my album, Towers. Her entire origin story is effectively gone, and that’s fine, I like the idea of a goddess existing without explanation, but because of that and the fact that I’ve been focusing on pretty much anything else, she remains unused and undeveloped. All I know for certain is I want to involve her in something in the future.
+
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\

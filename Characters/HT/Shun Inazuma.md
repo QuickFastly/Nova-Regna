@@ -126,7 +126,7 @@ While it is typical for fox spirits to think very little of gender roles and exp
 
 ## Relationships
 
-They have been married to Nori Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
+They have been married to Nori Inazuma for centuries.
 
 ## History
 

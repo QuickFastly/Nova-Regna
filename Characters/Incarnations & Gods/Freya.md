@@ -110,7 +110,7 @@ Freya is a [[Cat|cat spirit]] and one of the three immortal [[Incarnations]]. Sh
 
 ## Physical description
 
-Freya is a very tall, caramel skinned woman with an athletic, pear shaped build. Her upper body is slender and toned, while her lower body is more shapely. She has sharp, narrow, bright yellow eyes with vertical pupils that have a subtle glow, with wrinkles and dark rings underneath. She also has sharp pointed teeth, long and subtly pointed fingernails capable of extending and morphing into cat claws, and two long black cat tails with white tips, matching her short and messy hair.
+Freya is a very tall, caramel skinned woman with an athletic, pear shaped build. She has sharp, narrow, bright yellow eyes with vertical pupils that have a subtle glow, with wrinkles and dark rings underneath. She also has sharp pointed teeth, long and subtly pointed fingernails capable of extending and morphing into cat claws, and two long black cat tails with white tips, matching her short and messy hair.
 
 The [[The Brand (Children of the Flame).png|Brand]] is burned into her back in white with a red outline. It glows just bright enough to shine through one layer of clothing in daylight, and it stands out strongly in the dark unless covered.
 

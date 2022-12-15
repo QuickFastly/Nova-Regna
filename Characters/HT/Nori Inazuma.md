@@ -126,7 +126,7 @@ Nori is a delicate and naive person. She takes things very seriously, no matter 
 
 ## Relationships
 
-She has been married to Shun Inazuma for centuries. Based on recent findings in the re-evaluation of the history surrounding them, it seems likely that they are also fourth cousins, three times removed despite their similar ages.
+She has been married to Shun Inazuma for centuries.
 
 ## History
 

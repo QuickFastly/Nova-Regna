@@ -107,7 +107,7 @@ Due to the fact that the only part of his body ever seen is his hair, and that h
 
 While he does not display any obvious signs of being a [[Spirits|spirit]] and appears to be relatively average size for a human, nobody knows for certain whether or not he truly is human.
 
-He wears a black cap with his hair threaded through its back, a black neck gaiter, hugely oversized mirror glasses, black formal gloves, a thick gray long sleeved shirt, a heavy green jacket with a high collar, heavy blue jeans, and gray slip-on shoes. He uses a black wooden cane with a carved handle to walk.
+He wears a black cap with his hair threaded through its back, a black neck gaiter, extremely oversized mirror glasses, black formal gloves, a thick gray long sleeved shirt, a heavy green jacket with a high collar, heavy blue jeans, and gray slip-on shoes. He uses a black wooden cane with a carved handle to walk.
 
 ## Special abilities
 

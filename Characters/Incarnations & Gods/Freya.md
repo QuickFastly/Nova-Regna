@@ -192,6 +192,9 @@ Freya has had a long career of interfering with military affairs. Here is a list
 - [[Witch Squadron]] - Multirole fighter squadron
 - Unnamed Destrean rebel group - Guerrillas, precursor to the Risky Witches
 
+> [!example]- About these units
+> Until these links point to pages that exist and have content in them, the names should be considered placeholder for everything except the Witch Squadron. I just came up with them all off the cuff one night because I wanted something to list here that reflects the timeline leading up to the Risky Witches.
+
 ## Trivia
 
 - Freya, despite her immortality, still needs to eat and drink to survive like a regular person. If she starves to death, she will come back in the same condition for a short time, then die again, over and over until she gets food.

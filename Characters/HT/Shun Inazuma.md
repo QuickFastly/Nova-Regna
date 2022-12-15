@@ -108,7 +108,9 @@ Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[
 
 ## Physical description
 
-They have brilliant blue eyes, jet black hair and fur, very large and somewhat rough fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers, a sleeveless floral kimono-style top, and baggy pants tied around the ankles. More detail TBD
+They have brilliant blue eyes, jet black hair and fur, very large and somewhat rough fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers, a sleeveless floral kimono-style top, and baggy pants tied around the ankles.
+
+More detail TBD
 
 They lost their right arm entirely in (year).
 

@@ -108,7 +108,9 @@ Nori Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[
 
 ## Physical description
 
-She has deep silver eyes, brilliant white hair and fur, very large silky smooth fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers and greaves with steel plates, and a short floral kimono. More detail TBD
+She has deep silver eyes, brilliant white hair and fur, very large silky smooth fox ears and tail, digitigrade feet, retractable claw-like fingernails, leather bracers and greaves with steel plates, and a short floral kimono.
+
+More detail TBD
 
 She suffers from severe [pulmonary hypoplasia](https://en.wikipedia.org/wiki/Pulmonary_hypoplasia), leaving her constantly short of breath, prone to coughing fits, and physically weakened with extremely little stamina.
 

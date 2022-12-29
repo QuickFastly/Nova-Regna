@@ -1,6 +1,6 @@
 ---
 share: true
-tags: PG
+tags: PG, Shinzen
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
@@ -32,4 +32,4 @@ It was a popular area among driving enthusiasts due to its one continuous road t
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

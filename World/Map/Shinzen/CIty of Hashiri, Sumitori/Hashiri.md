@@ -1,6 +1,6 @@
 ---
 share: true
-tags: PG, CM
+tags: PG, CM, Shinzen
 ---
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
@@ -35,6 +35,6 @@ The Shakotan ward includes the towns of [[Okamiwa]], [[Teruno]], [[Etazu]], [[Ki
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
 
 [^1]: I'm not writing my own page for what a designated city is. At least not yet. Look at [this Wikipedia page](https://en.wikipedia.org/wiki/Cities_designated_by_government_ordinance_of_Japan) instead. It also explains what a ward is in this context.

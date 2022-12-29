@@ -24,4 +24,4 @@ Many people around the world do not believe that sublimation is truly a continua
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

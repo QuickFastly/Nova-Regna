@@ -1,5 +1,6 @@
 ---
 share: true
+tags: Shinzen
 ---
 > [!bug] Issue
 > nothing for now, this page is only here at the moment to keep track of the periods.
@@ -59,7 +60,7 @@ TBD
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
 
 %% late yayoi - 關 seki (gateway) %%
 %% kofun-asuka - 榮 yō (honor) %%

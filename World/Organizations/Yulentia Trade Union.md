@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: Ustonia, Destrea, Ilmaria, Alastor
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
@@ -55,5 +56,5 @@ TBD
 
 -----
 > [!cite] Author info
-> **Kit** *(AKA Kerosyn, or Quick Fastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

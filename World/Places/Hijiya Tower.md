@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: Shinzen
 ---
 Hijiya Tower is a 300 meter (984 foot) tall skyscraper with 62 above-ground floors located in the [[Asakawa]] area of [[Hashiri]] in [[Sumitori]], [[Shinzen]]. It is the headquarters of the [[Hijiya Corporation]], and is primarily dedicated to the operation of the company, with only two floors open to the public without special permission.
 
@@ -8,5 +9,5 @@ The first floor is a large store with a modest selection of most Hijiya products
 
 -----
 > [!cite] Author info
-> **Kit** *(AKA Kerosyn, or Quick Fastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

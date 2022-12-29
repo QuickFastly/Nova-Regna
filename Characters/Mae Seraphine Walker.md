@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: CotF
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
@@ -138,4 +139,4 @@ When she was 19, she decided to marry a man from [[Arkbay]] and move there with 
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

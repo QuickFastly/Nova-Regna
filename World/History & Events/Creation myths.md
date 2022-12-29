@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: CotF
 ---
 > [!bug] Issue
 > The common myth is not the only myth. The others just aren't written yet. The other religions aren't even written at all yet themselves.
@@ -28,4 +29,4 @@ This detailed variation of the myth claims that rather than a single Creator, it
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

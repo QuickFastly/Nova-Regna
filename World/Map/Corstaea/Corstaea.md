@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: Corstaea
 ---
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
@@ -90,7 +91,7 @@ While the health and happiness of the people are the top priority of Corstaea, t
 
 ## History
 
-TBD
+The region of [[Tolred]] has been a constant source of tension between Corstaea and Grenneria since the formation of Corstaea in 1448. Hundreds of large scale battles over the region were fought there, and potentially thousands of small scale raids and other attacks up until the proposal was made to form the Ozen Federation, finally ending the fighting and permanently establishing Tolred as a Corstaean county. The final large scale battle fought in the region was the [[1898 Liberation of Amaransk]], where the Corstaean army pioneered the use of snipers to their great advantage.
 
 ## Geography
 
@@ -106,6 +107,8 @@ The Council is composed of seven seats with the Prime Minister reigning supreme.
 
 ### Administrative divisions
 
+Corstaea is divided into 11 counties, each technically governed by the local noble or royal family currently holding the most seats in the Council with full autonomy, but the introduction of the House of Commons severely limited county autonomy by partially democratizing the governance of the country and its counties. Each county has its own unique history and culture, which greatly influences legislature. These counties are as follows.
+
 - [[Affolstein]]
 - [[Allenthal]]
 - [[Carlow]]
@@ -120,7 +123,7 @@ The Council is composed of seven seats with the Prime Minister reigning supreme.
 
 ### Military
 
-The Corstaean military is divided into five main branches, being the Army, Navy, Coast Guard, Air Force, and Home Guard. The country enjoyed centuries of absolute naval dominance, and while that dominance has faded in recent years, they still retain their well-earned prestigious naval reputation as their navy is the best trained in the world.
+The Corstaean military is divided into five main branches, being the Army, Navy, Coast Guard, Air Force, and Home Guard. The country enjoyed centuries of absolute naval dominance, and while that dominance has faded in recent years, they still retain their well-earned prestigious naval reputation as their navy is the best trained in the world. The Corstaean army is also known for pioneering the use of snipers on the battlefield. Their marksmen are still among the best in the world due to their extensive training regimens, and the popularity of marksmanship among civilians for both hunting and sport.
 
 ### Foreign relations
 
@@ -179,4 +182,4 @@ TBD
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

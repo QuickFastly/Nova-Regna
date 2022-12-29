@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: CotF
 ---
 Written by [[The Sixth Storyteller]] of the [[Children of the Flame]] at least 200 years ago, this account was written after a private meeting with their gods, [[Florian]], [[Freya]], and [[Kerosyn]].
 
@@ -168,4 +169,4 @@ Beside these records, the falsified version of The Inferno is also stored.
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

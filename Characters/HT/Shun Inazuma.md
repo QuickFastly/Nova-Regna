@@ -137,4 +137,4 @@ They were born in [[Taihua]], [[Yuezou]], Shaohou, to a [[Shisuya]] mother and [
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

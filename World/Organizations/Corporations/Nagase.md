@@ -58,6 +58,11 @@ Tomoe
 The Tomoe program was originally intended to replace the Strider program, but instead works hand-in-hand as its sister craft. Its name comes from Tomoe Harada, the late pilot of Strider 2. Smaller and sleeker, yet more powerful than the Strider craft, the Tomoe craft carries cargo rather than passengers, and is equipped with retractable articulating arms ranging for moving large objects or conducting repairs. Capable of reaching the space station in just over two thirds the time required for Strider to do so, Tomoe is also used for emergency transport. Tomoe 1 was launched in 2004 with no issues and completed 11 round trips before being decommissioned, and it now resides in an aerospace museum. Tomoe 2 was launched in 2005 with no issues and completed three round trips before being replaced by Tomoe 3. However, it was then modified to shed as much weight as possible and converted to an ambulance of sorts, has completed two emergency flights since then, and remains on standby. Tomoe 3 was completed in 2009 with no issues, has completed seven round trips, and is still in service.
 
 
+-----
+> [!cite] Author info
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+
 %% car engine codes
 ---
 X(Y)Z##-AB[C]{D}
@@ -118,8 +123,3 @@ Simple. Left off if there's no turbo;
 T = Single turbo
 TT = Twin turbo
 %%
-
------
-> [!cite] Author info
-> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

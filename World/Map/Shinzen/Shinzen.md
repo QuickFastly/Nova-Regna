@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: Shinzen
 ---
 <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
   <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
@@ -184,6 +185,12 @@ TBD
 
 [[World military balance]] (Meta)
 
+
+-----
+> [!cite] Author info
+> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
 %% Shiga Coordinates: 5°26'S 108°23'W (?) %%
 
@@ -236,8 +243,3 @@ suzuka period = 1901-1954        showa
 hanshu period = 1954-1996        heisei
 zenwa period = 1996-present     reiwa
 %%
-
------
-> [!cite] Author info
-> **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)

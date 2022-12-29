@@ -1,6 +1,7 @@
 ---
 share: true
 comments: true
+tags: Ustonia, Destrea, Shinzen, RW
 ---
 > [!bug] Issue
 > More detail is needed here eventually.
@@ -18,4 +19,4 @@ At the same time, the Risky Witches came into the possession of one additional s
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)

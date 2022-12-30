@@ -20,7 +20,7 @@ Aside from artistic media, my favorite things in the world are cars, then airpla
 
 While I already said that my target for the world is essentially something normal with a little extra here and there, there will be some major exceptions to that below. I'm open to discussion and suggestions from the realistic perspective on these things and more, so if you have something in mind to improve what’s here or add more to this page, by all means, [[CONTRIBUTING#How to contribute|get involved]], but I am significantly *less* open to suggestions from the exaggerated or unrealistic perspectives on anything already present on this page. Discuss away anyway, changes aren't impossible, just less likely.
 
-#### Cars
+###### Cars
 
 You simply do not make the cars unrealistic. Plain and simple. Cars are too cool as they already exist in reality to want to exaggerate them. Even electric cars to some extent. If you want to make a crazy car that isn't real, you better know enough about real cars to be able to explain to me how it could work in the real world.
 
@@ -40,7 +40,7 @@ The final topic is simply removing cars entirely. Public transit is infinitely b
 
 In summary: Cars are cool, but keep them as realistic as possible, the only rule we're bending is the practicality of using hydrogen as fuel, and other things like alternative fuels and autonomy and public transit are simply realistic concepts taken farther.
 
-#### Aircraft
+###### Aircraft
 
 I like Ace Combat. That should say it all.
 
@@ -58,7 +58,7 @@ Now, in the case of *non*-military aircraft, this is a great opportunity to expl
 
 In summary: Aviation in this world is for fantasizing about what could be, or what could have been, and to romanticize flight and air-to-air combat, with only just enough realism to still be able to nerd out about airplanes and how flight works.
 
-#### Computers and AI
+###### Computers and AI
 
 Plain and simple, keep it realistic. The only time I ever want to see computers in this world escape the realms of reality are in the cases of obvious sci-fi, like the EVA drivers, SensNet, and sentient AI. I don't expect anyone to explain in realistic detail how things like that work, because it's not necessary, because sci-fi technology like that is speculative in nature and meant to explore the potential effects and results of such technology, regardless of reality. But if you have a regular computer, you do not get to treat it like anything other than a regular computer.
 
@@ -68,7 +68,7 @@ And for the love of all that is holy, don't even think about hacking unless you 
 
 In summary: No BS unless it's theoretically possible or speculative sci-fi, because computers aren't cool, and the speculation is about anything but the computers themselves.
 
-#### Guns
+###### Guns
 
 While I would prefer the guns in this world remain realistic for the most part, I also think some liberties could be interesting. For instance, modifying guns to accept different ammunition is a neat idea that I think should be much more feasible in this world, even when it's silly in reality, like converting a rifle from the 1800s to 7.62x51mm NATO. I'm no gun nut so I will personally make no attempt to get into all the nerdy details about how something like that could be done, but if a gun nut says an idea is completely and absolutely impossible no matter how you look at it, then don't do it, but otherwise, screw reality, do what you want if it's cool and at least somewhat believable.
 
@@ -78,7 +78,7 @@ I only really care about realism in the presentation of the guns themselves, bec
 
 In summary: Guns need to be realistic enough that they could theoretically function in real life, but how you use them is down to the rule of cool.
 
-#### Swords
+###### Swords
 
 Plain and simple, keep it realistic. Eliminate all video game logic from your brain, sit down, and study how swords are made and what they're capable of.
 
@@ -90,7 +90,7 @@ With all of that in mind, there is still one way to exaggerate a sword (or any o
 
 In summary: Swords are to be treated entirely realistically, assuming better materials and technology, except and *only* except when mystic matter is involved.
 
-#### Urban infrastructure
+###### Urban infrastructure
 
 More sustainability. More walkability. Public transit. Higher population density. Less cars. Way less urban sprawl. More renewable energy. Lots more nuclear energy. Way less single family housing. More mixed use zoning, or simply no zoning at all. Generally good stuff. Interesting and unusual concepts like underground cities and tunnel networks or cities built radially around a central tower are also cool and worth exploring.
 

@@ -93,7 +93,7 @@ Nothing for now. [[History of Shinzen]] for later.
 
 ## Geography
 
-Well over half of Shinzen is covered in dense, untouched forests, rolling hills, and mountains. The whole country minus the state of [[Kenshiri]] has a tropical climate. Rivers are extremely prevalent in the country and even flow directly through many cities. Shinzen is also home to the most diverse ecology in the world, and is revered for its natural beauty.
+Well over half of Shinzen is covered in dense, untouched forests, rolling hills, and mountains. The whole country has a tropical climate, except for the state of [[Kenshiri]] which is temperate. Rivers are extremely prevalent in the country and even flow directly through many cities. Shinzen is also home to the most diverse ecology in the world, and is revered for its natural beauty.
 
 ## Government & Politics
 

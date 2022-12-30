@@ -203,6 +203,6 @@ In the Obsidian git plugin settings, I recommend enabling pull updates on startu
 
 I also would recommend leaving automatic backups turned off, and instead do it manually for every file you change by pressing ctrl+P, searching for "backup", and choosing "create backup with specific message" so you can be descriptive about what changed instead of having 500 of the same commit message. But ultimately, it's in your hands, not mine.
 
-I will admit, setting this up for the first time did not go smoothly for me, but it's been long enough that I don't remember what my problem was. What I do know for sure, however, is that it wasn't the fault of the plugin, it was something to do with my git setup being wrong. Your mileage may vary, look through the plugin [issues](https://github.com/denolehov/obsidian-git/issues?q=is%3Aissue) and use Google if you have trouble.
+I will admit, setting this up for the first time did not go smoothly for me, but it's been long enough that I don't remember what my problem was. What I do know for sure, however, is that it wasn't the fault of the plugin, it was something to do with my git setup being wrong on Windows. On Linux, it went perfectly. Your mileage may vary, look through the plugin [issues](https://github.com/denolehov/obsidian-git/issues?q=is%3Aissue) and use Google if you have trouble.
 
 It's also entirely possible to use Obsidian and simply upload your changes through the browser as described in the pull requests section without using the git plugin, but it's less cool.

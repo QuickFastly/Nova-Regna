@@ -1,5 +1,5 @@
 ---
-share: false
+share: true
 comments: true
 tags: Corstaea, Grenneria
 ---

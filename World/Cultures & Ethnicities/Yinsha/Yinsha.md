@@ -21,30 +21,30 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first seven) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Yinsha people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yinsha people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">approx. 120,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 120,000,000</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Western Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Western Shaohou</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Shanyǔ<br><i>(Standard Chinese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Shanyǔ<br><i>(Standard Chinese)</i></td>
 		</tr>
   </table>
 </div>
@@ -62,30 +62,30 @@ More TBD
 
 ### Suo people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Suo people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Suo people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Suwei, Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Suwei, Shaohou</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Yáhuà<br><i>(Malaysian Mandarin)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Yáhuà<br><i>(Malaysian Mandarin)</i></td>
 		</tr>
   </table>
 </div>
@@ -94,30 +94,30 @@ The Suo people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Xi people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Xi people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Xi people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Xinwei, Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Xinwei, Shaohou</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Xoàihuà<br><i>(Vietnamese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Xoàihuà<br><i>(Vietnamese)</i></td>
 		</tr>
   </table>
 </div>
@@ -126,30 +126,30 @@ The Xi people are an ethnic group thought to be descended from the [[Yinsha]] th
 
 ### Fa people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Fa people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Fa people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Futou, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Futou, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Pak-sû<br><i>(Taiwanese Hokkien)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Pak-sû<br><i>(Taiwanese Hokkien)</i></td>
 		</tr>
   </table>
 </div>
@@ -158,30 +158,30 @@ The Fa people are an ethnic group thought to be descended from the [[Yinsha]] th
 
 ### Yao people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Yao people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yao people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Onsai, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Onsai, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Yánghuà<br><i>(Cantonese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Yánghuà<br><i>(Cantonese)</i></td>
 		</tr>
   </table>
 </div>
@@ -190,30 +190,30 @@ The Yao people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Mei people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Mei people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Mei people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Yuezou, Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Yuezou, Shaohou</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Talkhel<br><i>(Mongolian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Talkhel<br><i>(Mongolian)</i></td>
 		</tr>
   </table>
 </div>
@@ -222,30 +222,30 @@ The Mei people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Heling people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Heling people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Heling people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Nanjiang, Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Nanjiang, Shaohou</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">7 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">7 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Atiphāsā<br><i>(Khmer (Cambodian))</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Atiphāsā<br><i>(Khmer (Cambodian))</i></td>
 		</tr>
   </table>
 </div>

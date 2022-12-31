@@ -3,85 +3,83 @@ share: true
 comments: true
 tags: Sangyon
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Sangyon</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Sangyon</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Sangyon flag.png|250]]<br>![[Sangyon (Region).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Sangyon flag.png|250]]<br>![[Sangyon (Region).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Official name</b></td>
-			<td style="padding:4px">People's Republic of Sangyon</td>
-		</tr>
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Song</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Live and work for the benefit of all mankind</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Unitary state</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Location</b></td>
-			<td style="padding:4px">Avangia</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">1361</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Capital</b></td>
-			<td style="padding:4px">Dangje</td>
+			<td style="padding:4px; vertical-align:middle"><b>Official name</b></td>
+			<td style="padding:4px; vertical-align:middle">People's Republic of Sangyon</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Government</b></td>
-			<td style="padding:4px">Crowned republic</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Song</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Currency</b></td>
-			<td style="padding:4px">Won - ₩ (SNW)<br>1 CR = ~10.59 ₩</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Live and work for the benefit of all mankind</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>GDP</b></td>
-			<td style="padding:4px">119.3 trillion CR/yr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Unitary state</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">~68,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Location</b></td>
+			<td style="padding:4px; vertical-align:middle">Avangia</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National animal</b></td>
-			<td style="padding:4px">Carp</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">1361</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National flowers</b></td>
-			<td style="padding:4px">Orchid<br>Daffodil<br>Peony</td>
+			<td style="padding:4px; vertical-align:middle"><b>Capital</b></td>
+			<td style="padding:4px; vertical-align:middle">Dangje</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Government</b></td>
+			<td style="padding:4px; vertical-align:middle">Crowned republic</td>
 		</tr>
 	
-  </table>
-</div>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Currency</b></td>
+			<td style="padding:4px; vertical-align:middle">Won - ₩ (SNW)<br>1 CR = ~10.59 ₩</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>GDP</b></td>
+			<td style="padding:4px; vertical-align:middle">119.3 trillion CR/yr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">~68,000,000</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National animal</b></td>
+			<td style="padding:4px; vertical-align:middle">Carp</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National flowers</b></td>
+			<td style="padding:4px; vertical-align:middle">Orchid<br>Daffodil<br>Peony</td>
+		</tr>
+	
+    </table>
+  </div>
 
 Sangyon, officially known as the People's Republic of Sangyon, is a small country encompassing the northern archipelago of the continent of [[Avangia]]. Its capital, [[Dangje]], is located in the center of the country on the main island. It is closely neighbored by [[Shinzen]] to the south, separated by a large strait.
 

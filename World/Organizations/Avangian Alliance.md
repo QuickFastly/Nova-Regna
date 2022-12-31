@@ -6,40 +6,37 @@ tags: Shinzen, Shaohou, Sangyon
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Avangian Alliance</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Avangian Alliance</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Avangian Alliance flag.png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Avangian Alliance flag.png|250]]</span>
   
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Alliance</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Alliance</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">1957</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">1957</td>
 		</tr>
   
 		<tr style="border-bottom:1px solid #666; solid #666">
-			<td style="padding:4px"><b>Alternative Names</b></td>
-			<td style="padding:4px">Avangia<br>The Alliance</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alternative Names</b></td>
+			<td style="padding:4px; vertical-align:middle">Avangia<br>The Alliance</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Members</b></td>
-			<td style="padding:4px">Shinzen<br>Shaohou<br>Sangyon</td>
+			<td style="padding:4px; vertical-align:middle"><b>Members</b></td>
+			<td style="padding:4px; vertical-align:middle">Shinzen<br>Shaohou<br>Sangyon</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 The Avangian Alliance is a political agreement formed between [[Sangyon]], [[Shaohou]], and [[Shinzen]] in 1957 as a way to ensure a lasting peace between the nations after the new leadership of Shinzen abruptly withdrew all troops from Sangyon and Shaohou, ending an era of Shinzenese expansionism. This sudden withdrawal was met with intense negative public backlash from the patriotic Shinzenese population, which was a primary motivating factor for the new leadership of Shinzen to propose the Alliance in an attempt to quiet the concerns of the public.
 

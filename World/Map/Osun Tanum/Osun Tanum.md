@@ -3,85 +3,83 @@ share: true
 comments: true
 tags: OsunTanum
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Osun Tanum</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Osun Tanum</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Osun Tanum flag.png|250]]<br>![[Osun Tanum (Region).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Osun Tanum flag.png|250]]<br>![[Osun Tanum (Region).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Official name</b></td>
-			<td style="padding:4px">Democratic Republic of Osun Tanum</td>
-		</tr>
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Tanish<br>Tanite</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Ad Astra pro Veritas</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Federation</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Location</b></td>
-			<td style="padding:4px">Ozen</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">1634</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Capital</b></td>
-			<td style="padding:4px">Grendelholt</td>
+			<td style="padding:4px; vertical-align:middle"><b>Official name</b></td>
+			<td style="padding:4px; vertical-align:middle">Democratic Republic of Osun Tanum</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Government</b></td>
-			<td style="padding:4px">Representative democracy</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Tanish<br>Tanite</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Currency</b></td>
-			<td style="padding:4px">Krona - kr (TKR)<br>1 CR = ~0.627 kr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Ad Astra pro Veritas</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>GDP</b></td>
-			<td style="padding:4px">133.4 trillion CR/yr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Federation</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">~146,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Location</b></td>
+			<td style="padding:4px; vertical-align:middle">Ozen</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National animal</b></td>
-			<td style="padding:4px">White-tailed deer</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">1634</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National flowers</b></td>
-			<td style="padding:4px">Bird of paradise<br>Lily of the valley</td>
+			<td style="padding:4px; vertical-align:middle"><b>Capital</b></td>
+			<td style="padding:4px; vertical-align:middle">Grendelholt</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Government</b></td>
+			<td style="padding:4px; vertical-align:middle">Representative democracy</td>
 		</tr>
 	
-  </table>
-</div>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Currency</b></td>
+			<td style="padding:4px; vertical-align:middle">Krona - kr (TKR)<br>1 CR = ~0.627 kr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>GDP</b></td>
+			<td style="padding:4px; vertical-align:middle">133.4 trillion CR/yr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">~146,000,000</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National animal</b></td>
+			<td style="padding:4px; vertical-align:middle">White-tailed deer</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National flowers</b></td>
+			<td style="padding:4px; vertical-align:middle">Bird of paradise<br>Lily of the valley</td>
+		</tr>
+	
+    </table>
+  </div>
 
 Osun Tanum, officially known as the Democratic Republic of Osun Tanum, is a moderately sized country located on the southern third of the continent of [[Ozen]], and is a member of the [[Ozen Federation]]. Its capital, [[Grendelholt]], is located in the center of the country near the sea in the state of [[Sondergård]]. It is bordered by [[Corstaea]], [[Grenneria]], and [[Ustonia]], and is also closely neighbored by [[Alastor]] and [[Destrea]].
 

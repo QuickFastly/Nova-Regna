@@ -22,25 +22,25 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first eight) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Farodet people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Farodet people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">approx. 100,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 100,000,000</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Central Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Central Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
   </table>
 </div>
@@ -58,30 +58,30 @@ More TBD
 
 ### Roslan people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Roslan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Roslan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Roslaya, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Roslaya, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 40 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 40 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Roslan<br><i>(Russian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Roslan<br><i>(Russian)</i></td>
 		</tr>
   </table>
 </div>
@@ -90,30 +90,30 @@ The Roslan people are the first new ethnic group to be formed from the [[Farodet
 
 ### Vyrran people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Vyrran people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Vyrran people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Ulavyr, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Ulavyr, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 50 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 50 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Vyrran<br><i>(Ukrainian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Vyrran<br><i>(Ukrainian)</i></td>
 		</tr>
   </table>
 </div>
@@ -122,30 +122,30 @@ The Vyrran people are the second new ethnic group to be formed from the [[Farode
 
 ### Kiel people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Kiel people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kiel people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Kielda, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Kielda, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 60 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 60 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Kiel<br><i>(Polish)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Kiel<br><i>(Polish)</i></td>
 		</tr>
   </table>
 </div>
@@ -154,30 +154,30 @@ The Kiel people are the third new ethnic group to be formed from the [[Farodet]]
 
 ### Valosian people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Valosian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Valosian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Ivashni, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Ivashni, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 90 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 90 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Valosian<br><i>(Latvian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Valosian<br><i>(Latvian)</i></td>
 		</tr>
   </table>
 </div>
@@ -186,30 +186,30 @@ The Valosian people are the fourth new ethnic group to be formed from the [[Faro
 
 ### Markaskian people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Markaskian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Markaskian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Markask, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Markask, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 140 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 140 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Kaskan<br><i>(Serbian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Kaskan<br><i>(Serbian)</i></td>
 		</tr>
   </table>
 </div>
@@ -218,30 +218,30 @@ The Markaskian people are the fifth new ethnic group to be formed from the [[Far
 
 ### Sarab people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Sarab people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Sarab people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Sarabey, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sarabey, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Sarask<br><i>(Slovene)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Sarask<br><i>(Slovene)</i></td>
 		</tr>
   </table>
 </div>
@@ -250,30 +250,30 @@ The Sarab people are an ethnic group descended from the Markaskian people, forme
 
 ### Storran people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Storran people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Storran people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Elgård, Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Elgård, Osun Tanum</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 620 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 620 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Storran<br><i>(Hungarian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Storran<br><i>(Hungarian)</i></td>
 		</tr>
   </table>
 </div>
@@ -282,30 +282,30 @@ The Storran people are an ethnic group descended from the Valosian people, origi
 
 ### Nazene people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Nazene people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Nazene people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Nazavat, Grenneria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Nazavat, Grenneria</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 70 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 70 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Nazene<br><i>(Romanian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Nazene<br><i>(Romanian)</i></td>
 		</tr>
   </table>
 </div>

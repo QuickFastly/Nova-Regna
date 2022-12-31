@@ -23,25 +23,25 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first nine) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Exilan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Exilan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">approx. 780,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 780,000,000</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Northern Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Northern Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
   </table>
 </div>

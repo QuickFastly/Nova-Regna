@@ -3,85 +3,83 @@ share: true
 comments: true
 tags: Grenneria
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Grenneria</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Grenneria</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Grenneria flag.png|250]]<br>![[Grenneria (Region).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Grenneria flag.png|250]]<br>![[Grenneria (Region).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Official name</b></td>
-			<td style="padding:4px">Grennerian Federation</td>
-		</tr>
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Grennerian</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Strength in unity, Unity in diversity</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Federation</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Location</b></td>
-			<td style="padding:4px">Ozen</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">1211</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Capital</b></td>
-			<td style="padding:4px">Norizgrad</td>
+			<td style="padding:4px; vertical-align:middle"><b>Official name</b></td>
+			<td style="padding:4px; vertical-align:middle">Grennerian Federation</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Government</b></td>
-			<td style="padding:4px">Electocracy</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Grennerian</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Currency</b></td>
-			<td style="padding:4px">Ruble - ₽ (GRB)<br>1 CR = ~0.57 ₽</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Strength in unity, Unity in diversity</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>GDP</b></td>
-			<td style="padding:4px">112.7 trillion CR/yr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Federation</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">~152,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Location</b></td>
+			<td style="padding:4px; vertical-align:middle">Ozen</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National animal</b></td>
-			<td style="padding:4px">Carrion crow</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">1211</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National flower</b></td>
-			<td style="padding:4px">Chamomile</td>
+			<td style="padding:4px; vertical-align:middle"><b>Capital</b></td>
+			<td style="padding:4px; vertical-align:middle">Norizgrad</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Government</b></td>
+			<td style="padding:4px; vertical-align:middle">Electocracy</td>
 		</tr>
 	
-  </table>
-</div>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Currency</b></td>
+			<td style="padding:4px; vertical-align:middle">Ruble - ₽ (GRB)<br>1 CR = ~0.57 ₽</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>GDP</b></td>
+			<td style="padding:4px; vertical-align:middle">112.7 trillion CR/yr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">~152,000,000</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National animal</b></td>
+			<td style="padding:4px; vertical-align:middle">Carrion crow</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National flower</b></td>
+			<td style="padding:4px; vertical-align:middle">Chamomile</td>
+		</tr>
+	
+    </table>
+  </div>
 
 Grenneria, officially known as the Grennerian Federation, is a moderately sized country located on the eastern third of the continent of [[Ozen]], and is a member of the [[Ozen Federation]]. Its capital, [[Norizgrad]], is located in the heart of the country near the sea in the province of [[Roslaya]]. It is bordered by [[Corstaea]] and [[Osun Tanum]], and is also closely neighbored by [[Destrea]].
 

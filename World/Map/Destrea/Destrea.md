@@ -3,85 +3,83 @@ share: true
 comments: true
 tags: Destrea
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Destrea</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Destrea</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Destrea flag.png|250]]<br>![[Destrea (Region).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Destrea flag.png|250]]<br>![[Destrea (Region).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Official name</b></td>
-			<td style="padding:4px">Kingdom of Destrea</td>
-		</tr>
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Destrean</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Plus Ultra</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Unitary state</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Location</b></td>
-			<td style="padding:4px">Yulentia</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">1797</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Capital</b></td>
-			<td style="padding:4px">Syrres</td>
+			<td style="padding:4px; vertical-align:middle"><b>Official name</b></td>
+			<td style="padding:4px; vertical-align:middle">Kingdom of Destrea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Government</b></td>
-			<td style="padding:4px">Dictatorship</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Destrean</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Currency</b></td>
-			<td style="padding:4px">Peso - ₱ (DPS)<br>1 CR = ~472₱</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Plus Ultra</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>GDP</b></td>
-			<td style="padding:4px">1.12 quadrillion CR/yr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Unitary state</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">~326,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Location</b></td>
+			<td style="padding:4px; vertical-align:middle">Yulentia</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National animal</b></td>
-			<td style="padding:4px">Paper wasp</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">1797</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National flower</b></td>
-			<td style="padding:4px">Carnation</td>
+			<td style="padding:4px; vertical-align:middle"><b>Capital</b></td>
+			<td style="padding:4px; vertical-align:middle">Syrres</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Government</b></td>
+			<td style="padding:4px; vertical-align:middle">Dictatorship</td>
 		</tr>
 	
-  </table>
-</div>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Currency</b></td>
+			<td style="padding:4px; vertical-align:middle">Peso - ₱ (DPS)<br>1 CR = ~472₱</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>GDP</b></td>
+			<td style="padding:4px; vertical-align:middle">1.12 quadrillion CR/yr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">~326,000,000</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National animal</b></td>
+			<td style="padding:4px; vertical-align:middle">Paper wasp</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National flower</b></td>
+			<td style="padding:4px; vertical-align:middle">Carnation</td>
+		</tr>
+	
+    </table>
+  </div>
 
 Destrea, officially known as the Kingdom of Destrea, is an expansive country located on the continent of [[Yulentia]], encompassing its entire eastern half. Its capital, [[Syrres]], is located near the eastern edge of the southern gulf in the prefecture of [[Vaceniza]]. It shares a border with [[Ustonia]] to the west, and is also neighbored by [[Alastor]], [[Grenneria]], and [[Osun Tanum]] across the water to the north.
 

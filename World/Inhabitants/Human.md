@@ -2,34 +2,33 @@
 share: true
 comments: true
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Humans</th>
-	</tr>
-	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Status</b></td>
-			<td style="padding:4px">Thriving</td>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Humans</span>
+  
+	<table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-top:0px; border-collapse:collapse; line-height:1.5; font-size:small">
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Status</b></td>
+			<td style="padding:4px; vertical-align:middle">Thriving</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Lifespan</b></td>
-			<td style="padding:4px">80-90 years</td>
+			<td style="padding:4px; vertical-align:middle"><b>Lifespan</b></td>
+			<td style="padding:4px; vertical-align:middle">80-90 years</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Average height</b></td>
-			<td style="padding:4px">5-6 ft<br>(152-183 cm)</td>
-		</tr><!-- Please use both metric AND imperial! -->
+			<td style="padding:4px; vertical-align:middle"><b>Average height</b></td>
+			<td style="padding:4px; vertical-align:middle">5-6 ft<br>(152-183 cm)</td>
+		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Average weight</b></td>
-			<td style="padding:4px">140-200 lb<br>(63.5-90.7 kg)</td>
-		</tr><!-- Please use both metric AND imperial! -->
+			<td style="padding:4px; vertical-align:middle"><b>Average weight</b></td>
+			<td style="padding:4px; vertical-align:middle">140-200 lb<br>(63.5-90.7 kg)</td>
+		</tr>
 		
-  </table>
-</div>
+    </table>
+  </div>
 
 Humans (H. sapiens) are humans, you know what they are already, I'm not about to write my own whole [wikipedia article](https://en.wikipedia.org/wiki/Human) for them. They come in [[Cultures & Ethnicities|many varieties]].
 

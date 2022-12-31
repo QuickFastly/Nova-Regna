@@ -3,48 +3,45 @@ share: true
 comments: true
 tags: RW, Destrea
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Risky Witches</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Risky Witches</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Risky Witches Flag.png|250]]<br>![[Risky Witches Emblem.png|250]]<br>![[Risky Witches Roundel.png|150]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Risky Witches Flag.png|250]]<br>![[Risky Witches Emblem.png|250]]<br>![[Risky Witches Roundel.png|150]]</span>
   
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Private military<br>Separatist organization<br>Alleged terrorists</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Private military<br>Separatist organization<br>Alleged terrorists</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Founding date</b></td>
-			<td style="padding:4px">1991</td>
+			<td style="padding:4px; vertical-align:middle"><b>Founding date</b></td>
+			<td style="padding:4px; vertical-align:middle">1991</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alternative names</b></td>
-			<td style="padding:4px">Revolutionary State of Espada<br>The Witches<br>Demons of Destrea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alternative names</b></td>
+			<td style="padding:4px; vertical-align:middle">Revolutionary State of Espada<br>The Witches<br>Demons of Destrea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Leader</b></td>
-			<td style="padding:4px">Freya</td>
+			<td style="padding:4px; vertical-align:middle"><b>Leader</b></td>
+			<td style="padding:4px; vertical-align:middle">Freya</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Headquarters</b></td>
-			<td style="padding:4px">Presidio de la Bruja, Espada, Destrea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Headquarters</b></td>
+			<td style="padding:4px; vertical-align:middle">Presidio de la Bruja, Espada, Destrea</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Memento Mori</td>
-  </table>
-</div>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Memento Mori</td>
+    </table>
+  </div>
 
 The Risky Witches are a paramilitary group led by [[Freya]] and comprised primarily of Destrean separatists, [[Spirits|spirits]], and humans with [[Attunement|attunement]]. They present themselves primarily as a revolutionary group seeking independence, but also offer their services as private military contractors and security professionals. They are headquartered at [[Presidia de la Bruja]] in the [[Espada]] prefecture of [[Destrea]], and also control [[Presidio de Tiburón]] in the [[Nalano]] prefecture.
 

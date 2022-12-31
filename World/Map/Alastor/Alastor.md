@@ -3,85 +3,83 @@ share: true
 comments: true
 tags: Alastor
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Alastor</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Alastor</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Alastor flag.png|250]]<br>![[Alastor (Region).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Alastor flag.png|250]]<br>![[Alastor (Region).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-		
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Official name</b></td>
-			<td style="padding:4px">Commonwealth of the Alastor Isles</td>
-		</tr>
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Alastoran</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Sapere Aude</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Unitary state</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Location</b></td>
-			<td style="padding:4px">Ozen</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Year of Formation</b></td>
-			<td style="padding:4px">784</td>
-		</tr>
-	
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Capital</b></td>
-			<td style="padding:4px">Alexandria</td>
+			<td style="padding:4px; vertical-align:middle"><b>Official name</b></td>
+			<td style="padding:4px; vertical-align:middle">Commonwealth of the Alastor Isles</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Government</b></td>
-			<td style="padding:4px">Direct democracy</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Alastoran</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Currency</b></td>
-			<td style="padding:4px">Real - R (ARE)<br>1 CR = ~0.041 R</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Sapere Aude</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>GDP</b></td>
-			<td style="padding:4px">9.91 trillion CR/yr</td>
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Unitary state</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">~6,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Location</b></td>
+			<td style="padding:4px; vertical-align:middle">Ozen</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National animal</b></td>
-			<td style="padding:4px">Violet sabrewing</td>
+			<td style="padding:4px; vertical-align:middle"><b>Year of Formation</b></td>
+			<td style="padding:4px; vertical-align:middle">784</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>National flower</b></td>
-			<td style="padding:4px">Black iris</td>
+			<td style="padding:4px; vertical-align:middle"><b>Capital</b></td>
+			<td style="padding:4px; vertical-align:middle">Alexandria</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Government</b></td>
+			<td style="padding:4px; vertical-align:middle">Direct democracy</td>
 		</tr>
 	
-  </table>
-</div>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Currency</b></td>
+			<td style="padding:4px; vertical-align:middle">Real - R (ARE)<br>1 CR = ~0.041 R</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>GDP</b></td>
+			<td style="padding:4px; vertical-align:middle">9.91 trillion CR/yr</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">~6,000,000</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National animal</b></td>
+			<td style="padding:4px; vertical-align:middle">Violet sabrewing</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>National flower</b></td>
+			<td style="padding:4px; vertical-align:middle">Black iris</td>
+		</tr>
+	
+    </table>
+  </div>
 
 Alastor, officially known as the Commonwealth of the Alastor Isles, is a very small island country on the southern edge of the continent of [[Ozen]]. Its capital, [[Alexandria]], is the central major island of the country. It is neighbored by [[Osun Tanum]], [[Destrea]], and [[Ustonia]].
 

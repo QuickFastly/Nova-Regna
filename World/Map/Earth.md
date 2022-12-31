@@ -2,27 +2,24 @@
 share: true
 comments: true
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Earth</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Earth</span>
   </div>
 
- <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i><br>![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i><br>![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
+ <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px; font-size:10px">![[Flat (Political labeled 3).jpg|250]]<br><i>[[Flat (Political labeled 3).png|Political map (2033)]] // [[Flat (Political labeled 2).png|No cities]] - [[Flat (Political labeled 1).png|Simplified]] - [[Flat (Political unlabeled).png|Blank]]</i><br>![[Flat (Biomes labeled).jpg|250]]<br><i>[[Flat (Biomes labeled).png|Biome map]] // [[Terrain (Biomes labeled).png|With terrain]]</i><br>![[Terrain (Blank+grid).jpg|250]]<br><i>[[Terrain (Blank+grid).png|Grid map]] // [[Terrain (Blank).png|Without grid]] - [[Flat (Blank)2.png|Blank]]</i></span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:0px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px"><i>As of the year 2030</i><br>approx. 2,000,000,000</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle"><i>As of the year 2030</i><br>approx. 2,000,000,000</td>
 		</tr>
 	
     </table>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border-right:2px solid #666; border:2px solid #666; border-collapse:collapse; font-size:10px">![[general population.png|250]]<br><i>Population by country</i><br>![[cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>
+  <span class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border-left:2px solid #666; border-right:2px solid #666; border-bottom:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px; font-size:10px">![[general population.png|250]]<br><i>Population by country</i><br>![[cc _parents.png|250]]<br><i>Population by major ethnic groups</i></span>
 
 Earth is the third planet from the sun and the only astronomical object known to harbor and support life. It is home to an incredibly diverse range of living things, most notably including [[Human|humans]] and [[Spirits|spirits]], both of which belong to a wide range of [[Cultures & Ethnicities|cultures and ethnicities]]. The planet and everything on it also contains [[Mystic Matter|mystic matter]], a substance crucial to the existence and prosperity of life.
 

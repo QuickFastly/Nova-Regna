@@ -2,35 +2,32 @@
 share: true
 comments: true
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Ozen</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Ozen</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Ozen (Continent).jpg|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Ozen (Continent).jpg|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Continent</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Continent</td>
 		</tr>
   
 		<tr style="border-bottom:1px solid #666; solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Ozenite</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Ozenite</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Territories</b></td>
-			<td style="padding:4px">Alastor<br>Corstaea<br>Grenneria<br>Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Territories</b></td>
+			<td style="padding:4px; vertical-align:middle">Alastor<br>Corstaea<br>Grenneria<br>Osun Tanum</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 Ozen is the northeastern continent of [[Earth]]. The countries of [[Alastor]], [[Corstaea]], [[Grenneria]], and [[Osun Tanum]] are located here.
 

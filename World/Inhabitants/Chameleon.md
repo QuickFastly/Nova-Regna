@@ -2,49 +2,47 @@
 share: true
 comments: true
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Chameleon spirit</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Chameleon spirit</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 			
 			<tr>
-				<td style="padding:4px"><b>Artist</b></td>
-				<td style="padding:4px">N/A</td>
+				<td style="padding:4px; vertical-align:middle"><b>Artist</b></td>
+				<td style="padding:4px; vertical-align:middle">N/A</td>
 			</tr>
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Details</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Details</th>
 	</tr>
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Status</b></td>
-			<td style="padding:4px">Thriving</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Status</b></td>
+			<td style="padding:4px; vertical-align:middle">Thriving</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Lifespan</b></td>
-			<td style="padding:4px">150-160 years</td>
+			<td style="padding:4px; vertical-align:middle"><b>Lifespan</b></td>
+			<td style="padding:4px; vertical-align:middle">150-160 years</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Average height</b></td>
-			<td style="padding:4px">5-6 ft<br>152-183 cm</td>
+			<td style="padding:4px; vertical-align:middle"><b>Average height</b></td>
+			<td style="padding:4px; vertical-align:middle">5-6 ft<br>152-183 cm</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Average weight</b></td>
-			<td style="padding:4px">135-230 lb<br>61-104 kg</td>
+			<td style="padding:4px; vertical-align:middle"><b>Average weight</b></td>
+			<td style="padding:4px; vertical-align:middle">135-230 lb<br>61-104 kg</td>
 		</tr>
 		
-  </table>
-</div>
+    </table>
+  </div>
 
 Chameleon [[Spirits|spirits]] are a type of major spirit, and make up approximately 8% of all spirits on [[Earth]]. They have existed since [[Era Dira]].
 

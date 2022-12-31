@@ -2,50 +2,47 @@
 share: true
 comments: true
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Hijiya Corporation</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Hijiya Corporation</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[hijiya logo (text).png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[hijiya logo (text).png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Corporation</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Corporation</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Founding date</b></td>
-			<td style="padding:4px">1931</td>
+			<td style="padding:4px; vertical-align:middle"><b>Founding date</b></td>
+			<td style="padding:4px; vertical-align:middle">1931</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alternative names</b></td>
-			<td style="padding:4px">肱野 株式会社</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alternative names</b></td>
+			<td style="padding:4px; vertical-align:middle">肱野 株式会社</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>President</b></td>
-			<td style="padding:4px">Minori Sakaguchi</td>
+			<td style="padding:4px; vertical-align:middle"><b>President</b></td>
+			<td style="padding:4px; vertical-align:middle">Minori Sakaguchi</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Headquarters</b></td>
-			<td style="padding:4px">Hijiya Tower, Asakawa, Kaidō, Hashiri, Sumitori, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Headquarters</b></td>
+			<td style="padding:4px; vertical-align:middle">Hijiya Tower, Asakawa, Kaidō, Hashiri, Sumitori, Shinzen</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Power the Future</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Power the Future</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 The Hijiya Corporation is a family owned business headquartered in [[Hijiya Tower]], located in the city of [[Hashiri]] in [[Sumitori]], [[Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence programs.
 

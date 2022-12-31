@@ -22,25 +22,25 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first eight) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Irovell people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Irovell people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">approx. 260,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 260,000,000</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Northern Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Northern Osun Tanum</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
   </table>
 </div>
@@ -58,30 +58,30 @@ More TBD
 
 ### Tollan people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Tollan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Tollan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Tolred, Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Tolred, Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Avannarnipi<br><i>(Greenlandic)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Avannarnipi<br><i>(Greenlandic)</i></td>
 		</tr>
   </table>
 </div>
@@ -90,30 +90,30 @@ The Tollan people are descended from the ancient [[Irovell]] people that first s
 
 ### Halli people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Halli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Halli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Halstrand, Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Halstrand, Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 330 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 330 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Halli<br><i>(Norwegian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Halli<br><i>(Norwegian)</i></td>
 		</tr>
   </table>
 </div>
@@ -122,30 +122,30 @@ The Halli people are potentially the first new ethnic group to be formed from th
 
 ### Svalli people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Svalli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Svalli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Sondergård, Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sondergård, Osun Tanum</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 350 AI</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 350 AI</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Svalli<br><i>(Swedish)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Svalli<br><i>(Swedish)</i></td>
 		</tr>
   </table>
 </div>
@@ -154,30 +154,30 @@ The Svalli people are the second new ethnic group to be formed by the [[Irovell]
 
 ### Kolli people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Kolli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kolli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Kolgård, Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Kolgård, Osun Tanum</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 410 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 410 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Kolli<br><i>(Danish)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Kolli<br><i>(Danish)</i></td>
 		</tr>
   </table>
 </div>
@@ -186,30 +186,30 @@ The Kolli people are an ethnic group descended from the Svalli people, originati
 
 ### Amari people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Amari people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Amari people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Amaransk, Tolred, Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Amaransk, Tolred, Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 670 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 670 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Amari<br><i>(Finnish)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Amari<br><i>(Finnish)</i></td>
 		</tr>
   </table>
 </div>
@@ -218,30 +218,30 @@ The Amari people are an ethnic group originally descended from the ancient [[Iro
 
 ### Jomsson people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Jomsson people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Jomsson people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Jomsgård, Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Jomsgård, Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">1104 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">1104 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Halli<br><i>(Norwegian)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Halli<br><i>(Norwegian)</i></td>
 		</tr>
   </table>
 </div>
@@ -250,30 +250,30 @@ The Jomsson people are a cultural group descended from the Halli people, formed 
 
 ### Sarian people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Sarian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Sarian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Sarrac, Corstaea</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sarrac, Corstaea</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">approx. 205 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 205 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Sarian<br><i>(Faroese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Sarian<br><i>(Faroese)</i></td>
 		</tr>
   </table>
 </div>
@@ -282,30 +282,30 @@ The Sarian people are potentially the first new ethnic group to be formed from t
 
 ### Alastorri people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Alastorri people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Alastorri people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Alastor</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Alastor</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">784 AO</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">784 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Andarǫdd<br><i>(Icelandic)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Andarǫdd<br><i>(Icelandic)</i></td>
 		</tr>
   </table>
 </div>

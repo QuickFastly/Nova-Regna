@@ -3,55 +3,52 @@ share: true
 comments: true
 tags: CotF
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Children of the Flame</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Children of the Flame</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[The Brand (Children of the Flame).png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[The Brand (Children of the Flame).png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Religion</td>
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Religion</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Founding date</b></td>
-			<td style="padding:4px">Unknown</td>
+			<td style="padding:4px; vertical-align:middle"><b>Founding date</b></td>
+			<td style="padding:4px; vertical-align:middle">Unknown</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alternative names</b></td>
-			<td style="padding:4px">The Immortal Flame<br>The Flame<br>The Children</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alternative names</b></td>
+			<td style="padding:4px; vertical-align:middle">The Immortal Flame<br>The Flame<br>The Children</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Demonym</b></td>
-			<td style="padding:4px">Listeners</td>
+			<td style="padding:4px; vertical-align:middle"><b>Demonym</b></td>
+			<td style="padding:4px; vertical-align:middle">Listeners</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Leader</b></td>
-			<td style="padding:4px">The Storyteller</td>
+			<td style="padding:4px; vertical-align:middle"><b>Leader</b></td>
+			<td style="padding:4px; vertical-align:middle">The Storyteller</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Headquarters</b></td>
-			<td style="padding:4px">Falkenvall</td>
+			<td style="padding:4px; vertical-align:middle"><b>Headquarters</b></td>
+			<td style="padding:4px; vertical-align:middle">Falkenvall</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Motto</b></td>
-			<td style="padding:4px">Ignis Divini Liberatio</td>
+			<td style="padding:4px; vertical-align:middle"><b>Motto</b></td>
+			<td style="padding:4px; vertical-align:middle">Ignis Divini Liberatio</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 The Children of the Flame are the world's largest religious organization, and one of only three remaining major hierarchical religious organizations in modern times. It is headquartered in the city of [[Falkenvall]] in [[Kolgård]], [[Osun Tanum]].
 

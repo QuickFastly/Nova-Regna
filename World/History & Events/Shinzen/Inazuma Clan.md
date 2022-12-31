@@ -6,40 +6,37 @@ tags: HT, Shinzen
 > [!bug] Issue
 > This page is a first draft, part of a project being actively worked on, and is guaranteed to change in the future.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Inazuma Clan</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Inazuma Clan</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Inazuma kamon.jpg|250]]<br>![[Inazuma hanko.jpg|150]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; text-align:center; padding-top:4px">![[Inazuma kamon.jpg|250]]<br>![[Inazuma hanko.jpg|150]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 	
-		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Type</b></td>
-			<td style="padding:4px">Noble Clan</td>
+		<tr style="border:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Type</b></td>
+			<td style="padding:4px; vertical-align:middle">Noble Clan</td>
 		</tr>
 		
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Years active</b></td>
-			<td style="padding:4px">1141-1504<br>1966-present</td>
+		<tr style="border:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Years active</b></td>
+			<td style="padding:4px; vertical-align:middle">1141-1504<br>1966-present</td>
 		</tr>
 		
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Historical location</b></td>
-			<td style="padding:4px">Shizumori, Hayagawa, Shinzen</td>
+		<tr style="border:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Historical location</b></td>
+			<td style="padding:4px; vertical-align:middle">Shizumori, Hayagawa, Shinzen</td>
 		</tr>
 		
-		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Current location</b></td>
-			<td style="padding:4px">Shiga, Onsai, Shinzen</td>
+		<tr style="border:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Current location</b></td>
+			<td style="padding:4px; vertical-align:middle">Shiga, Onsai, Shinzen</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 The Inazuma [[Clans of Shinzen|Clan]] (電) was a small family of [[Fox|fox spirits]] that lived in relative seclusion, known primarily for their affinity with lightning - known now to have been a method of utilizing [[Attunement]] passed down through the family as tradition - who were given their noble status and lordship over their land by the Imperial Court. Their ancestral lands are historically known as [[Shizumori]], found in northern [[Hayagawa]]. The family resisted the [[Kagetsu Clan|Kagetsu]] shogunate and was almost completely wiped out prior to the [[Siege of Soukotan]] at the end of the [[History of Shinzen#Ikute period 1253-1504|Ikute period]].
 

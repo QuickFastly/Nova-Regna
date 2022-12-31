@@ -19,30 +19,30 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first five) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shisuya people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Shisuya people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">approx. 460,000,000</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">approx. 460,000,000</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Southern Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Southern Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">Sometime in Era Dira</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Sometime in Era Dira</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Suyago<br><i>(Eastern Japanese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Suyago<br><i>(Eastern Japanese)</i></td>
 		</tr>
   </table>
 </div>
@@ -60,30 +60,30 @@ More TBD
 
 ### Kinu people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Kinu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kinu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Tozawa, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Tozawa, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">15 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">15 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Kinugo<br><i>(Hokkaido Ainu)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Kinugo<br><i>(Hokkaido Ainu)</i></td>
 		</tr>
   </table>
 </div>
@@ -92,30 +92,30 @@ The Kinu people are an ethnic group thought to be descended from the [[Shisuya]]
 
 ### Okyu people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Okyu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Okyu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Okina, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Okina, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">15 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">15 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Okyugo<br><i>(Central Okinawan)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Okyugo<br><i>(Central Okinawan)</i></td>
 		</tr>
   </table>
 </div>
@@ -124,30 +124,30 @@ The Okyu people are an ethnic group thought to be descended from the [[Shisuya]]
 
 ### Anzu people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Anzu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Anzu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Kiyoshiri, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Kiyoshiri, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">15 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">15 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Anzugo<br><i>(Western Japanese)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Anzugo<br><i>(Western Japanese)</i></td>
 		</tr>
   </table>
 </div>
@@ -156,30 +156,30 @@ The Anzu people are an ethnic group thought to be descended from the [[Shisuya]]
 
 ### Toru people
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+<div style="float:right; clear:right">
+  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Toru people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Toru people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Population</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Place of origin</b></td>
-			<td style="padding:4px">Kenshiri, Shinzen</td>
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Kenshiri, Shinzen</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Time of origin</b></td>
-			<td style="padding:4px">15 AO or earlier</td>
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">15 AO or earlier</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Language</b></td>
-			<td style="padding:4px">Torugo<br><i>(Kyushu dialects)</i></td>
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Torugo<br><i>(Kyushu dialects)</i></td>
 		</tr>
   </table>
 </div>

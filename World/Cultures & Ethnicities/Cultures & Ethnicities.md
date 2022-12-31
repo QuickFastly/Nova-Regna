@@ -7,7 +7,7 @@ comments: true
 
 The population of [[Earth]], both [[Human|human]] and [[Spirits|spirit]], is comprised of many distinct ethnic and cultural groups that have developed, proliferated, appeared, and disappeared throughout history. Today, ethnicity is typically associated primarily with the ancestry and culture of the many nations and states of the world, but archaeological discoveries dated between 2000 and 3000 years old have shown that the many distinct groups that exist today all diverged from seven major ethnic groups.
 
-<span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse; font-size:10px">![[cc _parents.png|250]]<br><i>World population by major ethnic groups</i><br><br>![[Flat (Indigenous skin tones).jpg|250]]<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>
+<span align="center" style="float:right; clear:right; width:260px; margin-left:14px; font-size:10px">![[cc _parents.png|250]]<br><i>World population by major ethnic groups</i><br><br>![[Flat (Indigenous skin tones).jpg|250]]<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>
 
 The seven major ethnic groups are as follows.
 - [[Chiyan]], originating from central [[Sangyon]]

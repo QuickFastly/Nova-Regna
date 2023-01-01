@@ -28,8 +28,8 @@ comments: true
 >
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first 14) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Cirazan people</th>
 	</tr>
@@ -64,8 +64,8 @@ More TBD
 
 ### Alessan people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Alessan people</th>
 	</tr>
@@ -96,8 +96,8 @@ The Alessan people are the first new ethnic group to be formed from the [[Ciraza
 
 ### Savorran people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Savorran people</th>
 	</tr>
@@ -128,8 +128,8 @@ The Savorran people are the second new ethnic group to be formed from the [[Cira
 
 ### Rovi people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Rovi people</th>
 	</tr>
@@ -160,8 +160,8 @@ The Rovi people are the third new ethnic group to be formed from the [[Cirazan]]
 
 ### Parene people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Parene people</th>
 	</tr>
@@ -192,8 +192,8 @@ The Parene people are an ethnic group descended from the Rovi people. They had s
 
 ### Taren people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Taren people</th>
 	</tr>
@@ -224,8 +224,8 @@ The Taren people are an ethnic group descended from the Savorran people, formed 
 
 ### Luzian people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Luzian people</th>
 	</tr>
@@ -256,8 +256,8 @@ The Luzian people are an ethnic group descended from the Savorran people, origin
 
 ### Tonosian people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Tonosian people</th>
 	</tr>
@@ -288,8 +288,8 @@ The Tonosian people are an ethnic group descended from the Alessan people, origi
 
 ### Corosian people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Corosian people</th>
 	</tr>
@@ -320,8 +320,8 @@ The Corosian people are an ethnic group descended from the Alessan people, origi
 
 ### Granazian people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Granazian people</th>
 	</tr>
@@ -352,8 +352,8 @@ The Granazian people are an ethnic group descended from the Alessan people, orig
 
 ### Southern islanders
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Southern islanders</th>
 	</tr>
@@ -384,8 +384,8 @@ The Southern Islanders are the inhabitants of [[Isla Sofia]], among which exist 
 
 ### Eastern islanders
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Eastern islanders</th>
 	</tr>
@@ -416,8 +416,8 @@ The Eastern Islanders are the inhabitants of the [[Nalano Archipelago]] near [[D
 
 ### First Graven people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">First Graven people</th>
 	</tr>
@@ -448,8 +448,8 @@ The First Graven people are an ethnic group with numerous subcultures descended 
 
 ### Native Arkan people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Native Arkan people</th>
 	</tr>
@@ -480,8 +480,8 @@ The Native Arkan people are an ethnic group with numerous subcultures descended 
 
 ### Old Oxi people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Old Oxi people</th>
 	</tr>

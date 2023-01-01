@@ -19,8 +19,8 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first five) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Chiyan people</th>
 	</tr>
@@ -60,8 +60,8 @@ More TBD
 
 ### Sun people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Sun people</th>
 	</tr>
@@ -92,8 +92,8 @@ The Sun people are the first new ethnic group to be formed from the [[Chiyan]] p
 
 ### Taesian people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Taesian people</th>
 	</tr>
@@ -124,8 +124,8 @@ The Taesian people are the second ethnic group of [[Chiyan]] lineage that came t
 
 ### Jeonese people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Jeonese people</th>
 	</tr>
@@ -156,8 +156,8 @@ The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to
 
 ### Cheosan people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Cheosan people</th>
 	</tr>

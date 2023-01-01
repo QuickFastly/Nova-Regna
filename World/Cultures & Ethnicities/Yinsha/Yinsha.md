@@ -21,8 +21,8 @@ comments: true
 > 
 > This meta note will be removed after enough development has occurred for every initial subgroup (the first seven) to get their own page and be recognizably distinct.
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yinsha people</th>
 	</tr>
@@ -62,8 +62,8 @@ More TBD
 
 ### Suo people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Suo people</th>
 	</tr>
@@ -94,8 +94,8 @@ The Suo people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Xi people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Xi people</th>
 	</tr>
@@ -126,8 +126,8 @@ The Xi people are an ethnic group thought to be descended from the [[Yinsha]] th
 
 ### Fa people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Fa people</th>
 	</tr>
@@ -158,8 +158,8 @@ The Fa people are an ethnic group thought to be descended from the [[Yinsha]] th
 
 ### Yao people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yao people</th>
 	</tr>
@@ -190,8 +190,8 @@ The Yao people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Mei people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Mei people</th>
 	</tr>
@@ -222,8 +222,8 @@ The Mei people are an ethnic group thought to be descended from the [[Yinsha]] t
 
 ### Heling people
 
-<div style="float:right; clear:right">
-  <table style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
 		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Heling people</th>
 	</tr>

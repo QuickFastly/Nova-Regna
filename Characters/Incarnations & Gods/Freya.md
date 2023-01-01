@@ -103,7 +103,7 @@ tags: CotF, RW
     </table>
   </div>
 
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![[freya ref (madbuns).jpg]]<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[freya ref (madbuns).jpg]]<br>First Freya reference - <i>Artist: <a href=https://twitter.com/Mad_buns>Madbuns</a></i></span>
 
 Freya is a [[Cat|cat spirit]] and one of the three immortal [[Incarnations]]. She is one of the three deities of the [[Children of the Flame]], along with [[Florian]] and [[Kerosyn]]. She is also the leader of the [[Risky Witches]] and was responsible for [[The Big Event]].
 

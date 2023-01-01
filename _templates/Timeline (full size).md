@@ -1,5 +1,5 @@
-<div style="margin:auto; width:95%">
-	<table style="margin:14px 0px 7px 14px; border:1px; line-height:1.5; border-collapse:collapse; font-size:small">
+<div class="" style="margin:auto; width:95%">
+	<table class="" style="margin:14px 0px 7px 14px; border:1px; line-height:1.5; border-collapse:collapse; font-size:small">
 			<!-- If you want any clickable links in this timeline, you have to use the html method (<a href="url">text</a>) rather than markdown, and remember that relative paths are not supported this way in Obsidian -->
 		<tr>
 			<th colspan="2" style="border-bottom:2px solid #666666; font-size:larger; padding:8px; text-align:center; vertical-align:middle">Timeline</th>

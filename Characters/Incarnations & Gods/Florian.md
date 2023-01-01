@@ -103,7 +103,7 @@ tags: CotF
     </table>
   </div>
 
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;">![[florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[florian ref (wrathes).png]]<br>First Florian reference - <i>Artist: <a href=https://twitter.com/wrathes>wrathes</a></i></span>
 
 Florian is a [[Crow|crow spirit]] and one of the three immortal [[Incarnations]]. He is one of the three deities of the [[Children of the Flame]], along with [[Freya]] and [[Kerosyn]].
 

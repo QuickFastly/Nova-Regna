@@ -103,7 +103,7 @@ tags: CotF
     </table>
 </div>
 
-<span style="font-size:smaller; float:right; clear:right; width:260px; margin:14 0 7 14;" >![[kerosyn ref (rain).jpg]]<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>
+<span style="float:right; clear:right; width:260px; margin:14px 0px 7px 14px; text-align:center; font-size:small">![[kerosyn ref (rain).jpg]]<br>First Kerosyn reference - <i>Artist: <a href=https://twitter.com/RanqiLi>Rain</a></i></span>
 
 Kerosyn is a [[Fox|fox spirit]] and one of the three immortal [[Incarnations]]. They are one of the three deities of the [[Children of the Flame]], along with [[Freya]] and [[Florian]].
 

@@ -3,107 +3,105 @@ share: true
 comments: true
 tags: RW
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Dvalinn</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Dvalinn</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 			
 			<tr>
-				<td style="padding:4px"><b>Artist</b></td>
-				<td style="padding:4px">We'll see</td>
+				<td style="padding:4px; vertical-align:middle"><b>Artist</b></td>
+				<td style="padding:4px; vertical-align:middle">We'll see</td>
 			</tr>
 			<tr>
-				<td style="padding:4px"><b>Image license</b></td>
-				<td style="padding:4px">We'll see</td>
+				<td style="padding:4px; vertical-align:middle"><b>Image license</b></td>
+				<td style="padding:4px; vertical-align:middle">We'll see</td>
 			</tr>
 		
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Naming</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Naming</th>
 	</tr>
 			
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Birth name</b></td>
-			<td style="padding:4px">Unknown</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birth name</b></td>
+			<td style="padding:4px; vertical-align:middle">Unknown</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alias(es)</b></td>
-			<td style="padding:4px">N/A</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alias(es)</b></td>
+			<td style="padding:4px; vertical-align:middle">N/A</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Nickname(s)</b></td>
-			<td style="padding:4px">Princess</td>
+			<td style="padding:4px; vertical-align:middle"><b>Nickname(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">Princess</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Title(s)</b></td>
-			<td style="padding:4px">General (RW)</td>
+			<td style="padding:4px; vertical-align:middle"><b>Title(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">General (RW)</td>
 		</tr>
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Profile</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Profile</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Status</b></td>
-			<td style="padding:4px">Alive</td>
+			<td style="padding:4px; vertical-align:middle"><b>Status</b></td>
+			<td style="padding:4px; vertical-align:middle">Alive</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Species</b></td>
-			<td style="padding:4px">Deer spirit</td>
+			<td style="padding:4px; vertical-align:middle"><b>Species</b></td>
+			<td style="padding:4px; vertical-align:middle">Deer spirit</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birthplace</b></td>
-			<td style="padding:4px">Sondergård, Osun Tanum</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birthplace</b></td>
+			<td style="padding:4px; vertical-align:middle">Sondergård, Osun Tanum</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Ethnicity</b></td>
-			<td style="padding:4px">Svalli</td>
+			<td style="padding:4px; vertical-align:middle"><b>Ethnicity</b></td>
+			<td style="padding:4px; vertical-align:middle">Svalli</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Pronouns</b></td>
-			<td style="padding:4px">He/him</td>
+			<td style="padding:4px; vertical-align:middle"><b>Pronouns</b></td>
+			<td style="padding:4px; vertical-align:middle">He/him</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Sexuality</b></td>
-			<td style="padding:4px">Repressed and unsure</td>
+			<td style="padding:4px; vertical-align:middle"><b>Sexuality</b></td>
+			<td style="padding:4px; vertical-align:middle">Repressed and unsure</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birth date</b></td>
-			<td style="padding:4px">1971</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birth date</b></td>
+			<td style="padding:4px; vertical-align:middle">1971</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Age</b></td>
-			<td style="padding:4px">62</td>
+			<td style="padding:4px; vertical-align:middle"><b>Age</b></td>
+			<td style="padding:4px; vertical-align:middle">62</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Height</b></td>
-			<td style="padding:4px">168 cm / 5'6" <small>(w/o antlers)</small><br>208 cm / 6'10" <small>(w/ antlers)</small></td>
+			<td style="padding:4px; vertical-align:middle"><b>Height</b></td>
+			<td style="padding:4px; vertical-align:middle">168 cm / 5'6" <small>(w/o antlers)</small><br>208 cm / 6'10" <small>(w/ antlers)</small></td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Weight</b></td>
-			<td style="padding:4px">64 kg / 141 lb</td>
+			<td style="padding:4px; vertical-align:middle"><b>Weight</b></td>
+			<td style="padding:4px; vertical-align:middle">64 kg / 141 lb</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 Dvalinn is a [[Deer|Deer spirit]] and one of the five mortal [[Incarnations]]. He is loyal to [[Freya]] and the [[Risky Witches]], and participated in [[The Big Event]].
 

@@ -6,103 +6,100 @@ tags: HT
 > [!bug] Issue
 > Just the basics, still under active development and subject to change.
 
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Shun Inazuma</th>
-	</tr></table>
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Shun Inazuma</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[blankpage.png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
   
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Naming</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Naming</th>
 	</tr>
 			
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Full name</b></td>
-			<td style="padding:4px">Shun Inazuma</td>
+			<td style="padding:4px; vertical-align:middle"><b>Full name</b></td>
+			<td style="padding:4px; vertical-align:middle">Shun Inazuma</td>
 		</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alternate name(s)</b></td>
-			<td style="padding:4px">電瞬</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alternate name(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">電瞬</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alias(es)</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alias(es)</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Nickname(s)</b></td>
-			<td style="padding:4px">TBD</td>
+			<td style="padding:4px; vertical-align:middle"><b>Nickname(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Title</b></td>
-			<td style="padding:4px">武士 Bushi (former)<br>士族 Shizoku (symbolic)</td>
+			<td style="padding:4px; vertical-align:middle"><b>Title</b></td>
+			<td style="padding:4px; vertical-align:middle">武士 Bushi (former)<br>士族 Shizoku (symbolic)</td>
 		</tr>
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Profile</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Profile</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Status</b></td>
-			<td style="padding:4px">Alive</td>
+			<td style="padding:4px; vertical-align:middle"><b>Status</b></td>
+			<td style="padding:4px; vertical-align:middle">Alive</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Species</b></td>
-			<td style="padding:4px">Fox spirit</td>
+			<td style="padding:4px; vertical-align:middle"><b>Species</b></td>
+			<td style="padding:4px; vertical-align:middle">Fox spirit</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birthplace</b></td>
-			<td style="padding:4px">Taihua, Yuezou, Shaohou</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birthplace</b></td>
+			<td style="padding:4px; vertical-align:middle">Taihua, Yuezou, Shaohou</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Ethnicity</b></td>
-			<td style="padding:4px">Yao-Shisuya</td>
+			<td style="padding:4px; vertical-align:middle"><b>Ethnicity</b></td>
+			<td style="padding:4px; vertical-align:middle">Yao-Shisuya</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Pronouns</b></td>
-			<td style="padding:4px">They/he/she</td>
+			<td style="padding:4px; vertical-align:middle"><b>Pronouns</b></td>
+			<td style="padding:4px; vertical-align:middle">They/he/she</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Sexuality</b></td>
-			<td style="padding:4px">Ace</td>
+			<td style="padding:4px; vertical-align:middle"><b>Sexuality</b></td>
+			<td style="padding:4px; vertical-align:middle">Ace</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birth date</b></td>
-			<td style="padding:4px">Spring 1482</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birth date</b></td>
+			<td style="padding:4px; vertical-align:middle">Spring 1482</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Age</b></td>
-			<td style="padding:4px">551</td>
+			<td style="padding:4px; vertical-align:middle"><b>Age</b></td>
+			<td style="padding:4px; vertical-align:middle">551</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Height</b></td>
-			<td style="padding:4px">132 cm / 4'4"</td>
+			<td style="padding:4px; vertical-align:middle"><b>Height</b></td>
+			<td style="padding:4px; vertical-align:middle">132 cm / 4'4"</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Weight</b></td>
-			<td style="padding:4px">37 kg / 82 lb</td>
+			<td style="padding:4px; vertical-align:middle"><b>Weight</b></td>
+			<td style="padding:4px; vertical-align:middle">37 kg / 82 lb</td>
 		</tr>
 	
-  </table>
-</div>
+    </table>
+  </div>
 
 Shun Inazuma is a [[Fox|fox spirit]], and one of two surviving members of the [[Inazuma Clan]]. Together with their wife, [[Nori Inazuma]], they traveled the world for several centuries and appear in many disparate historical events as a result. They currently live in rural [[Shiga]] in [[Onsai]], [[Shinzen]].
 

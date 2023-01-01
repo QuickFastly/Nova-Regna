@@ -3,103 +3,101 @@ share: true
 comments: true
 tags: CotF
 ---
-<div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-  <table style="float:right; clear:right; width:260px; margin:0 0 0 14; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
-	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center">Kerosyn</th>
-	</tr></table>
+
+<div>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Kerosyn</span>
   </div>
 
-  <span align="center" style="float:right; clear:right; width:260px; margin:0 0 0 14; padding:4 0 0 0; border:2px solid #666; border-collapse:collapse">![[Kerosyn portrait.png|250]]</span>
+  <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Kerosyn portrait.png|250]]</span>
 
-  <div style="float:right; clear:right; width:260px; margin:0 0 0 14; border-collapse:collapse">
-    <table style="float:right; clear:right; width:260px; margin:0 0 7 14; border:2px solid #666; border-top:1px solid #666; line-height:1.5; border-collapse:collapse; font-size:smaller">
+  <div class="" style="float:right; clear:right">
+    <table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-collapse:collapse; line-height:1.5; font-size:small">
 			
 			<tr>
-				<td style="padding:4px"><b>Artist</b></td>
-				<td style="padding:4px"><a href="https://mogy64.newgrounds.com/">mogy64</a></td>
+				<td style="padding:4px; vertical-align:middle"><b>Artist</b></td>
+				<td style="padding:4px; vertical-align:middle"><a href="https://mogy64.newgrounds.com/">mogy64</a></td>
 			</tr>
 			<tr>
-				<td style="padding:4px"><b>Image license</b></td>
-				<td style="padding:4px"><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></td>
+				<td style="padding:4px; vertical-align:middle"><b>Image license</b></td>
+				<td style="padding:4px; vertical-align:middle"><a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a></td>
 			</tr>
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Naming</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Naming</th>
 	</tr>
 			
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
-			<td style="padding:4px"><b>Birth name</b></td>
-			<td style="padding:4px">Unknown</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birth name</b></td>
+			<td style="padding:4px; vertical-align:middle">Unknown</td>
 		</tr>
 			
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Alias(es)</b></td>
-			<td style="padding:4px">The Deliverer</td>
+			<td style="padding:4px; vertical-align:middle"><b>Alias(es)</b></td>
+			<td style="padding:4px; vertical-align:middle">The Deliverer</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Nickname(s)</b></td>
-			<td style="padding:4px">Stupid</td>
+			<td style="padding:4px; vertical-align:middle"><b>Nickname(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">Stupid</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Title(s)</b></td>
-			<td style="padding:4px">God of Idiots</td>
+			<td style="padding:4px; vertical-align:middle"><b>Title(s)</b></td>
+			<td style="padding:4px; vertical-align:middle">God of Idiots</td>
 		</tr>
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center">Profile</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Profile</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Status</b></td>
-			<td style="padding:4px">Alive</td>
+			<td style="padding:4px; vertical-align:middle"><b>Status</b></td>
+			<td style="padding:4px; vertical-align:middle">Alive</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Species</b></td>
-			<td style="padding:4px">Fox spirit</td>
+			<td style="padding:4px; vertical-align:middle"><b>Species</b></td>
+			<td style="padding:4px; vertical-align:middle">Fox spirit</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birthplace</b></td>
-			<td style="padding:4px">Unknown</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birthplace</b></td>
+			<td style="padding:4px; vertical-align:middle">Unknown</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Ethnicity</b></td>
-			<td style="padding:4px">Unknown</td>
+			<td style="padding:4px; vertical-align:middle"><b>Ethnicity</b></td>
+			<td style="padding:4px; vertical-align:middle">Unknown</td>
 		</tr>	
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Pronouns</b></td>
-			<td style="padding:4px">They/he</td>
+			<td style="padding:4px; vertical-align:middle"><b>Pronouns</b></td>
+			<td style="padding:4px; vertical-align:middle">They/he</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Sexuality</b></td>
-			<td style="padding:4px">Ace</td>
+			<td style="padding:4px; vertical-align:middle"><b>Sexuality</b></td>
+			<td style="padding:4px; vertical-align:middle">Ace</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Birth date</b></td>
-			<td style="padding:4px">1015 ED</td>
+			<td style="padding:4px; vertical-align:middle"><b>Birth date</b></td>
+			<td style="padding:4px; vertical-align:middle">1015 ED</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Age</b></td>
-			<td style="padding:4px">3,048</td>
+			<td style="padding:4px; vertical-align:middle"><b>Age</b></td>
+			<td style="padding:4px; vertical-align:middle">3,048</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Height</b></td>
-			<td style="padding:4px">147 cm / 4'10"</td>
+			<td style="padding:4px; vertical-align:middle"><b>Height</b></td>
+			<td style="padding:4px; vertical-align:middle">147 cm / 4'10"</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">
-			<td style="padding:4px"><b>Weight</b></td>
-			<td style="padding:4px">9 kg / 20 lb</td>
+			<td style="padding:4px; vertical-align:middle"><b>Weight</b></td>
+			<td style="padding:4px; vertical-align:middle">9 kg / 20 lb</td>
 		</tr>
 	
     </table>

@@ -5,7 +5,7 @@ tags: Ustonia
 ---
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Ustonia</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Ustonia</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[Ustonia flag.png|250]]<br>![[Ustonia (Region).jpg|250]]</span>

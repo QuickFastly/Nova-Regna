@@ -25,7 +25,7 @@ comments: true
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Irovell people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Irovell people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -61,7 +61,7 @@ More TBD
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Tollan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Tollan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -93,7 +93,7 @@ The Tollan people are descended from the ancient [[Irovell]] people that first s
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Halli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Halli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -125,7 +125,7 @@ The Halli people are potentially the first new ethnic group to be formed from th
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Svalli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Svalli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -157,7 +157,7 @@ The Svalli people are the second new ethnic group to be formed by the [[Irovell]
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kolli people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Kolli people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -189,7 +189,7 @@ The Kolli people are an ethnic group descended from the Svalli people, originati
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Amari people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Amari people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -221,7 +221,7 @@ The Amari people are an ethnic group originally descended from the ancient [[Iro
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Jomsson people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Jomsson people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -253,7 +253,7 @@ The Jomsson people are a cultural group descended from the Halli people, formed 
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Sarian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Sarian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -285,7 +285,7 @@ The Sarian people are potentially the first new ethnic group to be formed from t
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Alastorri people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Alastorri people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

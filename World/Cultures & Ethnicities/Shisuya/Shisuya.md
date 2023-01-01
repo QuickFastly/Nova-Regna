@@ -22,7 +22,7 @@ comments: true
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Shisuya people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Shisuya people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -63,7 +63,7 @@ More TBD
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kinu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Kinu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -95,7 +95,7 @@ The Kinu people are an ethnic group thought to be descended from the [[Shisuya]]
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Okyu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Okyu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -127,7 +127,7 @@ The Okyu people are an ethnic group thought to be descended from the [[Shisuya]]
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Anzu people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Anzu people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -159,7 +159,7 @@ The Anzu people are an ethnic group thought to be descended from the [[Shisuya]]
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Toru people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Toru people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

@@ -25,7 +25,7 @@ comments: true
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Farodet people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Farodet people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -61,7 +61,7 @@ More TBD
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Roslan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Roslan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -93,7 +93,7 @@ The Roslan people are the first new ethnic group to be formed from the [[Farodet
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Vyrran people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Vyrran people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -125,7 +125,7 @@ The Vyrran people are the second new ethnic group to be formed from the [[Farode
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Kiel people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Kiel people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -157,7 +157,7 @@ The Kiel people are the third new ethnic group to be formed from the [[Farodet]]
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Valosian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Valosian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -189,7 +189,7 @@ The Valosian people are the fourth new ethnic group to be formed from the [[Faro
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Markaskian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Markaskian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -221,7 +221,7 @@ The Markaskian people are the fifth new ethnic group to be formed from the [[Far
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Sarab people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Sarab people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -253,7 +253,7 @@ The Sarab people are an ethnic group descended from the Markaskian people, forme
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Storran people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Storran people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -285,7 +285,7 @@ The Storran people are an ethnic group descended from the Valosian people, origi
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Nazene people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Nazene people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

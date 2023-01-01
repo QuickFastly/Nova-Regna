@@ -7,7 +7,7 @@ tags: HT, Shinzen
 > This page is a first draft, part of a project being actively worked on, and is guaranteed to change in the future.
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Inazuma Clan</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-weight:bold; font-size:larger; text-align:center; padding:4px">Inazuma Clan</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; text-align:center; padding-top:4px">![[Inazuma kamon.jpg|250]]<br>![[Inazuma hanko.jpg|150]]</span>

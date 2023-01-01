@@ -24,7 +24,7 @@ comments: true
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yinsha people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Yinsha people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -65,7 +65,7 @@ More TBD
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Suo people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Suo people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -97,7 +97,7 @@ The Suo people are an ethnic group thought to be descended from the [[Yinsha]] t
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Xi people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Xi people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -129,7 +129,7 @@ The Xi people are an ethnic group thought to be descended from the [[Yinsha]] th
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Fa people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Fa people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -161,7 +161,7 @@ The Fa people are an ethnic group thought to be descended from the [[Yinsha]] th
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Yao people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Yao people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -193,7 +193,7 @@ The Yao people are an ethnic group thought to be descended from the [[Yinsha]] t
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Mei people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Mei people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -225,7 +225,7 @@ The Mei people are an ethnic group thought to be descended from the [[Yinsha]] t
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Heling people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Heling people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

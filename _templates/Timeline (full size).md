@@ -2,7 +2,7 @@
 	<table class="" style="margin:14px 0px 7px 14px; border:1px; line-height:1.5; border-collapse:collapse; font-size:small">
 			<!-- If you want any clickable links in this timeline, you have to use the html method (<a href="url">text</a>) rather than markdown, and remember that relative paths are not supported this way in Obsidian -->
 		<tr>
-			<th colspan="2" style="border-bottom:2px solid #666666; font-size:larger; padding:8px; text-align:center; vertical-align:middle">Timeline</th>
+			<th colspan="2" style="border-bottom:2px solid #666666; font-size:larger; padding:8px; font-weight:bold; text-align:center; vertical-align:middle">Timeline</th>
 		</tr>
 		<tr><!-- You can change the color of this border to signify different things -->
 			<td style="border-right:4px solid #666666; padding:8px; text-align:right; width:50%; vertical-align:middle"><b>2033</b><br>10/30<br><i>Current time</i></td>

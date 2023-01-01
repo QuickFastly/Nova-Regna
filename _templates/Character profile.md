@@ -1,5 +1,5 @@
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Character Name</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Character Name</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
@@ -23,7 +23,7 @@
 			</tr><!-- This example is a clickable link. Please use this method! -->
 		
 	<tr><!--  If you remove the artist credit blocks, please also remove the border-top tag on the first block below the image if present, like it is here -->
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Naming</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Naming</th>
 	</tr>
 			<!-- Many of the blocks in this section are very optional, so feel free to remove the ones you don't need, or add different ones! -->
 		<tr style="border-bottom:1px solid #666; border-top:2px solid #666">
@@ -52,7 +52,7 @@
 		</tr><!-- Remember to use the <br> tag for line breaks! -->
 	
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; text-align:center; vertical-align:middle">Profile</th>
+		<th colspan="2" style="border-bottom:2px solid #666; border-top:2px solid #666; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Profile</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

@@ -26,7 +26,7 @@ comments: true
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Exilan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Exilan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -62,7 +62,7 @@ More TBD
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Carlanders</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Carlanders</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -94,7 +94,7 @@ Carlanders are the first new ethnic group to be formed from the [[Exilan]] peopl
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Mandese people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Mandese people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -126,7 +126,7 @@ The Mandese people are the second new ethnic group to be formed from the [[Exila
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Allenesian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Allenesian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -158,7 +158,7 @@ The Allenesian people are the third new ethnic group to be formed from the [[Exi
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Oster people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Oster people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -190,7 +190,7 @@ The Oster people are an ethnic group descended from the Allenesian people that d
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Vastian people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Vastian people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -222,7 +222,7 @@ The Vastian people are an ethnic group descended from the Allenesian people that
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Macan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Macan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -254,7 +254,7 @@ The Macan people are a cultural melting pot, formed from a variety of Mandese, A
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Oxi people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Oxi people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -286,7 +286,7 @@ The Oxi people are descended from the Mandese people of [[Manden]], who identifi
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Arkan people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Arkan people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">
@@ -318,7 +318,7 @@ The Arkan people are descended from the Allenesian people of [[Hartmond]], who i
 <div class="" style="float:right; clear:right">
   <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
 	<tr>
-		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; text-align:center; vertical-align:middle">Graven people</th>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Graven people</th>
 	</tr>
 		
 		<tr style="border-bottom:1px solid #666">

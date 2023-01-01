@@ -4,7 +4,7 @@ comments: true
 ---
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; text-align:center; padding:4px">Humans</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Humans</span>
   
 	<table class="" style="float:right; clear:right; width:260px; margin-left:14px; margin-bottom:7px; border:2px solid #666; border-top:0px; border-collapse:collapse; line-height:1.5; font-size:small">
 		<tr style="border-bottom:1px solid #666">

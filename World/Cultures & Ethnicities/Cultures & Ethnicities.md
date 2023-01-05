@@ -18,7 +18,7 @@ The seven major ethnic groups are as follows.
 - [[Shisuya]], originating from southern [[Shinzen]]
 - [[Yinsha]], originating from western [[Shaohou]]
 
-While these seven groups have been scientifically proven to exist, are recognizable as genetically distinct from one another, and typically each share some distinct common physical features, the common perspective on the existence of the many other ethnic groups descended from the first seven is that they are primarily social constructs, with identities formed through the natural development of new cultures that tended to remain grouped together throughout history, especially with the development of new languages, and that the apparent physical features shared by some smaller, more recently developed ethnic groups being features that were always present, but had become more localized to these new ethnic groups over time due to societal rules and preferences.
+While these seven groups have existed as distinctly separate groups for all of known history, with most people part of a given group typically sharing some common physical features, the scientific consensus on these groups is that their separateness is a social construct, and not a biological attribute, with identities formed through the natural development of new cultures that tended to remain grouped together throughout history, especially with the development of new languages, and that the apparent physical features shared by some smaller, more recently developed ethnic groups being features that were always present, but had become more localized to these new ethnic groups over time due to societal rules and preferences.
 
 ## History
 

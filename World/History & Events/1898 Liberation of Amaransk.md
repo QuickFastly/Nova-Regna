@@ -25,7 +25,7 @@ The battle commenced shortly after sunrise with the Corstaean battalion utilizin
 
 While the battle was ultimately a complete victory for Corstaea and saw all Grennerian forces wiped out, 714 Corstaean soldiers were lost, mostly in the initial charge. The survivors were all allowed to return home as soon as reinforcements arrived due to the trauma, and this marked the final time charge tactics would be utilized by the Corstaean army.
 
-The use of snipers in this battle quickly gained great cultural significance among Corstaeans after the battle's outcome reached newspapers due to the accomplishments of Sekondløitnant [[Øyvind Krag]], who single handedly claimed 14 kills from over 2,000 meters, the furthest of which being confirmed as 2,174 meters. Many Corstaean soldiers that survived the battle praised Krag as the sole reason they were able to return home alive.
+The use of snipers in this battle quickly gained great cultural significance among Corstaeans after the battle's outcome reached newspapers due to the accomplishments of Sekondløitnant [[Øyvind Krag]], who single handedly suppressed the utilization of cannons and mounted guns by claiming 14 kills from over 2,000 meters, the furthest of which being confirmed as 2,174 meters. Many Corstaean soldiers that survived the battle praised Krag as the sole reason they were able to return home alive, and he took on the role of a folk hero among Corstaean people both for his achievements, and for a popular story that credits the ending of charge tactics to Krag for getting into a fistfight with his commanding officer after seeing the outcome of this battle.
 
 -----
 > [!cite] Author info

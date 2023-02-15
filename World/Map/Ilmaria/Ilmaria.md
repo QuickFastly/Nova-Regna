@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Ilmaria
+tags: Ilmaria, maplocation
+location: [1282.1614, 3132.483]
+mapmarker: country
 ---
 
 <div>

@@ -1,6 +1,8 @@
 ---
 share: true
-tags: HT, Shinzen
+tags: HT, Shinzen, maplocation
+location: [1191.7069, 2426.7021]
+mapmarker: location
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.

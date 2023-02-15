@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: OsunTanum
+tags: OsunTanum, maplocation
+location: [1983.6113, 5440.4796]
+mapmarker: country
 ---
 
 <div>

@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Shinzen
+tags: Shinzen, maplocation
+location: [1146.3969, 2464.9742]
+mapmarker: country
 ---
 
 <div>

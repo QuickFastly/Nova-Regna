@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Sangyon
+tags: Sangyon, maplocation
+location: [2447.4733, 1627.7598]
+mapmarker: country
 ---
 
 <div>

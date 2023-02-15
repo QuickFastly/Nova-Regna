@@ -1,6 +1,8 @@
 ---
 share: true
-tags: PG, CM, Shinzen
+tags: PG, CM, Shinzen, maplocation
+location: [1221.6641, 3008.9375]
+mapmarker: location
 ---
 <div>
   <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">City of Hashiri</span>

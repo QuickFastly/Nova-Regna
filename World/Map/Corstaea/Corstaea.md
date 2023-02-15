@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Corstaea
+tags: Corstaea, maplocation
+location: [2526.6693, 5101.0683]
+mapmarker: country
 ---
 
 <div>

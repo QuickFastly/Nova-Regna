@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Shaohou
+tags: Shaohou, maplocation
+location: [1067.2009, 1209.1526]
+mapmarker: country
 ---
 
 <div>

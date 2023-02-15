@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Ustonia
+tags: Ustonia, maplocation
+location: [1463.1807, 4727.7159]
+mapmarker: country
 ---
 
 <div>

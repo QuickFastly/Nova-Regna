@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Alastor
+tags: Alastor, maplocation
+location: [1706.4696, 5582.9616]
+mapmarker: country
 ---
 
 <div>

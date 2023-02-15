@@ -1,7 +1,9 @@
 ---
 share: true
 comments: true
-tags: Destrea
+tags: Destrea, maplocation
+location: [1202.9654, 6074.0473]
+mapmarker: country
 ---
 
 <div>

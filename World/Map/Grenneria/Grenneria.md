@@ -85,7 +85,7 @@ mapmarker: country
 
 Grenneria, officially known as the Grennerian Federation, is a moderately sized country located on the eastern third of the continent of [[Ozen]], and is a member of the [[Ozen Federation]]. Its capital, [[Norizgrad]], is located in the heart of the country near the sea in the province of [[Roslaya]]. It is bordered by [[Corstaea]] and [[Osun Tanum]], and is also closely neighbored by [[Destrea]].
 
-Grenneria is a moderately developed country with a modest population, a troubled industrialized economy, and a modest military. Grenneria is credited for numerous developments in land-based combat strategy and tactics, as well as pioneering the use of gas-operated automatic rifles. However, troubling times befell the country in the early 20th century and greatly stunted their development, causing them to fall behind technologically. Their strategic prowess still shines despite their obsolete weaponry, allowing them to remain formidable in smaller scale land-based engagements.
+Grenneria is a moderately developed country with a modest population, a troubled industrialized economy, and a modest military. Grenneria is credited for numerous developments in land-based combat strategy and tactics, as well as pioneering the use of gas-operated automatic rifles. However, troubling times befell the country in the mid 20th century and greatly stunted their development, causing them to fall behind technologically. Their strategic prowess still shines despite their obsolete weaponry, allowing them to remain formidable in smaller scale land-based engagements.
 
 Alone, Grenneria is the weakest link of the Ozen Federation, and actively relies on it for aid in areas where the country falls short, but as part of a greater whole, they are still a vital element. For decades, the Grennerian government has often expressed distaste with the policies of the Ozen Federation, but carefully avoids becoming too troublesome under threat of ejection. Conversely, the Ozen Federation does not want to lose Grenneria and works to sustain their people and please their government without compromising the Federation. This delicate balancing act is a huge stressor on the whole Federation.
 
@@ -95,7 +95,7 @@ TBD
 
 ## Geography
 
-Grenneria is an almost entirely flat region with the exception of the lower half of [[Himlavård]] cutting through it. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.
+Grenneria is encompassed by the [[Himlavård]] mountain range, making nearly half of the land in the region quite mountainous, while the remainder of the land to the east and the south is largely flat with sporadic hills. The whole region is forested with a temperate climate to the south, a boreal climate through the center, and tundra to the north and surrounding the mountains.
 
 ## Government & Politics
 

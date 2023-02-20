@@ -140,7 +140,7 @@ The Halli people are potentially the first new ethnic group to be formed from th
 		
 		<tr style="border-bottom:1px solid #666">
 			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
-			<td style="padding:4px; vertical-align:middle">approx. 350 AI</td>
+			<td style="padding:4px; vertical-align:middle">approx. 350 AO</td>
 		</tr>
 	
 		<tr style="border-bottom:1px solid #666">

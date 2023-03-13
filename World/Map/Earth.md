@@ -38,7 +38,7 @@ For the sake of simplicity, rather than continuing to make a whole in-world page
 
 While the map will likely not be updated to show any new additions for quite some time, obviously there can be more cities than are currently labelled. There can also be small islands anywhere in the oceans even though they do not appear on the map, if that's something you find interesting.
 
-If you want to write in an island like that (or a new city) and precisely locate it on the map, you can use this [[_Degrees grid.png|degrees grid]] that fits inside cells of the map [[_Grid overlay.png|latitude and longitude grid]], and optionally even this [[_Minutes grid.png|minutes grid]] that fits inside the cells of the degrees grid in the image editing software of your choice to find precise-enough GPS coordinates. Alternatively, if you’re either viewing this in Obsidian or willing to do that, you can use this [[Interactive world map]].
+If you want to write in an island like that (or a new city) and precisely locate it on the map, you can use this [[_Degrees grid.png|degrees grid]] that fits inside cells of the map [[_Grid overlay.png|latitude and longitude grid]], and optionally even this [[_Minutes grid.png|minutes grid]] that fits inside the cells of the degrees grid in the image editing software of your choice to find precise-enough GPS coordinates. Alternatively, if you’re currently viewing this in Obsidian or willing to do that, you can use this [[Interactive world map]].
 
 This earth is about one fifth the size of the real world, but it experiences exactly the same gravity, seasons, sunrises and sunsets, tides, pressures, etc.
 

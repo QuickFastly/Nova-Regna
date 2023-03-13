@@ -91,7 +91,7 @@ Alone, Grenneria is the weakest link of the Ozen Federation, and actively relies
 
 ## History
 
-TBD
+[[1931 Battle of Himlavård]]
 
 ## Geography
 
@@ -149,7 +149,7 @@ Some primary exports of Grenneria are manufacturing, unskilled labor, and lumber
 
 ## Demographics
 
-Grenneria has historically acted towards [[Spirits|spirits]] with total ignorance, and continues to do so today. The government operates as though spirits don't exist at all, leading to severe systemic discrimination against them. On top of this, many Grennerian people treat spirits as objects of fascination more than individuals. It is assumed that the spirit population of the country is very small as a result, but there is no concrete information to investigate this.
+Grenneria has historically acted towards [[Spirits|spirits]] with hostility while publicly feigning total ignorance. While the overt hostility has ceased, the government still operates as though spirits don't exist at all, leading to severe systemic discrimination against them. On top of this, many Grennerian people treat spirits as objects of fascination more than individuals. It is assumed that the spirit population of the country is very small as a result, but there is no concrete information to investigate this.
 
 ### Education
 

@@ -61,7 +61,7 @@ The Tomoe program was originally intended to replace the Strider program, but in
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
 
 %% car engine codes
 ---

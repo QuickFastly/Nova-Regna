@@ -5,15 +5,15 @@ tags: Shinzen
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
 
-[[Inazuma Clan]]
-[[Kagetsu Clan]]
-[[Seki Clan]]
-[[Yō Clan]]
-[[Itō Clan]]
-[[Endō Clan]]
-[[Ikute Clan]]
-[[Iwahara Clan]]
-[[Miura Clan]]
+[[Inazuma Clan]]\
+[[Kagetsu Clan]]\
+[[Seki Clan]]\
+[[Yō Clan]]\
+[[Itō Clan]]\
+[[Endō Clan]]\
+[[Ikute Clan]]\
+[[Iwahara Clan]]\
+[[Miura Clan]]\
 [[Suzuka Clan]]
 
 [[Miwa Family]]
@@ -24,7 +24,7 @@ tags: Shinzen
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
 
 %%
 廝子野 shisuya (servant child field)

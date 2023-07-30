@@ -34,6 +34,6 @@ The Shakotan ward includes the towns of [[Okamiwa]], [[Teruno]], [[Etazu]], [[Ki
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
 
 [^1]: I'm not writing my own page for what a designated city is. At least not yet. Look at [this Wikipedia page](https://en.wikipedia.org/wiki/Cities_designated_by_government_ordinance_of_Japan) instead. It also explains what a ward is in this context.

@@ -43,4 +43,4 @@ Regardless of the criticism and skepticism, the overwhelming majority of people 
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)

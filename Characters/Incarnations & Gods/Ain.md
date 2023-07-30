@@ -17,4 +17,4 @@ She creates butterflies much like the one that's part of Kerosyn out of origami.
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)

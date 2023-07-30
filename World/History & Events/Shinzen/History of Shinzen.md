@@ -60,7 +60,7 @@ TBD
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
 
 %% late yayoi - 關 seki (gateway) %%
 %% kofun-asuka - 榮 yō (honor) %%

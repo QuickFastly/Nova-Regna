@@ -189,7 +189,7 @@ TBD
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Mastodon](https://social.tripulse.net/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
 
 %% Takagawa coordinates: La. -10°8' Lo. -37°28' (?) %%
 %% Shiga Coordinates: 5°26'S 108°23'W (?) %%

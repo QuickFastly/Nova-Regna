@@ -163,7 +163,7 @@ Now then, on to some of the ways you can contribute.
 
 If you would rather not fiddle with git but you still want to contribute something, you can [submit an issue](https://github.com/QuickFastly/Nova-Regna/issues) without the need for anything more than a GitHub account. Click on the New Issue button at the top right and off you go. If you aren't familiar with git, this will be the easiest for you.
 
-Are you suggesting a small edit, correction, or improvement to a page? Paste a link to the page in question (either from [the wiki](https://wiki.kitabe.link) or [the repo](https://github.com/QuickFastly/Nova-Regna)), then include the text you want changed, followed by your proposed changes. If you're suggesting an addition rather than a change, just say so.
+Are you suggesting a small edit, correction, or improvement to a page? Paste a link to the page in question (either from [the wiki](https://wiki.kerosyn.link) or [the repo](https://github.com/QuickFastly/Nova-Regna)), then include the text you want changed, followed by your proposed changes. If you're suggesting an addition rather than a change, just say so.
 
 Are you suggesting the addition of an entirely new page? Write a little bit about what your new page is and why you want to add it, then attach the page as a separate file. It's strongly preferred to attach `.md` files with [Obsidian Markdown](https://help.obsidian.md/How+to/Format+your+notes) formatting, but `.txt`, `.odt`, `.rtf`, and `.docx` files are acceptable. If you want to be credited for your work, make sure you use the [author info](https://raw.githubusercontent.com/QuickFastly/Nova-Regna/main/_templates/Author%20info.md) template at the bottom of your page!
 

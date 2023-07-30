@@ -59,4 +59,4 @@ Essentially, unless you *want* to overthink it, just think of this world in exac
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kitabe.link) // [Twitter](https://twitter.com/Kerosyn_)
+> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)

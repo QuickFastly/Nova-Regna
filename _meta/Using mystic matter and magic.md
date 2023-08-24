@@ -24,7 +24,7 @@ It is extremely difficult, but not completely impossible, for a user to teach an
 
 The only other consideration for where this power comes from is that it's based on the manipulation of mystic matter, a physical substance that exists in the world. This ability doesn't create new matter, it uses existing mystic matter to reshape into what the user desires, or to perform otherwise impossible tasks.
 
-If you want to overthink it, the main aspects of this usage are quantum fields and antimatter annihilation, and there's way more antimatter to exploit in this reality due to mystic matter being 50% antimatter, but you should only think about all that if you think it's fun to overthink, this isn't real science and it doesn't have to follow real rules.
+If you want to overthink it, the main aspects of this usage are quantum fields and antimatter annihilation, and there's way more antimatter to exploit in this reality due to mystic matter being 50% antimatter, but you should only think about all that if you think it's fun to overthink, this isn't real science and it doesn't follow real rules.
 
 Some areas of the world have higher or lower concentrations of this matter than normal, and that will have an effect on attunement users in those areas. Less proficient users may find themselves completely unable to use their abilities in particularly desolate regions.
 
@@ -84,7 +84,7 @@ Go wild with that one.
 
 And finally, the topic of balance. Attunement as an ability is inherently unbalanced, no matter how weak the character is. Even if all the character can do is move a pencil on a table without touching it, that's more than the vast majority of people are capable of. *Everything* this ability can do is a direct advantage in some way.
 
-So what is "balanced" then? Obviously one-on-one matchups against an attunement user will never be balanced, so you have to consider a larger scale. Can the character take on an army, head first? You've gone too far. Can they take on an armed squad of eight people, unarmed? Sure, if you can make it believable. Perhaps a more interesting *and* believable overpowered scenario, however, would be a character that utilizes supernatural eyesight and telepathy to control a battlefield from the background as a tactician.
+So what is "balanced" then? Obviously one-on-one matchups against an attunement user will never be balanced, so you have to consider a larger scale. Can the character take on an army, head first? You've gone too far, even for incarnations. Can they take on an armed squad of eight people, unarmed? Sure, if you can make it believable. Perhaps a more interesting *and* believable overpowered scenario, however, would be a character that utilizes supernatural eyesight and telepathy to control a battlefield from the background as a tactician.
 
 You should also bear in mind that this ability is incredibly rare, occurring in less than 1/25,000 [[Human|humans]], 1/3,000 minor [[Spirits|spirits]], and 1/1,000 major spirits. Even among such small numbers, the majority of these people have weak abilities, or might not have even noticed their abilities themselves. A character with attunement is going to stand out, and the more powerful their ability, the more eyes will be on them... perhaps even drawing the attention of authorities or shadowy organizations. Remember that impact, because it wouldn't be very believable to have a character with the ability to level a building with their mind that still goes to school every day like a normal kid. At least, not if anybody *knows* they can do that.
 

@@ -24,7 +24,7 @@ While it is possible for [[Human|humans]] to have attunement as well, it is extr
 
 ## Cultural reception
 
-Treatment of people affected by attunement has varied greatly throughout history depending on the cultures of the time. Some were treated as divine, others treated as demons, some as monsters, and everything in between. After the discovery of mystic matter, attuned people became idolized and now enjoy great popularity.
+Treatment of people affected by attunement has varied greatly throughout history depending on the cultures of the time. Some were treated as divine, others treated as demons, some as monsters, and everything in between. After the discovery of mystic matter, attuned people slowly became idolized and now enjoy great popularity in much of the world, though they still struggle with prejudice in many rural areas, particularly among older generations.
 
 [^1]: [[Using mystic matter and magic]] (Meta)
 

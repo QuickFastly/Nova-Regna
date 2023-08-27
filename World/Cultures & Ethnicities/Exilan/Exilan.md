@@ -279,7 +279,7 @@ The Macan people are a cultural melting pot, formed from a variety of Mandese, A
   </table>
 </div>
 
-The Oxi people are descended from the Mandese people of [[Manden]], who identified themselves as Oxi after the colonization of [[Roxware]], [[Oxbalt]] in 1639, also forcing the name Old Oxi universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
+The Oxi people are descended from the Mandese people of [[Manden]], who identified themselves as Oxi after the colonization of [[Roxware]], [[Oxbalt]] in 1639, also forcing the name Old Oxi universally onto the many diverse [[Ciraza]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 ### Arkan people
 
@@ -311,7 +311,7 @@ The Oxi people are descended from the Mandese people of [[Manden]], who identifi
   </table>
 </div>
 
-The Arkan people are descended from the Allenesian people of [[Hartmond]], who identified themselves as Arkan after the colonization of [[Centralia]], [[Arkbay]] in 1643, also forcing the name Native Arkans universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
+The Arkan people are descended from the Allenesian people of [[Hartmond]], who identified themselves as Arkan after the colonization of [[Centralia]], [[Arkbay]] in 1643, also forcing the name Native Arkans universally onto the many diverse [[Ciraza]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 ### Graven people
 
@@ -343,7 +343,7 @@ The Arkan people are descended from the Allenesian people of [[Hartmond]], who i
   </table>
 </div>
 
-The Graven people are descended from the Oster people of [[Osterfeld]], who identified themselves as Graven after the colonization of [[Gravenwood]], [[Lonfolk]] in 1647, also forcing the name First Gravens universally onto the many diverse [[Cirazan]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
+The Graven people are descended from the Oster people of [[Osterfeld]], who identified themselves as Graven after the colonization of [[Gravenwood]], [[Lonfolk]] in 1647, also forcing the name First Gravens universally onto the many diverse [[Ciraza]] natives they displaced. They speak Halli, an [[Irovell]] language, due to being forced to learn it to facilitate their journey across the ocean with the help of Halli sailors, as they were not otherwise capable. Thanks to that, the formation of [[Ustonia]] has made Halli the world's most commonly spoken language.
 
 -----
 > [!cite] Author info

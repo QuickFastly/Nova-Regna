@@ -310,7 +310,7 @@ The Storran people are an ethnic group descended from the Valosian people, origi
   </table>
 </div>
 
-The Nazene people were originally descended from the ancient [[Farodet]] people, but after settling what is now known as [[Nazavat]], [[Grenneria]], and their proximity to the coast of what is now [[Destrea]], they experienced heavy [[Cirazan]] influence through much of history and even had close relations with the [[Alessan Empire]]. The Nazene language today has much more in common with Common Alessan than any Farodet language.
+The Nazene people were originally descended from the ancient [[Farodet]] people, but after settling what is now known as [[Nazavat]], [[Grenneria]], and their proximity to the coast of what is now [[Destrea]], they experienced heavy [[Ciraza]] influence through much of history and even had close relations with the [[Alessan Empire]]. The Nazene language today has much more in common with Common Alessan than any Farodet language.
 
 -----
 > [!cite] Author info

@@ -10,8 +10,8 @@ The population of [[Earth]], both [[Human|human]] and [[Spirits|spirit]], is com
 <span align="center" style="float:right; clear:right; width:260px; margin-left:14px; font-size:10px">![[cc _parents.png|250]]<br><i>World population by major ethnic groups</i><br><br>![[Flat (Indigenous skin tones).jpg|250]]<br><i>Average skin tone distribution of indigenous peoples and early generation first settlers</i></span>
 
 The seven major ethnic groups are as follows.
-- [[Chiyan]], originating from central [[Sangyon]]
-- [[Cirazan]], originating from eastern [[Destrea]]
+- [[Chiya]], originating from central [[Sangyon]]
+- [[Ciraza]], originating from eastern [[Destrea]]
 - [[Exilan]], originating from northern [[Corstaea]]
 - [[Farodet]], originating from central [[Grenneria]]
 - [[Irovell]], originating from northern [[Osun Tanum]]

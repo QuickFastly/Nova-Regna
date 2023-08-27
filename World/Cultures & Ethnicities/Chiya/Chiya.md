@@ -88,7 +88,7 @@ More TBD
   </table>
 </div>
 
-The Sun people are the first new ethnic group to be formed from the [[Chiyan]] people, migrating south from what is now [[Dangje]] to what is now [[Tanbaek]], [[Sangyon]]. The ethnogenesis of this group seems to have been caused by lingual differences, as their language, Nirukti, has been found in ancient writings at least as old as the first Chiyan people alongside some of the oldest known Nalamal texts.
+The Sun people are the first new ethnic group to be formed from the [[Chiya]] people, migrating south from what is now [[Dangje]] to what is now [[Tanbaek]], [[Sangyon]]. The ethnogenesis of this group seems to have been caused by lingual differences, as their language, Nirukti, has been found in ancient writings at least as old as the first Chiyan people alongside some of the oldest known Nalamal texts.
 
 ### Taesian people
 
@@ -120,7 +120,7 @@ The Sun people are the first new ethnic group to be formed from the [[Chiyan]] p
   </table>
 </div>
 
-The Taesian people are the second ethnic group of [[Chiyan]] lineage that came to be through the growing regional differences among the first Sun people, migrating south from what is now [[Tanbaek]] to what is now [[Tanje]], [[Sangyon]]. Their language, Talidah, is a relative of the Sun language, Nirukti, but today only shares a small number of common words. Their language shares some similarity with Yáhuà, the language spoken by the Suo people, suggesting frequent cultural exchange despite the distance.
+The Taesian people are the second ethnic group of [[Chiya]] lineage that came to be through the growing regional differences among the first Sun people, migrating south from what is now [[Tanbaek]] to what is now [[Tanje]], [[Sangyon]]. Their language, Talidah, is a relative of the Sun language, Nirukti, but today only shares a small number of common words. Their language shares some similarity with Yáhuà, the language spoken by the Suo people, suggesting frequent cultural exchange despite the distance.
 
 ### Jeonese people
 
@@ -152,7 +152,7 @@ The Taesian people are the second ethnic group of [[Chiyan]] lineage that came t
   </table>
 </div>
 
-The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to be after the Taesian people settled what is now [[Jeonsan]], [[Sangyon]], and developed their own unique culture around the dense rainforest and tall hills of their new land, in stark contrast to the reliance on the sea found in [[Tanje]]. Their language, Jalisah, is a very close relative of the Taesian  language, Talidah, and they are generally mutually intelligible.
+The Jeonese people are the third ethnic group of [[Chiya]] lineage that came to be after the Taesian people settled what is now [[Jeonsan]], [[Sangyon]], and developed their own unique culture around the dense rainforest and tall hills of their new land, in stark contrast to the reliance on the sea found in [[Tanje]]. Their language, Jalisah, is a very close relative of the Taesian  language, Talidah, and they are generally mutually intelligible.
 
 ### Cheosan people
 
@@ -184,7 +184,7 @@ The Jeonese people are the third ethnic group of [[Chiyan]] lineage that came to
   </table>
 </div>
 
-The Cheosan people are the fourth ethnic group of [[Chiyan]] lineange that came to be after being pushed to the edges of the mainland by the first Chiyans for speaking a different language, first identifying themselves as a unique culture a century after settling the islands of [[Cheosu]], [[Sangyon]]. They seem to have originally spoken Nirukti, but eventually developed into the unique language they speak today.
+The Cheosan people are the fourth ethnic group of [[Chiya]] lineange that came to be after being pushed to the edges of the mainland by the first Chiyans for speaking a different language, first identifying themselves as a unique culture a century after settling the islands of [[Cheosu]], [[Sangyon]]. They seem to have originally spoken Nirukti, but eventually developed into the unique language they speak today.
 
 -----
 > [!cite] Author info

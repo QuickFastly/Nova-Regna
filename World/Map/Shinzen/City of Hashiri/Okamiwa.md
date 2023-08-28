@@ -1,12 +1,12 @@
 ---
 share: true
-tags: PG, Shinzen
+tags: PG, CM, Shinzen
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Asakawa</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Okamiwa</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Asakawa is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It is home to a massive commercial district, extremely high density residential zones, the Asakawa University campus, [[Asakawa Tower (better name TBD)]], and the [[Hijiya Corporation]] headquarters, [[Hijiya Tower]].
+Okamiwa is a town located within the [[Shakotan ward]] of the city of [[City of Hashiri]] that spans all the way into the northern mountains beyond typical city limits. It is a primarily residential old town area, with historical villages to the north, including the mountain village that is home to the [[Miwa Family]].
 
 -----
 > [!cite] Author info

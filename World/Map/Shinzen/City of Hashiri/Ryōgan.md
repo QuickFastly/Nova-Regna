@@ -6,7 +6,7 @@ tags: PG, Shinzen
 > This page is a stub, here as a reminder for later.
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Kitabe</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Ryōgan</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Kitabe is a town within the [[Shakotan ward]] of the city of [[Hashiri]]. It is a primarily residential area with a large low-density sprawl. It is also home to the [[Kitabe Proving Grounds]].
+Ryōgan is a small town located within the [[Kanjō ward]] of the city of [[City of Hashiri]] that spans the length of the northern shoreline. It is a low density area with an even distribution of residential and industrial uses across the shoreline, along with a large mountain pass to reach three small historic self-sufficient residential areas. Despite being geographically closer to [[Ginya]], the Hashiri International Airport is also considered to be part of Ryōgan.
 
 -----
 > [!cite] Author info

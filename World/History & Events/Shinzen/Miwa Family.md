@@ -32,7 +32,7 @@ tags: Shinzen
     </table>
   </div>
 
-A pseudo-noble family of [[Fox]] [[Spirits]] with centuries of history and folklore centered around them from the [[Okamiwa]] area of [[Hashiri]] in [[Sumitori]], [[Shinzen]].
+A pseudo-noble family of [[Fox]] [[Spirits]] with centuries of history and folklore centered around them from the [[Okamiwa]] area of [[City of Hashiri]] in [[Sumitori]], [[Shinzen]].
 
 They own an operate a historic, traditional inn and hot spring on the mountainside overlooking the city.
 

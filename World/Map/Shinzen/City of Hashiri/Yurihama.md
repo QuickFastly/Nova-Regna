@@ -6,7 +6,7 @@ tags: PG, Shinzen
 > This page is a stub, here as a reminder for later.
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Sanzan</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Yurihama</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Sanzan is a town within the [[Kanjō ward]] of the city of [[Hashiri]]. It is a primarily residential area with both high and low density areas, and has commercial and office space distributed evenly throughout. It is popular among people who enjoy visiting [[Ginya]], but either cannot afford to live there or prefer a quieter lifestyle.
+Yurihama is a town located within the [[Kanjō ward]] of the city of [[City of Hashiri]] that spans the length of the eastern shoreline and reaches the base of the mountain. It is a high density area primarily dedicated to commercial and clean industrial uses, but is also a popular tourist destination due to the thriving night life in the area.
 
 -----
 > [!cite] Author info

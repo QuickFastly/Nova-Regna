@@ -6,7 +6,7 @@ tags: PG, Shinzen
 > This page is a stub, here as a reminder for later.
 
 <div>
-  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Iwaji</span>
+  <span style="float:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; font-size:larger; font-weight:bold; text-align:center; padding:4px">Etazu</span>
   </div>
 
   <span style="float:right; clear:right; width:260px; margin-left:14px; border-left:2px solid #666; border-right:2px solid #666; border-collapse:collapse; text-align:center; padding-top:4px">![[blankpage.png|250]]</span>
@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Iwaji is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It is a primarily residential area with both high density and low density areas divided by a small commercial district, and is home to a large mining operation and industrial airport.
+Etazu is a town located within the [[Shakotan ward]] of the city of [[City of Hashiri]]. It is a mixed use area with a large oil extraction and refining industry located in the center of the town.
 
 -----
 > [!cite] Author info

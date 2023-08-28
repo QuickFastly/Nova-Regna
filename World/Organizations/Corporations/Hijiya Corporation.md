@@ -44,7 +44,7 @@ comments: true
     </table>
   </div>
 
-The Hijiya Corporation is a family owned business headquartered in [[Hijiya Tower]], located in the city of [[Hashiri]] in [[Sumitori]], [[Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence programs.
+The Hijiya Corporation is a family owned business headquartered in [[Hijiya Tower]], located in the city of [[City of Hashiri]] in [[Sumitori]], [[Shinzen]]. It is well known for its groundbreaking innovations in several fields, most notably in energy generation with the invention of the [[EVA Driver]], a palm-sized device capable of powering a home with no fuel or byproducts, plus development of what are by far the world's most advanced artificial intelligence programs.
 
 While Hijiya products are a rare sight in most of the world, they're everywhere in their home country of Shinzen, where the company is a national icon celebrated for not just it's work and products, but also for both its extensive humanitarian efforts and its staunch dedication to remaining independent, never outsourcing work or selling to foreign companies like [[11K]] and [[Concordia]]. Among past, current, and prospective employees, the company is also renowned for its highly considerate people-first attitude, making it one of only a handful of corporations in Shinzen that are not victim to the rampant workaholism of the country.
 

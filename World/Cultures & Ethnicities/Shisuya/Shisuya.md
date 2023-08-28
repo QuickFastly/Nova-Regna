@@ -52,7 +52,7 @@ The Shisuya people, also referred to as Suya, are one of the seven major [[Cultu
 
 They speak Suyago, a distant evolution of the ancient Proto-Avanic language, which has yet to be fully reconstructed. The earliest translated artifacts date back to approximately 15 AO, and they document the procedures used to select the people for each of the five migratory groups split from the first Shisuya people, suggesting that the oldest ethnic subgroups of the Shisuya may have been present since [[Era Dira]], and may in fact have been more genetically distinct than previously thought.
 
-The name "Suya" was used in all historical text, with the earliest written record of the name "Shisuya" being found in 1505. The new name coincides with the conquest and unification of Shinzen by the [[Kagetsu Clan]], originally intended to refer to all people of Shinzen, which seems to have been enforced throughout their conquest and into the [[History of Shinzen#Asahi period (1537-1812)|Asahi period]]. The use of "Suya" continued to be used by a few people, and has seen a resurgence in recent years, but is still less common.
+The name "Suya" was used in all historical text, with the earliest written record of the name "Shisuya" being found in 1505. The new name coincides with the conquest and unification of Shinzen by the [[Kagetsu Clan]], originally intended to refer to all people of Shinzen, which seems to have been enforced throughout their conquest and into the [[History of Shinzen#Asahi period (1537-1812)|Asahi period]]. The use of "Suya" continued to be used by a few people, and has seen a resurgence in recent years, but it remains the less commonly used name for the people, both nationally and internationally.
 
 More TBD
 

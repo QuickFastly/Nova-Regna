@@ -8,7 +8,7 @@ While spirits appear remarkably similar to humans, even to the point of being ef
 
 Despite there likely being a type of spirit for virtually every animal, and even some varieties of plant, only eight types of spirit are of particular prominence. These eight varieties of spirit are significantly different from humans and each other, and are referred to as "major spirits".
 
-All other varieties of spirit are referred to as "minor spirits" and are typically much less distinct from humans, even sometimes being hard to distinguish at all from humans or each other, while also making up only a combined ~8.5% of all spirits. However, very rare examples may be so extremely different from humans and even major spirits spirits that they can appear almost alien.
+All other varieties of spirit are referred to as "minor spirits" and are typically much less distinct from humans, even sometimes being hard to distinguish at all from humans or each other, while also making up only a combined ~8.5% of all spirits. However, very rare examples may be so extremely different from humans and even major spirits spirits that they can appear almost alien, but are still considered minor due to being extremely few in number.
 
 ## History
 

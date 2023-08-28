@@ -14,6 +14,7 @@ comments: true
 > - **Okyu** | Inspired by = Ryukyuan people
 > - **Anzu** | Inspired by = Hayato people
 > - **Toru** | Inspired by = Azumi people
+> - **Gomi** | Inspired by = Emishi people
 >
 > The languages here are listed with their nearest real-world equivalent underneath them. While you can for the most part treat them as 1-to-1 equals, they should still be considered sources of inspiration rather than absolute equivalents, so that we have room to maneuver when making up new stuff. Which you shouldn't be afraid to do, by the way.
 > 
@@ -185,6 +186,38 @@ The Anzu people are an ethnic group thought to be descended from the [[Shisuya]]
 </div>
 
 The Toru people are an ethnic group thought to be descended from the [[Shisuya]] that first settled what is known today as [[Kenshiri]], [[Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Toru people has yet to be discovered. They speak Torugo, a unique dialect of Suyago that can cause confusion for some native speakers of Suyago, but is generally perceived as a more passionate, direct, and forceful way of speaking.
+
+### Gomi people
+
+<div class="" style="float:right; clear:right">
+  <table class="" style="float:right; clear:right; width:260px; margin-left:14px; border:2px solid #666; line-height:1.5; border-collapse:collapse; font-size:small">
+	<tr>
+		<th colspan="2" style="border-bottom:2px solid #666; font-size:larger; padding:4px; font-weight:bold; text-align:center; vertical-align:middle">Toru people</th>
+	</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Population</b></td>
+			<td style="padding:4px; vertical-align:middle">TBD</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Place of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">Kuminachi, Shinzen</td>
+		</tr>
+		
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Time of origin</b></td>
+			<td style="padding:4px; vertical-align:middle">15 AO or earlier</td>
+		</tr>
+	
+		<tr style="border-bottom:1px solid #666">
+			<td style="padding:4px; vertical-align:middle"><b>Language</b></td>
+			<td style="padding:4px; vertical-align:middle">Gosui<br><i>(Hachijō Japanese)</i></td>
+		</tr>
+  </table>
+</div>
+
+The Gomi people are an ethnic group thought to be descended from the [[Shisuya]] that first settled what is known today as [[Kuminachi]], [[Shinzen]]. Precisely where they came from and when they came to be is still a subject that requires further study, as strong evidence from earlier than approximately the year 15 AO which points to the origins of the Gomi people has yet to be discovered. Their native language, Gosui, is extremely divergent and mostly unintelligible to speakers of Suyago and its dialects. It shares much in common with ancient Suyago, however, and is thought to be the closest thing to Proto-Avanic. It is a highly endangered language, as the only speakers of it are elderly.
 
 -----
 > [!cite] Author info

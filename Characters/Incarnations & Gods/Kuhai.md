@@ -191,6 +191,7 @@ sorry nothing
 
 - Most people believe her "Charmer" nickname came from her short temper and blunt words, but she actually got this nickname from trying to backtalk Freya. She failed miserably, got flustered, turned beet red, and stuttered up a storm, so she gave up and scurried away. And nobody close to her plans on letting her forget that any time soon.
 - She speaks only two languages fluently. Everyone she knows in the Risky Witches speaks at least four languages fluently. She wants to learn more to keep up with everyone else, but has extreme difficulty with that and is ashamed of it.
+- She is a naturally gifted vocalist with an impressive range, both in pitch and in style, covering everything from soft falsetto to extreme screams.
 
 -----
 > [!cite] Author info

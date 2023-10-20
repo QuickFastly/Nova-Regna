@@ -190,6 +190,7 @@ sorry nothing
 
 - Being so uptight, trying so hard to act mysterious and noble, being the only man among the incarnations, there are plenty of fitting reasons for his "Princess" nickname. As for its real origin, it came from Freya teasing him about the flowers on his antlers.
 - Being blind from birth, yet still able to see thanks to his alignment, Dvalinn has a strange relationship with color. He knows what basic colors are, and what colors many things are meant to be, but does not actually know what color looks like to a sighted person.
+- Plays the nyckelharpa and tagelharpa.
 
 -----
 > [!cite] Author info

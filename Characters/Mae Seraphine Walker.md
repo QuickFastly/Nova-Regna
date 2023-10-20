@@ -133,6 +133,10 @@ Mae is loosely affiliated with both the church of [[Rethianity]] and [[The Open 
 
 When she was 19, she decided to marry a man from [[Arkbay]] and move there with him. Rather than simply take his last name, she took the opportunity to change her full name to sound more Arkan. Their marriage lasted less than two years, but she took quite a liking to her new name and kept it.
 
+## Trivia
+
+- Plays violin and piano, primarily in folk styles.
+
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\

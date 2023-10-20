@@ -190,6 +190,7 @@ sorry nothing
 
 - Her nickname, "Dizzy", is probably from her clumsy and scatterbrained nature during downtime with the Risky Witches. Or maybe it's from how she can switch from that to the cold and efficient super soldier so quickly that it makes people's heads spin. Who knows?
 - Another reason she is so close with Haida is because Haida's [[Haida#Special abilities|abilities]] quiet the chaos in her head, allowing her some rare respite without solitude or stress. She will often be leaning on Haida, holding her shoulders, or carrying Haida on her own shoulders for that reason.
+- Plays anything and everything with strings, but favors the five string bass guitar, using the fifth string as a drone string.
 
 ## See Also
 

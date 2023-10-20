@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Teruno is a town located within the [[Shakotan ward]] of the city of [[City of Hashiri]]. It is home to the nation's largest shopping center for entertainment media, electronics, and computer-related goods, considered by many to be the center of modern Shinzenese popular culture. It is also home to the Teruno Technical School, the largest trade school campus in the country.
+Teruno is a town located within the [[Shakotan ward]] of the city of [[Hashiri]]. It is home to the nation's largest shopping center for entertainment media, electronics, and computer-related goods, considered by many to be the center of modern Shinzenese popular culture. It is also home to the Teruno Technical School, the largest trade school campus in the country.
 
 -----
 > [!cite] Author info

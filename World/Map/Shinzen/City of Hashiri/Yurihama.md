@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Yurihama is a town located within the [[Kanjō ward]] of the city of [[City of Hashiri]] that spans the length of the eastern shoreline and reaches the base of the mountain. It is a high density area primarily dedicated to commercial and clean industrial uses, but is also a popular tourist destination due to the thriving night life in the area.
+Yurihama is a town located within the [[Kanjō ward]] of the city of [[Hashiri]] that spans the length of the eastern shoreline and reaches the base of the mountain. It is a high density area primarily dedicated to commercial and clean industrial uses, but is also a popular tourist destination due to the thriving night life in the area.
 
 -----
 > [!cite] Author info

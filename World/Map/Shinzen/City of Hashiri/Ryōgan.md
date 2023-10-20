@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Ryōgan is a small town located within the [[Kanjō ward]] of the city of [[City of Hashiri]] that spans the length of the northern shoreline. It is a low density area with an even distribution of residential and industrial uses across the shoreline, along with a large mountain pass to reach three small historic self-sufficient residential areas. Despite being geographically closer to [[Ginya]], the Hashiri International Airport is also considered to be part of Ryōgan.
+Ryōgan is a small town located within the [[Kanjō ward]] of the city of [[Hashiri]] that spans the length of the northern shoreline. It is a low density area with an even distribution of residential and industrial uses across the shoreline, along with a large mountain pass to reach three small historic self-sufficient residential areas. Despite being geographically closer to [[Ginya]], the Hashiri International Airport is also considered to be part of Ryōgan.
 
 -----
 > [!cite] Author info

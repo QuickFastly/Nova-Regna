@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Asakawa is a town located within the [[Kaidō ward]] of the city of [[City of Hashiri]]. It is home to a massive commercial district, extremely high density residential zones, the Asakawa University campus, [[Asakawa Tower (better name TBD)]], and the [[Hijiya Corporation]] headquarters, [[Hijiya Tower]].
+Asakawa is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It is home to a massive commercial district, extremely high density residential zones, the Asakawa University campus, [[Asakawa Tower (better name TBD)]], and the [[Hijiya Corporation]] headquarters, [[Hijiya Tower]].
 
 -----
 > [!cite] Author info

@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Wahara is a town located within the [[Kanjō ward]] of the city of [[City of Hashiri]]. Along with a large area of extremely high density and modern residential buildings, it is home to a large industrial agriculture operation that produces nearly all of the food consumed in the city, excluding seafood, while producing enough surplus to financially support itself entirely through exports, leading to the benefit of locally-produced food being able to be sold at very low prices within the city.
+Wahara is a town located within the [[Kanjō ward]] of the city of [[Hashiri]]. Along with a large area of extremely high density and modern residential buildings, it is home to a large industrial agriculture operation that produces nearly all of the food consumed in the city, excluding seafood, while producing enough surplus to financially support itself entirely through exports, leading to the benefit of locally-produced food being able to be sold at very low prices within the city.
 
 -----
 > [!cite] Author info

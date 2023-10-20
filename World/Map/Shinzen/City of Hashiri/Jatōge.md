@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Jatōge is a very small mountain town located within the [[Shakotan ward]] of the city of [[City of Hashiri]]. It is a primarily residential area with many residents being fully or nearly self-sufficient, but in modern times has seen enough commercial growth for most residents to prefer the convenience of shopping over self-sufficiency.
+Jatōge is a very small mountain town located within the [[Shakotan ward]] of the city of [[Hashiri]]. It is a primarily residential area with many residents being fully or nearly self-sufficient, but in modern times has seen enough commercial growth for most residents to prefer the convenience of shopping over self-sufficiency.
 
 It was a popular area among driving enthusiasts due to its one continuous road that winds and cuts through the mountain.
 

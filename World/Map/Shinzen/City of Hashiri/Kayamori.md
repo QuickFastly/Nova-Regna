@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Kayamori is a town located within the [[Kaidō ward]] of the city of [[City of Hashiri]]. It is a primarily residential area with both high density and low density areas in close proximity, also containing a large protected park area and a large forestry and logging operation.
+Kayamori is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It is a primarily residential area with both high density and low density areas in close proximity, also containing a large protected park area and a large forestry and logging operation.
 
 -----
 > [!cite] Author info

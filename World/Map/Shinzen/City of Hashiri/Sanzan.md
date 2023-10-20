@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Sanzan is a town within the [[Kanjō ward]] of the city of [[City of Hashiri]]. It is a primarily residential area with both high and low density areas, and has commercial and office space distributed evenly throughout. It is popular among people who enjoy visiting [[Ginya]], but either cannot afford to live there or prefer a quieter lifestyle.
+Sanzan is a town within the [[Kanjō ward]] of the city of [[Hashiri]]. It is a primarily residential area with both high and low density areas, and has commercial and office space distributed evenly throughout. It is popular among people who enjoy visiting [[Ginya]], but either cannot afford to live there or prefer a quieter lifestyle.
 
 -----
 > [!cite] Author info

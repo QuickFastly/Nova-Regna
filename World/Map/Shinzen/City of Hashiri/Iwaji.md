@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Iwaji is a town located within the [[Kaidō ward]] of the city of [[City of Hashiri]]. It is a primarily residential area with both high density and low density areas divided by a small commercial district, and is home to a large mining operation and industrial airport.
+Iwaji is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. It is a primarily residential area with both high density and low density areas divided by a small commercial district, and is home to a large mining operation and industrial airport.
 
 -----
 > [!cite] Author info

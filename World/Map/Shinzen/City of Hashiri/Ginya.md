@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Ginya is a town located within the [[Kanjō ward]] of the city of [[City of Hashiri]]. It is a mixed use area with a balance of residential, commercial, and industrial uses, and is home to a landmark fortress and shrine build in the Ikute period, and the Ginya Art & Media College campus. It is considered the most prestigious area of Hashiri, and is the most expensive area within the city to live in.
+Ginya is a town located within the [[Kanjō ward]] of the city of [[Hashiri]]. It is a mixed use area with a balance of residential, commercial, and industrial uses, and is home to a landmark fortress and shrine build in the Ikute period, and the Ginya Art & Media College campus. It is considered the most prestigious area of Hashiri, and is the most expensive area within the city to live in.
 
 It was also a popular area among car enthusiasts due to the C1 expressway loop and the particularly large parking area connected to it.
 

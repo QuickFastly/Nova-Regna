@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Kitabe is a town within the [[Shakotan ward]] of the city of [[City of Hashiri]]. It is a primarily residential area with a large low-density sprawl. It is also home to the [[Kitabe Proving Grounds]].
+Kitabe is a town within the [[Shakotan ward]] of the city of [[Hashiri]]. It is a primarily residential area with a large low-density sprawl. It is also home to the [[Kitabe Proving Grounds]].
 
 -----
 > [!cite] Author info

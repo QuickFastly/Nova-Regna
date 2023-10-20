@@ -22,7 +22,7 @@ tags: PG, Shinzen
     </table>
   </div>
 
-Shakotan is the western ward of the city of [[City of Hashiri]], and is home to most of the city's old towns, historical areas, and dirty industry, along with the nation's largest shopping center for entertainment media, electronics, and computer-related goods, considered by many to be the center of modern Shinzenese popular culture. It contains the towns of [[Okamiwa]], [[Teruno]], [[Etazu]], [[Kitabe]], and [[Jatōge]].
+Shakotan is the western ward of the city of [[Hashiri]], and is home to most of the city's old towns, historical areas, and dirty industry, along with the nation's largest shopping center for entertainment media, electronics, and computer-related goods, considered by many to be the center of modern Shinzenese popular culture. It contains the towns of [[Okamiwa]], [[Teruno]], [[Etazu]], [[Kitabe]], and [[Jatōge]].
 
 -----
 > [!cite] Author info

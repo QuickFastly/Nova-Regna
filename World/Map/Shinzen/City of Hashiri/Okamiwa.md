@@ -22,7 +22,7 @@ tags: PG, CM, Shinzen
     </table>
   </div>
 
-Okamiwa is a town located within the [[Shakotan ward]] of the city of [[City of Hashiri]] that spans all the way into the northern mountains beyond typical city limits. It is a primarily residential old town area, with historical villages to the north, including the mountain village that is home to the [[Miwa Family]].
+Okamiwa is a town located within the [[Shakotan ward]] of the city of [[Hashiri]] that spans all the way into the northern mountains beyond typical city limits. It is a primarily residential old town area, with historical villages to the north, including the mountain village that is home to the [[Miwa Family]].
 
 -----
 > [!cite] Author info

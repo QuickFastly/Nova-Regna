@@ -1,7 +1,7 @@
 ---
 share: true
 comments: true
-tags: CotF
+tags: CotF, RD
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later.
@@ -105,7 +105,7 @@ tags: CotF
     </table>
   </div>
 
-Mae Seraphine Walker is the current High Seeker of the [[Children of the Flame]], and the right hand of [[The Sixth Storyteller]].
+Mae Seraphine Walker is officially the current High Seeker of the [[Children of the Flame]], and the right hand of [[The Sixth Storyteller]]. However, she is currently alone in [[Ilmaria]], separated from the organization.
 
 ## Physical description
 
@@ -140,4 +140,4 @@ When she was 19, she decided to marry a man from [[Arkbay]] and move there with 
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

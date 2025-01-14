@@ -1,5 +1,6 @@
 ---
-share: true
+share: false
+comments: true
 tags: PG
 ---
 > [!bug] Issue
@@ -16,4 +17,4 @@ Mild mannered and quiet in person, he only really shows his true self when behin
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

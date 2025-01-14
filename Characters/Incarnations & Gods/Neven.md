@@ -202,4 +202,4 @@ She owns a [Triumph Bonneville T120](https://imgur.com/TKVeaV9) that she travel
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

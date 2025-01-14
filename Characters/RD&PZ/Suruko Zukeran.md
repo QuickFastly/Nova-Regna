@@ -9,7 +9,9 @@ Daughter of [[Azenor Connaway]]. Friends and roommates with [[Near Amago]] and [
 
 瑞慶覧する子
 
+Okyu-Carlander
+
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

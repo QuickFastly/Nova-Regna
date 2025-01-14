@@ -27,4 +27,4 @@ Iwaji is a town located within the [[Kaidō ward]] of the city of [[Hashiri]]. I
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

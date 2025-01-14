@@ -1,5 +1,6 @@
 ---
-share: true
+share: false
+comments: true
 tags: PG
 ---
 > [!bug] Issue
@@ -20,4 +21,4 @@ Energetic, sly, and determined, dedicated entirely to rotary power. Always smili
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

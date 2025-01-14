@@ -1,5 +1,6 @@
 ---
-share: true
+share: false
+comments: true
 tags: CM
 ---
 > [!bug] Issue
@@ -10,4 +11,4 @@ A [[Fox]] spirit. Member of the [[Miwa Family]]. "Eldest" triplet sister of [[Ma
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

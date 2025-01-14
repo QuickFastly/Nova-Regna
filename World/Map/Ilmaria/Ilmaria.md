@@ -105,7 +105,7 @@ Ilmaria is an oligarchy run by only a small handful of elite 11K employees. Orig
 
 ### Administrative divisions
 
-Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [[Nova]], is an incredibly dense city accounting for over 70% of the population, most being laborers living in poverty. The upper level, [[Ventura]], is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged. The colossal building in the center of the nation known as Avalon is a third independently governed region, serving as the national capital, albeit with a fraction of the population of Ventura.
+Ilmaria is divided in two vertical tiers of land, each governed independently. The lower level, [[Nova]], is an incredibly dense city accounting for over 70% of the population, most being laborers living in near-poverty with extremely limited contact to the outside world. The upper level, [[Ventura]], is a spacious and beautiful utopia populated almost exclusively by the wealthy and privileged, and is typically the only part of Ilmaria that the people of the world have any real awareness of. The colossal building in the center of the nation known as Avalon is a third independently governed region, serving as the national capital, albeit with a fraction of the population of Ventura.
 
 ### Military
 
@@ -177,4 +177,4 @@ TBD
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

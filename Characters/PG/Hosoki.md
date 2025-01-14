@@ -1,5 +1,6 @@
 ---
-share: true
+share: false
+comments: true
 tags: PG
 ---
 > [!bug] Issue
@@ -18,4 +19,4 @@ Even colder and ruthless, forever rivals with Yoshida, and one of the only peopl
 -----
 > [!cite] Author info
 > **Kit** - *(AKA Kerosyn, or QuickFastly)*\
-> [Web zone](https://kerosyn.link) // [Social](https://a.tripulse.link/@kit)
+> [Web zone](https://kerosyn.link) // [Social](https://m.tripulse.link/@kit)

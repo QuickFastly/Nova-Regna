@@ -1,5 +1,6 @@
 ---
 share: true
+comments: false
 ---
 There are virtually zero restrictions on how you use almost anything in this world, you have total creative freedom with your own creations provided you abide by the appropriate license(s). Except for pages that explicitly say otherwise, everything here is licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Because of that, while you will be restricted to using the same or a compatible license on your work, it isn't even *possible* to control how you use this content.
 

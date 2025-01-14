@@ -1,5 +1,6 @@
 ---
 share: true
+comments: true
 tags: PG, CM, Shinzen, maplocation
 location: [1221.6641, 3008.9375]
 mapmarker: location

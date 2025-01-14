@@ -1,5 +1,7 @@
 ---
 share: true
+comments: true
+tags: Shinzen
 ---
 > [!bug] Issue
 > Extremely incomplete.

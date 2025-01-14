@@ -1,5 +1,6 @@
 ---
-share: true
+share: false
+comments: true
 tags: RD
 ---
 > [!bug] Issue
@@ -7,7 +8,7 @@ tags: RD
 
 Heir to the [[Hijiya Corporation]], but not currently taking her position. Daughter of [[Kaede Hijiya]] and [[Hana Hijiya]].
 
-Friends and roommates with [[Near Amago]] and [[Suruko Zukeran]].
+Friends and roommates with [[Near Lastname]] and [[Suruko Zukeran]].
 
 肱野のぞみ
 

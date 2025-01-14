@@ -1,5 +1,5 @@
 ---
-share: true
+share: false
 comments: true
 tags: PG, Shinzen
 ---

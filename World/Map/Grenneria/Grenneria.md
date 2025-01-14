@@ -1,12 +1,8 @@
 ---
 share: true
 comments: true
-tags:
-  - Grenneria
-  - maplocation
-location:
-  - 2424.8459
-  - 5847.7731
+tags: Grenneria, maplocation
+location: [2424.8459, 5847.7731]
 mapmarker: country
 ---
 

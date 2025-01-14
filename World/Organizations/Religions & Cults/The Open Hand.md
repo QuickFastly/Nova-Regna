@@ -1,5 +1,6 @@
 ---
 share: true
+comments: true
 ---
 > [!bug] Issue
 >stub for now, here to remind me to write this.

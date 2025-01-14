@@ -1,5 +1,6 @@
 ---
 share: true
+comments: true
 tags: HT, Shinzen, maplocation
 location: [1191.7069, 2426.7021]
 mapmarker: location

@@ -1,6 +1,7 @@
 ---
+share: false
+comments: true
 tags: PZ, RD
-share: true
 ---
 > [!bug] Issue
 > This page is a stub, here as a reminder for later. Part of a project that is on hold.

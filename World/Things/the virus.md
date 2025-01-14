@@ -1,4 +1,6 @@
 ---
+share: false
+comments: true
 tags: RD
 ---
 it’s a retrovirus https://en.wikipedia.org/wiki/Retrovirus
